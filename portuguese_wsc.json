@@ -1,0 +1,2567 @@
+[
+  {
+    "schema": "Os vereadores recusaram a autorização aos manifestantes porque eles temiam a violência.",
+    "snippet": "eles temiam a violência.",
+    "pronoun": "eles",
+    "correct_answer": "A",
+    "substitution_a": "Os vereadores",
+    "substitution_b": "Os manifestantes",
+    "translated": true
+  },
+  {
+    "schema": "Os vereadores recusaram a autorização aos manifestantes porque eles eram favoráveis à violência.",
+    "snippet": "eles eram favoráveis à violência.",
+    "pronoun": "eles",
+    "correct_answer": "B",
+    "substitution_a": "Os vereadores",
+    "substitution_b": "Os manifestantes",
+    "translated": true
+  },
+  {
+    "schema": "A medalha não cabe na maleta porque ela é muito grande.",
+    "snippet": "ela é muito grande.",
+    "pronoun": "ela",
+    "correct_answer": "A",
+    "substitution_a": "a medalha",
+    "substitution_b": "a maleta",
+    "translated": true
+  },
+  {
+    "schema": "A medalha não cabe na maleta porque ela é muito pequena.",
+    "snippet": "ela é muito pequena.",
+    "pronoun": "ela",
+    "correct_answer": "B",
+    "substitution_a": "a medalha",
+    "substitution_b": "a maleta",
+    "translated": true
+  },
+  {
+    "schema": "Joan certificou-se de agradecer Susan por toda ajuda que ela havia recebido.",
+    "snippet": "ela havia recebido.",
+    "pronoun": "ela",
+    "correct_answer": "A",
+    "substitution_a": "Joan",
+    "substitution_b": "Susan",
+    "translated": true
+  },
+  {
+    "schema": "Joan certificou-se de agradecer Susan por toda ajuda que ela havia oferecido.",
+    "snippet": "ela havia oferecido.",
+    "pronoun": "ela",
+    "correct_answer": "B",
+    "substitution_a": "Joan",
+    "substitution_b": "Susan",
+    "translated": true
+  },
+  {
+    "schema": "Paul tentou ligar para o George, mas ele não foi bem sucedido.",
+    "snippet": "ele não foi bem sucedido.",
+    "pronoun": "ele",
+    "correct_answer": "A",
+    "substitution_a": "Paul",
+    "substitution_b": "George",
+    "translated": true
+  },
+  {
+    "schema": "Paul tentou ligar para o George, mas ele não estava disponível.",
+    "snippet": "ele não estava disponível.",
+    "pronoun": "ele",
+    "correct_answer": "B",
+    "substitution_a": "Paul",
+    "substitution_b": "George",
+    "translated": true
+  },
+  {
+    "schema": "O advogado fez uma pergunta ao acusado, mas ele estava relutante em repeti-la.",
+    "snippet": "ele estava relutante",
+    "pronoun": "ele",
+    "correct_answer": "A",
+    "substitution_a": "O advogado",
+    "substitution_b": "O acusado",
+    "translated": true
+  },
+  {
+    "schema": "O advogado fez uma pergunta ao acusado, mas ele estava relutante em respondê-la.",
+    "snippet": "ele estava relutante",
+    "pronoun": "ele",
+    "correct_answer": "B",
+    "substitution_a": "O advogado",
+    "substitution_b": "O acusado",
+    "translated": true
+  },
+  {
+    "schema": "O caminhão de entregas passou rapidamente pelo ônibus escolar porque ele estava indo muito depressa.",
+    "snippet": "ele estava indo muito depressa.",
+    "pronoun": "ele",
+    "correct_answer": "A",
+    "substitution_a": "O caminhão de entregas",
+    "substitution_b": "O ônibus escolar",
+    "translated": true
+  },
+  {
+    "schema": "O caminhão de entregas passou rapidamente pelo ônibus escolar porque ele estava indo muito devagar.",
+    "snippet": "ele estava indo muito devagar.",
+    "pronoun": "ele",
+    "correct_answer": "B",
+    "substitution_a": "O caminhão de entregas",
+    "substitution_b": "O ônibus escolar",
+    "translated": true
+  },
+  {
+    "schema": "Frank sentiu-se vingado quando seu rival de longa data Bill revelou que ele era o vencedor da competição.",
+    "snippet": "ele era o vencedor",
+    "pronoun": "ele",
+    "correct_answer": "A",
+    "substitution_a": "Frank",
+    "substitution_b": "Bill",
+    "translated": true
+  },
+  {
+    "schema": "Frank sentiu-se fracassado quando seu rival de longa data Bill revelou que ele era o vencedor da competição.",
+    "snippet": "ele era o vencedor",
+    "pronoun": "ele",
+    "correct_answer": "B",
+    "substitution_a": "Frank",
+    "substitution_b": "Bill",
+    "translated": true
+  },
+  {
+    "schema": "O homem não conseguia erguer seu filho porque ele era muito fraco.",
+    "snippet": "ele era muito fraco.",
+    "pronoun": "ele",
+    "correct_answer": "A",
+    "substitution_a": "O homem",
+    "substitution_b": "O filho",
+    "translated": true
+  },
+  {
+    "schema": "O homem não conseguia erguer seu filho porque ele era muito pesado.",
+    "snippet": "ele era muito pesado.",
+    "pronoun": "ele",
+    "correct_answer": "B",
+    "substitution_a": "O homem",
+    "substitution_b": "O filho",
+    "translated": true
+  },
+  {
+    "schema": "A grande bola atravessou pela mesa pois ela era feita de aço.",
+    "snippet": "ela era feita de aço.",
+    "pronoun": "ela",
+    "correct_answer": "A",
+    "substitution_a": "A grande bola",
+    "substitution_b": "A mesa",
+    "translated": true
+  },
+  {
+    "schema": "A grande bola atravessou pela mesa pois ela era feita de isopor.",
+    "snippet": "ela era feita de isopor.",
+    "pronoun": "ela",
+    "correct_answer": "B",
+    "substitution_a": "A grande bola",
+    "substitution_b": "A mesa",
+    "translated": true
+  },
+  {
+    "schema": "John não conseguia enxergar o palco com Billy na sua frente porque ele é muito baixo.",
+    "snippet": "ele é muito baixo.",
+    "pronoun": "ele",
+    "correct_answer": "A",
+    "substitution_a": "John",
+    "substitution_b": "Billy",
+    "translated": true
+  },
+  {
+    "schema": "John não conseguia enxergar o palco com Billy na sua frente porque ele é muito alto.",
+    "snippet": "ele é muito alto.",
+    "pronoun": "ele",
+    "correct_answer": "B",
+    "substitution_a": "John",
+    "substitution_b": "Billy",
+    "translated": true
+  },
+  {
+    "schema": "Tom jogou sua mochila para o Ray lá embaixo depois que ele atingiu o topo da escada.",
+    "snippet": "ele atingiu o topo da escada.",
+    "pronoun": "ele",
+    "correct_answer": "A",
+    "substitution_a": "Tom",
+    "substitution_b": "Ray",
+    "translated": true
+  },
+  {
+    "schema": "Tom jogou sua mochila para o Ray lá embaixo depois que ele atingiu a parte inferior da escada.",
+    "snippet": "ele atingiu a parte inferior da escada.",
+    "pronoun": "ele",
+    "correct_answer": "B",
+    "substitution_a": "Tom",
+    "substitution_b": "Ray",
+    "translated": true
+  },
+  {
+    "schema": "Apesar de ambas correrem a aproximadamente a mesma velocidade, Sue derrotou Sally porque ela começou muito bem.",
+    "snippet": "ela começou muito bem.",
+    "pronoun": "ela",
+    "correct_answer": "A",
+    "substitution_a": "Sue",
+    "substitution_b": "Sally",
+    "translated": true
+  },
+  {
+    "schema": "Apesar de ambas correrem a aproximadamente a mesma velocidade, Sue derrotou Sally porque ela começou muito mal.",
+    "snippet": "ela começou muito mal.",
+    "pronoun": "ela",
+    "correct_answer": "B",
+    "substitution_a": "Sue",
+    "substitution_b": "Sally",
+    "translated": true
+  },
+  {
+    "schema": "A escultura caiu da prateleira porque ela não estava bem acomodada.",
+    "snippet": "ela não estava bem acomodada.",
+    "pronoun": "ela",
+    "correct_answer": "A",
+    "substitution_a": "A escultura",
+    "substitution_b": "A prateleira",
+    "translated": true
+  },
+  {
+    "schema": "A escultura caiu da prateleira porque ela não estava bem nivelada.",
+    "snippet": "ela não estava bem nivelada.",
+    "pronoun": "ela",
+    "correct_answer": "B",
+    "substitution_a": "A escultura",
+    "substitution_b": "A prateleira",
+    "translated": true
+  },
+  {
+    "schema": "O desenho do Sam estava pendurado imediatamente acima do da Tina e ele de fato ficava muito melhor com outro abaixo dele.",
+    "snippet": "ele de fato ficava muito",
+    "pronoun": "ele",
+    "correct_answer": "A",
+    "substitution_a": "O desenho do Sam",
+    "substitution_b": "O desenho da Tina",
+    "translated": true
+  },
+  {
+    "schema": "O desenho do Sam estava pendurado imediatamente acima do da Tina e ele de fato ficava muito melhor com outro acima dele.",
+    "snippet": "ele de fato ficava muito",
+    "pronoun": "ele",
+    "correct_answer": "B",
+    "substitution_a": "O desenho do Sam",
+    "substitution_b": "O desenho da Tina",
+    "translated": true
+  },
+  {
+    "schema": "Anna foi muito melhor do que sua amiga Lucy na prova porque ela tinha estudado muito.",
+    "snippet": "ela tinha estudado muito.",
+    "pronoun": "ela",
+    "correct_answer": "A",
+    "substitution_a": "Anna",
+    "substitution_b": "Lucy",
+    "translated": true
+  },
+  {
+    "schema": "Anna foi muito pior do que sua amiga Lucy na prova porque ela tinha estudado muito.",
+    "snippet": "ela tinha estudado muito.",
+    "pronoun": "ela",
+    "correct_answer": "B",
+    "substitution_a": "Anna",
+    "substitution_b": "Lucy",
+    "translated": true
+  },
+  {
+    "schema": "Os bombeiros chegaram depois dos policiais porque eles estavam vindo de muito longe.",
+    "snippet": "eles estavam vindo de muito longe.",
+    "pronoun": "eles",
+    "correct_answer": "A",
+    "substitution_a": "Os bombeiros",
+    "substitution_b": "Os policiais",
+    "translated": true
+  },
+  {
+    "schema": "Os bombeiros chegaram antes dos policiais porque eles estavam vindo de muito longe.",
+    "snippet": "eles estavam vindo de muito longe.",
+    "pronoun": "eles",
+    "correct_answer": "B",
+    "substitution_a": "Os bombeiros",
+    "substitution_b": "Os policiais",
+    "translated": true
+  },
+  {
+    "schema": "Frank estava chateado com o Tom porque a torradeira que ele havia comprado dele não funcionava.",
+    "snippet": "ele havia comprado",
+    "pronoun": "ele",
+    "correct_answer": "A",
+    "substitution_a": "Frank",
+    "substitution_b": "Tom",
+    "translated": true
+  },
+  {
+    "schema": "Frank estava chateado com o Tom porque a torradeira que ele havia vendido para ele não funcionava.",
+    "snippet": "ele havia vendido",
+    "pronoun": "ele",
+    "correct_answer": "B",
+    "substitution_a": "Frank",
+    "substitution_b": "Tom",
+    "translated": true
+  },
+  {
+    "schema": "Jim gritou com Kevin porque ele estava muito transtornado.",
+    "snippet": "ele estava muito transtornado.",
+    "pronoun": "ele",
+    "correct_answer": "A",
+    "substitution_a": "Jim",
+    "substitution_b": "Kevin",
+    "translated": true
+  },
+  {
+    "schema": "Jim reconfortou Kevin porque ele estava muito transtornado.",
+    "snippet": "ele estava muito transtornado.",
+    "pronoun": "ele",
+    "correct_answer": "B",
+    "substitution_a": "Jim",
+    "substitution_b": "Kevin",
+    "translated": true
+  },
+  {
+    "schema": "O saco de batatas havia sido colocado em cima do saco de farinha, portanto ele tinha que ser retirado antes.",
+    "snippet": "ele tinha que ser retirado antes.",
+    "pronoun": "ele",
+    "correct_answer": "A",
+    "substitution_a": "O saco de batatas",
+    "substitution_b": "O saco de farinha",
+    "translated": true
+  },
+  {
+    "schema": "O saco de batatas havia sido colocado embaixo do saco de farinha, portanto ele tinha que ser retirado antes.",
+    "snippet": "ele tinha que ser retirado antes.",
+    "pronoun": "ele",
+    "correct_answer": "B",
+    "substitution_a": "O saco de batatas",
+    "substitution_b": "O saco de farinha",
+    "translated": true
+  },
+  {
+    "schema": "Pete tem inveja de Martin apesar de ele ser muito bem sucedido.",
+    "snippet": "ele ser muito bem sucedido.",
+    "pronoun": "ele",
+    "correct_answer": "A",
+    "substitution_a": "Pete",
+    "substitution_b": "Martin",
+    "translated": true
+  },
+  {
+    "schema": "Pete tem inveja de Martin porque ele é muito bem sucedido.",
+    "snippet": "ele é muito bem sucedido.",
+    "pronoun": "ele",
+    "correct_answer": "B",
+    "substitution_a": "Pete",
+    "substitution_b": "Martin",
+    "translated": true
+  },
+  {
+    "schema": "Os alunos mais velhos estavam fazendo bullying com os mais jovens, então nós os punimos.",
+    "snippet": "os punimos.",
+    "pronoun": "os",
+    "correct_answer": "A",
+    "substitution_a": "Os alunos mais velhos",
+    "substitution_b": "Os alunos mais jovens",
+    "translated": true
+  },
+  {
+    "schema": "Os alunos mais velhos estavam fazendo bullying com os mais jovens, então nós os protegemos.",
+    "snippet": "os protegemos.",
+    "pronoun": "os",
+    "correct_answer": "B",
+    "substitution_a": "Os alunos mais velhos",
+    "substitution_b": "Os alunos mais jovens",
+    "translated": true
+  },
+  {
+    "schema": "Eu servi a água da garrafa na xícara até que ela ficasse vazia.",
+    "snippet": "ela ficasse vazia.",
+    "pronoun": "ela",
+    "correct_answer": "A",
+    "substitution_a": "A garrafa",
+    "substitution_b": "A xícara",
+    "translated": true
+  },
+  {
+    "schema": "Eu servi a água da garrafa na xícara até que ela ficasse cheia.",
+    "snippet": "ela ficasse cheia.",
+    "pronoun": "ela",
+    "correct_answer": "B",
+    "substitution_a": "A garrafa",
+    "substitution_b": "A xícara",
+    "translated": true
+  },
+  {
+    "schema": "Susan sabe tudo sobre os problemas pessoais da Ann porque ela é intrometida.",
+    "snippet": "ela é intrometida.",
+    "pronoun": "ela",
+    "correct_answer": "A",
+    "substitution_a": "Susan",
+    "substitution_b": "Ann",
+    "translated": true
+  },
+  {
+    "schema": "Susan sabe tudo sobre os problemas pessoais da Ann porque ela é indiscreta.",
+    "snippet": "ela é indiscreta.",
+    "pronoun": "ela",
+    "correct_answer": "B",
+    "substitution_a": "Susan",
+    "substitution_b": "Ann",
+    "translated": true
+  },
+  {
+    "schema": "Sid explicou sua teoria para o Mark mas ele não conseguiu convencê-lo.",
+    "snippet": "ele não conseguiu convencê-lo.",
+    "pronoun": "ele",
+    "correct_answer": "A",
+    "substitution_a": "Sid",
+    "substitution_b": "Mark",
+    "translated": true
+  },
+  {
+    "schema": "Sid explicou sua teoria para o Mark mas ele não conseguiu compreendê-la.",
+    "snippet": "ele não conseguiu compreendê-la.",
+    "pronoun": "ele",
+    "correct_answer": "B",
+    "substitution_a": "Sid",
+    "substitution_b": "Mark",
+    "translated": true
+  },
+  {
+    "schema": "Susan sabia que o filho de Ann havia se envolvido em um acidente de carro, então ela contou-lhe a respeito.",
+    "snippet": "ela contou-lhe",
+    "pronoun": "ela",
+    "correct_answer": "A",
+    "substitution_a": "Susan",
+    "substitution_b": "Ann",
+    "translated": true
+  },
+  {
+    "schema": "Susan sabia que o filho de Ann havia se envolvido em um acidente de carro, porque ela contou-lhe a respeito.",
+    "snippet": "ela contou-lhe",
+    "pronoun": "ela",
+    "correct_answer": "B",
+    "substitution_a": "Susan",
+    "substitution_b": "Ann",
+    "translated": true
+  },
+  {
+    "schema": "O tio do Joe ainda consegue derrotá-lo no tênis, apesar de ele ser 30 anos mais jovem.",
+    "snippet": "ele ser 30 anos mais jovem.",
+    "pronoun": "ele",
+    "correct_answer": "A",
+    "substitution_a": "Joe",
+    "substitution_b": "O tio do Joe",
+    "translated": true
+  },
+  {
+    "schema": "O tio do Joe ainda consegue derrotá-lo no tênis, apesar de ele ser 30 anos mais velho.",
+    "snippet": "ele ser 30 anos mais velho.",
+    "pronoun": "ele",
+    "correct_answer": "B",
+    "substitution_a": "Joe",
+    "substitution_b": "O tio do Joe",
+    "translated": true
+  },
+  {
+    "schema": "O quadro na sala de estar do Mark mostra um carvalho. Ele está à direita da estante de livros.",
+    "snippet": "Ele está à direita",
+    "pronoun": "Ele",
+    "correct_answer": "A",
+    "substitution_a": "O quadro",
+    "substitution_b": "O carvalho",
+    "translated": true
+  },
+  {
+    "schema": "O quadro na sala de estar do Mark mostra um carvalho. Ele está à direita da casa.",
+    "snippet": "Ele está à direita",
+    "pronoun": "Ele",
+    "correct_answer": "B",
+    "substitution_a": "O quadro",
+    "substitution_b": "O carvalho",
+    "translated": true
+  },
+  {
+    "schema": "Há uma fenda na parede. É possível enxergar o jardim através dela.",
+    "snippet": "através dela.",
+    "pronoun": "dela",
+    "correct_answer": "A",
+    "substitution_a": "A fenda",
+    "substitution_b": "A parede",
+    "translated": true
+  },
+  {
+    "schema": "Há uma fenda na parede. É possível enxergar o jardim atrás dela.",
+    "snippet": "atrás dela.",
+    "pronoun": "dela",
+    "correct_answer": "B",
+    "substitution_a": "A fenda",
+    "substitution_b": "A parede",
+    "translated": true
+  },
+  {
+    "schema": "O ralo está entupido com cabelo. Ele tem que ser limpado.",
+    "snippet": "Ele tem que ser limpado.",
+    "pronoun": "Ele",
+    "correct_answer": "A",
+    "substitution_a": "O ralo",
+    "substitution_b": "O cabelo",
+    "translated": true
+  },
+  {
+    "schema": "O ralo está entupido com cabelo. Ele tem que ser removido.",
+    "snippet": "Ele tem que ser removido.",
+    "pronoun": "Ele",
+    "correct_answer": "B",
+    "substitution_a": "O ralo",
+    "substitution_b": "O cabelo",
+    "translated": true
+  },
+  {
+    "schema": "Meu compromisso começava às 4:00 e eu precisava pegar o trem às 4:30, portanto não havia muito tempo. Felizmente, ele foi breve, então tudo deu certo.",
+    "snippet": "ele foi breve",
+    "pronoun": "ele",
+    "correct_answer": "A",
+    "substitution_a": "Meu compromisso",
+    "substitution_b": "O trem",
+    "translated": true
+  },
+  {
+    "schema": "Meu compromisso começava às 4:00 e eu precisava pegar o trem às 4:30, portanto não havia muito tempo. Felizmente, ele atrasou, então tudo deu certo.",
+    "snippet": "ele atrasou",
+    "pronoun": "ele",
+    "correct_answer": "B",
+    "substitution_a": "Meu compromisso",
+    "substitution_b": "O trem",
+    "translated": true
+  },
+  {
+    "schema": "There is a pillar between me and the stage, and I can't see around it.",
+    "snippet": "see around it.",
+    "pronoun": "it",
+    "correct_answer": "A",
+    "substitution_a": "The pillar",
+    "substitution_b": "The stage",
+    "translated": false
+  },
+  {
+    "schema": "There is a pillar between me and the stage, and I can't see it.",
+    "snippet": "see it.",
+    "pronoun": "it",
+    "correct_answer": "B",
+    "substitution_a": "The pillar",
+    "substitution_b": "The stage",
+    "translated": false
+  },
+  {
+    "schema": "They broadcast an announcement, but a subway came into the station and I couldn't hear it.",
+    "snippet": "hear it.",
+    "pronoun": "it",
+    "correct_answer": "A",
+    "substitution_a": "The announcement",
+    "substitution_b": "The subway",
+    "translated": false
+  },
+  {
+    "schema": "They broadcast an announcement, but a subway came into the station and I couldn't hear over it.",
+    "snippet": "hear over it.",
+    "pronoun": "it",
+    "correct_answer": "B",
+    "substitution_a": "The announcement",
+    "substitution_b": "The subway",
+    "translated": false
+  },
+  {
+    "schema": "Durante a apresentação a céu aberto, começou a chover, mas ela continuou até às 10.",
+    "snippet": "ela continuou",
+    "pronoun": "ela",
+    "correct_answer": "A",
+    "substitution_a": "A apresentação",
+    "substitution_b": "A chuva",
+    "translated": true
+  },
+  {
+    "schema": "Durante a apresentação a céu aberto, começou a chover, e ela continuou até às 10.",
+    "snippet": "ela continuou",
+    "pronoun": "ela",
+    "correct_answer": "B",
+    "substitution_a": "A apresentação",
+    "substitution_b": "A chuva",
+    "translated": true
+  },
+  {
+    "schema": "Eu usei um pano velho para limpar o alicate, e então o coloquei no lixo.",
+    "snippet": "o coloquei no lixo.",
+    "pronoun": "o",
+    "correct_answer": "A",
+    "substitution_a": "O pano",
+    "substitution_b": "O alicate",
+    "translated": true
+  },
+  {
+    "schema": "Eu usei um pano velho para limpar o alicate, e então o coloquei na gaveta.",
+    "snippet": "o coloquei na gaveta.",
+    "pronoun": "o",
+    "correct_answer": "B",
+    "substitution_a": "O pano",
+    "substitution_b": "O alicate",
+    "translated": true
+  },
+  {
+    "schema": "Ann perguntou a Mary a que horas a biblioteca fechava, porque ela havia esquecido.",
+    "snippet": "ela havia esquecido.",
+    "pronoun": "ela",
+    "correct_answer": "A",
+    "substitution_a": "Ann",
+    "substitution_b": "Mary",
+    "translated": true
+  },
+  {
+    "schema": "Ann perguntou a Mary a que horas a biblioteca fechava, mas ela havia esquecido.",
+    "snippet": "ela havia esquecido.",
+    "pronoun": "ela",
+    "correct_answer": "B",
+    "substitution_a": "Ann",
+    "substitution_b": "Mary",
+    "translated": true
+  },
+  {
+    "schema": "Eu retirei a garrafa d'água da mochila para que ela ficasse acessível.",
+    "snippet": "ela ficasse acessível.",
+    "pronoun": "ela",
+    "correct_answer": "A",
+    "substitution_a": "A garrafa d'água",
+    "substitution_b": "A mochila",
+    "translated": true
+  },
+  {
+    "schema": "Eu retirei a garrafa d'água da mochila para que ela ficasse leve.",
+    "snippet": "ela ficasse leve.",
+    "pronoun": "ela",
+    "correct_answer": "B",
+    "substitution_a": "A garrafa d'água",
+    "substitution_b": "A mochila",
+    "translated": true
+  },
+  {
+    "schema": "I couldn't put the pot on the shelf because it was too tall.",
+    "snippet": "it was too tall.",
+    "pronoun": "it",
+    "correct_answer": "A",
+    "substitution_a": "The pot",
+    "substitution_b": "The shelf",
+    "translated": false
+  },
+  {
+    "schema": "I couldn't put the pot on the shelf because it was too high.",
+    "snippet": "it was too high.",
+    "pronoun": "it",
+    "correct_answer": "B",
+    "substitution_a": "The pot",
+    "substitution_b": "The shelf",
+    "translated": false
+  },
+  {
+    "schema": "Tenho certeza que meu mapa mostrará esse prédio; ele é muito bom.",
+    "snippet": "ele é muito bom.",
+    "pronoun": "ele",
+    "correct_answer": "A",
+    "substitution_a": "O mapa",
+    "substitution_b": "O prédio",
+    "translated": true
+  },
+  {
+    "schema": "Tenho certeza que meu mapa mostrará esse prédio; ele é muito famoso.",
+    "snippet": "ele é muito famoso.",
+    "pronoun": "ele",
+    "correct_answer": "B",
+    "substitution_a": "O mapa",
+    "substitution_b": "O prédio",
+    "translated": true
+  },
+  {
+    "schema": "Bob custeou o ensino superior de Charlie. Ele é muito generoso.",
+    "snippet": "Ele é muito generoso.",
+    "pronoun": "Ele",
+    "correct_answer": "A",
+    "substitution_a": "Bob",
+    "substitution_b": "Charlie",
+    "translated": true
+  },
+  {
+    "schema": "Bob custeou o ensino superior de Charlie. Ele é muito grato.",
+    "snippet": "Ele é muito grato.",
+    "pronoun": "Ele",
+    "correct_answer": "B",
+    "substitution_a": "Bob",
+    "substitution_b": "Charlie",
+    "translated": true
+  },
+  {
+    "schema": "Bob custeou o ensino superior de Charlie, mas agora Charlie age como se isso nunca houvesse acontecido. Ele está muito magoado.",
+    "snippet": "Ele está muito magoado.",
+    "pronoun": "Ele",
+    "correct_answer": "A",
+    "substitution_a": "Bob",
+    "substitution_b": "Charlie",
+    "translated": true
+  },
+  {
+    "schema": "Bob custeou o ensino superior de Charlie, mas agora Charlie age como se isso nunca houvesse acontecido. Ele é muito ingrato.",
+    "snippet": "Ele é muito ingrato.",
+    "pronoun": "Ele",
+    "correct_answer": "B",
+    "substitution_a": "Bob",
+    "substitution_b": "Charlie",
+    "translated": true
+  },
+  {
+    "schema": "Bob estava jogando cartas com Adam e estava muito à frente no placar. Se Adam não tivesse tido uma sequência de jogadas de sorte, ele teria ganhado.",
+    "snippet": "ele teria ganhado.",
+    "pronoun": "ele",
+    "correct_answer": "A",
+    "substitution_a": "Bob",
+    "substitution_b": "Adam",
+    "translated": true
+  },
+  {
+    "schema": "Bob estava jogando cartas com Adam e estava muito à frente no placar. Se Adam não tivesse tido uma sequência de jogadas de sorte, ele teria perdido.",
+    "snippet": "ele teria perdido.",
+    "pronoun": "ele",
+    "correct_answer": "B",
+    "substitution_a": "Bob",
+    "substitution_b": "Adam",
+    "translated": true
+  },
+  {
+    "schema": "Adam não pode sair do trabalho até que Bob chegue para substituí-lo. Se Bob tivesse saído de casa na hora certa, ele já teria saído agora.",
+    "snippet": "ele já teria saído",
+    "pronoun": "ele",
+    "correct_answer": "A",
+    "substitution_a": "Adam",
+    "substitution_b": "Bob",
+    "translated": true
+  },
+  {
+    "schema": "Adam não pode sair do trabalho até que Bob chegue para substituí-lo. Se Bob tivesse saído de casa na hora certa, ele já estaria aqui agora.",
+    "snippet": "ele já estaria aqui",
+    "pronoun": "ele",
+    "correct_answer": "B",
+    "substitution_a": "Adam",
+    "substitution_b": "Bob",
+    "translated": true
+  },
+  {
+    "schema": "Se o golpista tivesse sido bem sucedido em enganar o Sam, ele teria ganhado muito dinheiro.",
+    "snippet": "ele teria ganhado muito dinheiro.",
+    "pronoun": "ele",
+    "correct_answer": "A",
+    "substitution_a": "O golpista",
+    "substitution_b": "Sam",
+    "translated": true
+  },
+  {
+    "schema": "Se o golpista tivesse sido bem sucedido em enganar o Sam, ele teria perdido muito dinheiro.",
+    "snippet": "ele teria perdido muito dinheiro.",
+    "pronoun": "ele",
+    "correct_answer": "B",
+    "substitution_a": "O golpista",
+    "substitution_b": "Sam",
+    "translated": true
+  },
+  {
+    "schema": "It was a summer afternoon, and the dog was sitting in the middle of the lawn. After a while, it got up and moved to a spot under the tree, because it was hot.",
+    "snippet": "it was hot.",
+    "pronoun": "it",
+    "correct_answer": "A",
+    "substitution_a": "The dog",
+    "substitution_b": "The spot under the tree",
+    "translated": false
+  },
+  {
+    "schema": "It was a summer afternoon, and the dog was sitting in the middle of the lawn. After a while, it got up and moved to a spot under the tree, because it was cooler.",
+    "snippet": "it was cooler.",
+    "pronoun": "it",
+    "correct_answer": "B",
+    "substitution_a": "The dog",
+    "substitution_b": "The spot under the tree",
+    "translated": false
+  },
+  {
+    "schema": "O gato estava deitado próximo ao buraco esperando pelo rato, mas ele estava muito impaciente.",
+    "snippet": "ele estava muito impaciente.",
+    "pronoun": "ele",
+    "correct_answer": "A",
+    "substitution_a": "O gato",
+    "substitution_b": "O rato",
+    "translated": true
+  },
+  {
+    "schema": "O gato estava deitado próximo ao buraco esperando pelo rato, mas ele era muito cauteloso.",
+    "snippet": "ele era muito cauteloso.",
+    "pronoun": "ele",
+    "correct_answer": "B",
+    "substitution_a": "O gato",
+    "substitution_b": "O rato",
+    "translated": true
+  },
+  {
+    "schema": "Anne deu à luz uma menina mês passado. Ela é uma mulher encantadora.",
+    "snippet": "Ela é uma mulher encantadora.",
+    "pronoun": "Ela",
+    "correct_answer": "A",
+    "substitution_a": "Anne",
+    "substitution_b": "A filha da Anne",
+    "translated": true
+  },
+  {
+    "schema": "Anne deu à luz uma menina mês passado. Ela é uma bebê encantadora.",
+    "snippet": "Ela é uma bebê encantadora.",
+    "pronoun": "Ela",
+    "correct_answer": "B",
+    "substitution_a": "Anne",
+    "substitution_b": "A filha da Anne",
+    "translated": true
+  },
+  {
+    "schema": "Alice tentou incansavelmente impedir sua filha de conversar na festa. Ficamos nos questionando porque ela estava se comportando de maneira tão estranha.",
+    "snippet": "ela estava se comportando de maneira tão estranha.",
+    "pronoun": "ela",
+    "correct_answer": "A",
+    "substitution_a": "Alice",
+    "substitution_b": "A filha da Alice",
+    "translated": true
+  },
+  {
+    "schema": "Alice tentou incansavelmente impedir sua filha de latir na festa. Ficamos nos questionando porque ela estava se comportando de maneira tão estranha.",
+    "snippet": "ela estava se comportando de maneira tão estranha.",
+    "pronoun": "ela",
+    "correct_answer": "B",
+    "substitution_a": "Alice",
+    "substitution_b": "A filha da Alice",
+    "translated": true
+  },
+  {
+    "schema": "Eu vi o Jim gritando com um cara que vestia uma farda e tinha uma grande barba ruiva. Eu não sei porque ele estava assim, mas ele parecia muito chateado.",
+    "snippet": "porque ele estava assim",
+    "pronoun": "ele",
+    "correct_answer": "A",
+    "substitution_a": "Jim",
+    "substitution_b": "O cara que vestia uma farda",
+    "translated": true
+  },
+  {
+    "schema": "Eu vi o Jim gritando com um cara que vestia uma farda e tinha uma grande barba ruiva. Eu não sei quem ele era, mas ele parecia muito chateado.",
+    "snippet": "quem ele era",
+    "pronoun": "ele",
+    "correct_answer": "B",
+    "substitution_a": "Jim",
+    "substitution_b": "o cara que vestia uma farda",
+    "translated": true
+  },
+  {
+    "schema": "O peixe comeu o mosquito. Ele estava com fome.",
+    "snippet": "Ele estava com fome.",
+    "pronoun": "Ele",
+    "correct_answer": "A",
+    "substitution_a": "O peixe",
+    "substitution_b": "O mosquito",
+    "translated": true
+  },
+  {
+    "schema": "O peixe comeu o mosquito. Ele estava saboroso.",
+    "snippet": "Ele estava saboroso.",
+    "pronoun": "Ele",
+    "correct_answer": "B",
+    "substitution_a": "O peixe",
+    "substitution_b": "O mosquito",
+    "translated": true
+  },
+  {
+    "schema": "Eu estava tentando abrir o cadeado com a chave, mas alguém havia preenchido a fechadura com goma de mascar, e eu não conseguia inseri-la .",
+    "snippet": "eu não conseguia inseri-la .",
+    "pronoun": "la",
+    "correct_answer": "A",
+    "substitution_a": "A chave",
+    "substitution_b": "A goma de mascar",
+    "translated": true
+  },
+  {
+    "schema": "Eu estava tentando abrir o cadeado com a chave, mas alguém havia preenchido a fechadura com goma de mascar, e eu não conseguia removê-la.",
+    "snippet": "eu não conseguia removê-la.",
+    "pronoun": "la",
+    "correct_answer": "B",
+    "substitution_a": "A chave",
+    "substitution_b": "A goma de mascar",
+    "translated": true
+  },
+  {
+    "schema": "O cão perseguiu o gato, que correu até a árvore. Ele esperou embaixo.",
+    "snippet": "Ele esperou",
+    "pronoun": "Ele",
+    "correct_answer": "A",
+    "substitution_a": "O cão",
+    "substitution_b": "O gato",
+    "translated": true
+  },
+  {
+    "schema": "O cão perseguiu o gato, que correu até a árvore. Ele esperou em cima.",
+    "snippet": "Ele esperou",
+    "pronoun": "Ele",
+    "correct_answer": "B",
+    "substitution_a": "O cão",
+    "substitution_b": "O gato",
+    "translated": true
+  },
+  {
+    "schema": "Durante a tempestade, o poste caiu e atravessou o telhado da minha casa. Agora, eu tenho que mandar removê-lo.",
+    "snippet": "mandar removê-lo.",
+    "pronoun": "-lo",
+    "correct_answer": "A",
+    "substitution_a": "O poste",
+    "substitution_b": "O telhado",
+    "translated": true
+  },
+  {
+    "schema": "Durante a tempestade, o poste caiu e atravessou o telhado da minha casa. Agora, eu tenho que mandar consertá-lo.",
+    "snippet": "mandar consertá-lo.",
+    "pronoun": "-lo",
+    "correct_answer": "B",
+    "substitution_a": "O poste",
+    "substitution_b": "O telhado",
+    "translated": true
+  },
+  {
+    "schema": "O cliente entrou no banco e esfaqueou um dos caixas. Ele foi levado imediatamente para a delegacia.",
+    "snippet": "Ele foi levado imediatamente",
+    "pronoun": "Ele",
+    "correct_answer": "A",
+    "substitution_a": "O cliente",
+    "substitution_b": "O caixa",
+    "translated": true
+  },
+  {
+    "schema": "O cliente entrou no banco e esfaqueou um dos caixas. Ele foi levado imediatamente para o hospital.",
+    "snippet": "Ele foi levado imediatamente",
+    "pronoun": "Ele",
+    "correct_answer": "B",
+    "substitution_a": "O cliente",
+    "substitution_b": "O caixa",
+    "translated": true
+  },
+  {
+    "schema": "John estava fazendo uma pesquisa na biblioteca quando ouviu um homem cantarolando e assoviando. Ele ficou muito incomodado.",
+    "snippet": "Ele ficou muito incomodado.",
+    "pronoun": "Ele",
+    "correct_answer": "A",
+    "substitution_a": "John",
+    "substitution_b": "O homem",
+    "translated": true
+  },
+  {
+    "schema": "John estava fazendo uma pesquisa na biblioteca quando ouviu um homem cantarolando e assoviando. Ele era muito irritante.",
+    "snippet": "Ele era muito irritante.",
+    "pronoun": "Ele",
+    "correct_answer": "B",
+    "substitution_a": "John",
+    "substitution_b": "O homem",
+    "translated": true
+  },
+  {
+    "schema": "John estava correndo pelo parque quando viu um homem fazendo malabarismos com melancias. Ele ficou muito impressionado.",
+    "snippet": "Ele ficou muito impressionado.",
+    "pronoun": "Ele",
+    "correct_answer": "A",
+    "substitution_a": "John",
+    "substitution_b": "O malabarista",
+    "translated": true
+  },
+  {
+    "schema": "John estava correndo pelo parque quando viu um homem fazendo malabarismos com melancias. Ele era muito impressionante.",
+    "snippet": "Ele era muito impressionante.",
+    "pronoun": "Ele",
+    "correct_answer": "B",
+    "substitution_a": "John",
+    "substitution_b": "O malabarista",
+    "translated": true
+  },
+  {
+    "schema": "Bob colapsou na calçada. Logo ele viu Carl vindo acudi-lo. Ele estava muito doente.",
+    "snippet": "Ele estava muito doente.",
+    "pronoun": "Ele",
+    "correct_answer": "A",
+    "substitution_a": "Bob",
+    "substitution_b": "Carl",
+    "translated": true
+  },
+  {
+    "schema": "Bob colapsou na calçada. Logo ele viu Carl vindo acudi-lo. Ele estava muito preocupado.",
+    "snippet": "Ele estava muito preocupado.",
+    "pronoun": "Ele",
+    "correct_answer": "B",
+    "substitution_a": "Bob",
+    "substitution_b": "Carl",
+    "translated": true
+  },
+  {
+    "schema": "Sam e Amy estão extremamente apaixonados, mas os pais da Amy estão incomodados com isso porque eles têm quinze anos.",
+    "snippet": "eles têm quinze anos.",
+    "pronoun": "eles",
+    "correct_answer": "A",
+    "substitution_a": "Sam e Amy",
+    "substitution_b": "Os pais da Amy",
+    "translated": true
+  },
+  {
+    "schema": "Sam e Amy estão extremamente apaixonados, mas os pais da Amy estão incomodados com isso porque eles são esnobes.",
+    "snippet": "eles são esnobes.",
+    "pronoun": "eles",
+    "correct_answer": "B",
+    "substitution_a": "Sam and Amy",
+    "substitution_b": "Os pais da Amy",
+    "translated": true
+  },
+  {
+    "schema": "Mark contou muitas mentiras sobre ele mesmo para o Pete, e Pete as incluiu no seu livro. Ele deveria ter sido mais sincero.",
+    "snippet": "Ele deveria ter sido mais sincero.",
+    "pronoun": "Ele",
+    "correct_answer": "A",
+    "substitution_a": "Mark",
+    "substitution_b": "Pete",
+    "translated": true
+  },
+  {
+    "schema": "Mark contou muitas mentiras sobre ele mesmo para o Pete, e Pete as incluiu no seu livro. Ele deveria ter sido mais cético.",
+    "snippet": "Ele deveria ter sido mais cético.",
+    "pronoun": "Ele",
+    "correct_answer": "B",
+    "substitution_a": "Mark",
+    "substitution_b": "Pete",
+    "translated": true
+  },
+  {
+    "schema": "Joe vendeu sua casa e comprou uma nova a alguns quilômetros de distância. Ele se mudará dela na quinta-feira.",
+    "snippet": "se mudará dela",
+    "pronoun": "dela",
+    "correct_answer": "A",
+    "substitution_a": "A velha casa",
+    "substitution_b": "A nova casa",
+    "translated": true
+  },
+  {
+    "schema": "Joe vendeu sua casa e comprou uma nova a alguns quilômetros de distância. Ele se mudará para ela na quinta-feira.",
+    "snippet": "mudará para ela",
+    "pronoun": "ela",
+    "correct_answer": "B",
+    "substitution_a": "A velha casa",
+    "substitution_b": "A nova casa",
+    "translated": true
+  },
+  {
+    "schema": "Muitas pessoas começam a ler as crônicas do Paul e não conseguem largá-las. Elas ficam apegadas porque Paul escreve muito bem.",
+    "snippet": "Elas ficam apegadas",
+    "pronoun": "Elas",
+    "correct_answer": "A",
+    "substitution_a": "As pessoas",
+    "substitution_b": "As crônicas do Paul",
+    "translated": true
+  },
+  {
+    "schema": "Muitas pessoas começam a ler as crônicas do Paul e não conseguem largá-las. Elas são populares porque o Paul escreve muito bem.",
+    "snippet": "Elas são populares",
+    "pronoun": "Elas",
+    "correct_answer": "B",
+    "substitution_a": "As pessoas",
+    "substitution_b": "As crônicas do Paul",
+    "translated": true
+  },
+  {
+    "schema": "Mary pegou sua flauta e tocou uma de suas peças favoritas. Ela a tem desde criança.",
+    "snippet": "Ela a tem",
+    "pronoun": "a",
+    "correct_answer": "A",
+    "substitution_a": "A flauta",
+    "substitution_b": "A peça",
+    "translated": true
+  },
+  {
+    "schema": "Mary pegou sua flauta e tocou uma de suas peças favoritas. Ela a ama desde criança.",
+    "snippet": "Ela a ama",
+    "pronoun": "a",
+    "correct_answer": "B",
+    "substitution_a": "A flauta",
+    "substitution_b": "A peça",
+    "translated": true
+  },
+  {
+    "schema": "Sam puxou um banco para o piano, mas ele estava quebrado, então ele teve que ficar em pé.",
+    "snippet": "ele estava quebrado",
+    "pronoun": "ele",
+    "correct_answer": "A",
+    "substitution_a": "O banco",
+    "substitution_b": "O piano",
+    "translated": true
+  },
+  {
+    "schema": "Sam puxou um banco para o piano, mas ele estava quebrado, então ele teve que cantar.",
+    "snippet": "ele estava quebrado",
+    "pronoun": "ele",
+    "correct_answer": "B",
+    "substitution_a": "O banco",
+    "substitution_b": "O piano",
+    "translated": true
+  },
+  {
+    "schema": "Como estava chovendo, eu carreguei a revista na minha mochila para mantê-la seca.",
+    "snippet": "mantê-la seca.",
+    "pronoun": "la",
+    "correct_answer": "A",
+    "substitution_a": "A revista",
+    "substitution_b": "A mochila",
+    "translated": true
+  },
+  {
+    "schema": "Como estava chovendo, eu carreguei a revista sobre a minha mochila para mantê-la seca.",
+    "snippet": "mantê-la seca.",
+    "pronoun": "la",
+    "correct_answer": "B",
+    "substitution_a": "A revista",
+    "substitution_b": "A mochila",
+    "translated": true
+  },
+  {
+    "schema": "Sara pegou um livro emprestado da biblioteca porque ela precisa dele para um artigo no qual ela está trabalhando. Ela o lê quando chega do trabalho.",
+    "snippet": "Ela o lê",
+    "pronoun": "o",
+    "correct_answer": "A",
+    "substitution_a": "O livro",
+    "substitution_b": "O artigo",
+    "translated": true
+  },
+  {
+    "schema": "Sara pegou um livro emprestado da biblioteca porque ela precisa dele para um artigo no qual ela está trabalhando. Ela o escreve quando chega do trabalho.",
+    "snippet": "Ela o escreve",
+    "pronoun": "o",
+    "correct_answer": "B",
+    "substitution_a": "O livro",
+    "substitution_b": "O artigo",
+    "translated": true
+  },
+  {
+    "schema": "Nesta manhã, Joey construiu um castelo de areia na praia, e colocou um soldado de brinquedo na torre mais alta, mas nesta tarde a maré o derrubou.",
+    "snippet": "o derrubou.",
+    "pronoun": "o",
+    "correct_answer": "A",
+    "substitution_a": "O castelo de areia",
+    "substitution_b": "O soldado",
+    "translated": true
+  },
+  {
+    "schema": "Nesta manhã, Joey construiu um castelo de areia na praia, e colocou um soldado de brinquedo na torre mais alta, mas nesta tarde o vento o derrubou.",
+    "snippet": "o derrubou.",
+    "pronoun": "o",
+    "correct_answer": "B",
+    "substitution_a": "O castelo de areia",
+    "substitution_b": "O soldado",
+    "translated": true
+  },
+  {
+    "schema": "Jane bateu à porta de Susan, mas ninguém respondeu. Ela ficou desapontada.",
+    "snippet": "Ela ficou desapontada.",
+    "pronoun": "Ela",
+    "correct_answer": "A",
+    "substitution_a": "Jane",
+    "substitution_b": "Susan",
+    "translated": true
+  },
+  {
+    "schema": "Jane bateu à porta de Susan, mas ninguém respondeu. Ela tinha saído.",
+    "snippet": "Ela tinha saído.",
+    "pronoun": "Ela",
+    "correct_answer": "B",
+    "substitution_a": "Jane",
+    "substitution_b": "Susan",
+    "translated": true
+  },
+  {
+    "schema": "Jane bateu à porta, e Susan atendeu. Ela convidou-a para sair.",
+    "snippet": "Ela convidou-a",
+    "pronoun": "Ela",
+    "correct_answer": "A",
+    "substitution_a": "Jane",
+    "substitution_b": "Susan",
+    "translated": true
+  },
+  {
+    "schema": "Jane bateu à porta, e Susan atendeu. Ela convidou-a para entrar.",
+    "snippet": "Ela convidou-a",
+    "pronoun": "Ela",
+    "correct_answer": "B",
+    "substitution_a": "Jane",
+    "substitution_b": "Susan",
+    "translated": true
+  },
+  {
+    "schema": "Sam teve aulas de francês com o Adam, porque ele estava ansioso para falar fluentemente.",
+    "snippet": "ele estava ansioso",
+    "pronoun": "ele",
+    "correct_answer": "A",
+    "substitution_a": "Sam",
+    "substitution_b": "Adam",
+    "translated": true
+  },
+  {
+    "schema": "Sam teve aulas de francês com o Adam, porque ele era conhecido por falar fluentemente.",
+    "snippet": "ele era conhecido por falar fluentemente.",
+    "pronoun": "ele",
+    "correct_answer": "B",
+    "substitution_a": "Sam",
+    "substitution_b": "Adam",
+    "translated": true
+  },
+  {
+    "schema": "O caminho até o lago estava interditado, então nós não podíamos usá-lo.",
+    "snippet": "usá-lo.",
+    "pronoun": "lo",
+    "correct_answer": "A",
+    "substitution_a": "O caminho",
+    "substitution_b": "O lago",
+    "translated": true
+  },
+  {
+    "schema": "O caminho até o lago estava interditado, então nós não podíamos alcançá-lo.",
+    "snippet": "alcançá-lo.",
+    "pronoun": "lo",
+    "correct_answer": "B",
+    "substitution_a": "O caminho",
+    "substitution_b": "O lago",
+    "translated": true
+  },
+  {
+    "schema": "A luz do sol estava impedida por uma grande nuvem a manhã toda, mas por sorte, na hora em que o piquenique começou, ela voltou.",
+    "snippet": "ela voltou.",
+    "pronoun": "ela",
+    "correct_answer": "A",
+    "substitution_a": "A luz do sol",
+    "substitution_b": "A nuvem",
+    "translated": true
+  },
+  {
+    "schema": "A luz do sol estava impedida por uma grande nuvem a manhã toda, mas por sorte, na hora em que o piquenique começou, ela foi embora.",
+    "snippet": "ela foi embora.",
+    "pronoun": "ela",
+    "correct_answer": "B",
+    "substitution_a": "A luz do sol",
+    "substitution_b": "A nuvem",
+    "translated": true
+  },
+  {
+    "schema": "Nós fomos para a lagoa, porque um tubarão havia sido avistado na praia, então ela era um lugar mais seguro para nadar.",
+    "snippet": "ela era um lugar mais seguro",
+    "pronoun": "ela",
+    "correct_answer": "A",
+    "substitution_a": "A lagoa",
+    "substitution_b": "A praia",
+    "translated": true
+  },
+  {
+    "schema": "Nós fomos para a lagoa, porque um tubarão havia sido avistado na praia, então ela era um lugar perigoso para nadar.",
+    "snippet": "ela era um lugar perigoso",
+    "pronoun": "ela",
+    "correct_answer": "B",
+    "substitution_a": "A lagoa",
+    "substitution_b": "A praia",
+    "translated": true
+  },
+  {
+    "schema": "Sam tentou pintar um quadro de pastoras com ovelhas, mas elas acabaram ficando mais parecidas com golfistas.",
+    "snippet": "elas acabaram ficando mais parecidas com golfistas.",
+    "pronoun": "elas",
+    "correct_answer": "A",
+    "substitution_a": "As pastoras",
+    "substitution_b": "As ovelhas",
+    "translated": true
+  },
+  {
+    "schema": "Sam tentou pintar um quadro de pastoras com ovelhas, mas elas acabaram ficando mais parecidas com cachorros.",
+    "snippet": "elas acabaram ficando mais parecidas com cachorros.",
+    "pronoun": "elas",
+    "correct_answer": "B",
+    "substitution_a": "As pastoras",
+    "substitution_b": "As ovelhas",
+    "translated": true
+  },
+  {
+    "schema": "Mary acomodou sua filha Anne na cama, para que ela pudesse trabalhar.",
+    "snippet": "ela pudesse trabalhar.",
+    "pronoun": "ela",
+    "correct_answer": "A",
+    "substitution_a": "Mary",
+    "substitution_b": "A filha da Mary",
+    "translated": true
+  },
+  {
+    "schema": "Mary acomodou sua filha Anne na cama, para que ela pudesse dormir.",
+    "snippet": "ela pudesse dormir.",
+    "pronoun": "ela",
+    "correct_answer": "B",
+    "substitution_a": "Mary",
+    "substitution_b": "A filha da Mary",
+    "translated": true
+  },
+  {
+    "schema": "Fred e Alice tinham casacos muito quentes, mas eles não estavam preparados para o frio do Alasca.",
+    "snippet": "eles não estavam preparados",
+    "pronoun": "eles",
+    "correct_answer": "A",
+    "substitution_a": "Fred e Alice",
+    "substitution_b": "Os casacos",
+    "translated": true
+  },
+  {
+    "schema": "Fred e Alice tinham casacos muito quentes, mas eles não eram suficientes para o frio do Alasca.",
+    "snippet": "eles não eram suficientes",
+    "pronoun": "eles",
+    "correct_answer": "B",
+    "substitution_a": "Fred e Alice",
+    "substitution_b": "Os casacos",
+    "translated": true
+  },
+  {
+    "schema": "Thomson visitou o túmulo de Cooper em 1765. Naquela data fazia cinco anos que ele estava viajando.",
+    "snippet": "ele estava viajando.",
+    "pronoun": "ele",
+    "correct_answer": "A",
+    "substitution_a": "Thomson",
+    "substitution_b": "Cooper",
+    "translated": true
+  },
+  {
+    "schema": "Thomson visitou o túmulo de Cooper em 1765. Naquela data fazia cinco anos que ele estava morto.",
+    "snippet": "ele estava morto.",
+    "pronoun": "ele",
+    "correct_answer": "B",
+    "substitution_a": "Thomson",
+    "substitution_b": "Cooper",
+    "translated": true
+  },
+  {
+    "schema": "Jackson sofreu forte influência de Arnold, mesmo ele tendo vivido dois séculos mais tarde.",
+    "snippet": "ele tendo vivido dois séculos mais tarde.",
+    "pronoun": "ele",
+    "correct_answer": "A",
+    "substitution_a": "Jackson",
+    "substitution_b": "Arnold",
+    "translated": true
+  },
+  {
+    "schema": "Jackson sofreu forte influência de Arnold, mesmo ele tendo vivido dois séculos antes.",
+    "snippet": "ele tendo vivido dois séculos antes.",
+    "pronoun": "ele",
+    "correct_answer": "B",
+    "substitution_a": "Jackson",
+    "substitution_b": "Arnold",
+    "translated": true
+  },
+  {
+    "schema": "Eu não consigo cortar aquela árvore com essa serra; ela é muito grossa.",
+    "snippet": "ela é muito grossa.",
+    "pronoun": "ela",
+    "correct_answer": "A",
+    "substitution_a": "A árvore",
+    "substitution_b": "A serra",
+    "translated": true
+  },
+  {
+    "schema": "Eu não consigo cortar aquela árvore com essa serra; ela é muito pequena.",
+    "snippet": "ela é muito pequena.",
+    "pronoun": "ela",
+    "correct_answer": "B",
+    "substitution_a": "A árvore",
+    "substitution_b": "A serra",
+    "translated": true
+  },
+  {
+    "schema": "As raposas estão entrando à noite e atacando as galinhas. Eu terei que matá-las.",
+    "snippet": "matá-las.",
+    "pronoun": "las",
+    "correct_answer": "A",
+    "substitution_a": "As raposas",
+    "substitution_b": "As galinhas",
+    "translated": true
+  },
+  {
+    "schema": "As raposas estão entrando à noite e atacando as galinhas. Eu terei que protegê-las.",
+    "snippet": "protegê-las.",
+    "pronoun": "las",
+    "correct_answer": "B",
+    "substitution_a": "As raposas",
+    "substitution_b": "As galinhas",
+    "translated": true
+  },
+  {
+    "schema": "As raposas estão entrando à noite e atacando as galinhas. Elas se tornaram muito ousadas.",
+    "snippet": "Elas se tornaram muito ousadas.",
+    "pronoun": "Elas",
+    "correct_answer": "A",
+    "substitution_a": "As raposas",
+    "substitution_b": "As galinhas",
+    "translated": true
+  },
+  {
+    "schema": "As raposas estão entrando à noite e atacando as galinhas. Elas se tornaram muito nervosas.",
+    "snippet": "Elas se tornaram muito nervosas.",
+    "pronoun": "Elas",
+    "correct_answer": "B",
+    "substitution_a": "As raposas",
+    "substitution_b": "As galinhas",
+    "translated": true
+  },
+  {
+    "schema": "Fred cobriu seus olhos com os antebraços, porque o vento estava carregando muita areia. Ele os abriu quando o vento parou.",
+    "snippet": "os abriu",
+    "pronoun": "os",
+    "correct_answer": "A",
+    "substitution_a": "Seus olhos",
+    "substitution_b": "Seus antebraços",
+    "translated": true
+  },
+  {
+    "schema": "Fred cobriu seus olhos com os antebraços, porque o vento estava carregando muita areia. Ele os abaixou quando o vento parou.",
+    "snippet": "os abaixou",
+    "pronoun": "os",
+    "correct_answer": "B",
+    "substitution_a": "Seus olhos",
+    "substitution_b": "Seus antebraços",
+    "translated": true
+  },
+  {
+    "schema": "O nome da atriz costumava ser Terpsichore, mas ela o mudou para Tina há alguns anos, porque percebeu que ele era muito difícil de pronunciar.",
+    "snippet": "ele era muito difícil",
+    "pronoun": "ele",
+    "correct_answer": "A",
+    "substitution_a": "Terpsichore",
+    "substitution_b": "Tina",
+    "translated": true
+  },
+  {
+    "schema": "O nome da atriz costumava ser Terpsichore, mas ela o mudou para Tina há alguns anos, porque percebeu que ele era mais fácil de pronunciar.",
+    "snippet": "ele era mais fácil",
+    "pronoun": "ele",
+    "correct_answer": "B",
+    "substitution_a": "Terpsichore",
+    "substitution_b": "Tina",
+    "translated": true
+  },
+  {
+    "schema": "Fred assistiu TV enquanto George saiu para fazer as compras. Depois de uma hora ele levantou.",
+    "snippet": "ele levantou.",
+    "pronoun": "ele",
+    "correct_answer": "A",
+    "substitution_a": "Fred",
+    "substitution_b": "George",
+    "translated": true
+  },
+  {
+    "schema": "Fred assistiu TV enquanto George saiu para fazer as compras. Depois de uma hora ele voltou.",
+    "snippet": "ele voltou.",
+    "pronoun": "ele",
+    "correct_answer": "B",
+    "substitution_a": "Fred",
+    "substitution_b": "George",
+    "translated": true
+  },
+  {
+    "schema": "Fred deveria ter ligado a máquina de lavar louça, mas ele adiou, porque queria assistir TV. Por fim o programa estava chato, então ele mudou de ideia e a ligou.",
+    "snippet": "a ligou.",
+    "pronoun": "a",
+    "correct_answer": "A",
+    "substitution_a": "A máquina de lavar",
+    "substitution_b": "A TV",
+    "translated": true
+  },
+  {
+    "schema": "Fred deveria ter ligado a máquina de lavar louça, mas ele adiou, porque queria assistir TV. Por fim o programa estava chato, então ele mudou de ideia e a desligou.",
+    "snippet": "a desligou.",
+    "pronoun": "a",
+    "correct_answer": "B",
+    "substitution_a": "A máquina de lavar",
+    "substitution_b": "A TV",
+    "translated": true
+  },
+  {
+    "schema": "Fred é a única pessoa que ainda lembra do meu bisavô. Ele é um homem memorável.",
+    "snippet": "Ele é um homem memorável.",
+    "pronoun": "Ele",
+    "correct_answer": "A",
+    "substitution_a": "Fred",
+    "substitution_b": "Meu bisavô",
+    "translated": true
+  },
+  {
+    "schema": "Fred é a única pessoa que ainda lembra do meu bisavô. Ele era um homem memorável.",
+    "snippet": "Ele era um homem memorável.",
+    "pronoun": "Ele",
+    "correct_answer": "B",
+    "substitution_a": "Fred",
+    "substitution_b": "Meu bisavô",
+    "translated": true
+  },
+  {
+    "schema": "Fred é a única pessoa viva que lembra de meu pai enquanto bebê. Quando Fred viu meu pai pela primeira vez, ele tinha doze anos de idade.",
+    "snippet": "ele tinha doze anos de idade.",
+    "pronoun": "ele",
+    "correct_answer": "A",
+    "substitution_a": "Fred",
+    "substitution_b": "Meu pai",
+    "translated": true
+  },
+  {
+    "schema": "Fred é a única pessoa viva que lembra de meu pai enquanto bebê. Quando Fred viu meu pai pela primeira vez, ele tinha doze meses de idade.",
+    "snippet": "ele tinha doze meses de idade.",
+    "pronoun": "ele",
+    "correct_answer": "B",
+    "substitution_a": "Fred",
+    "substitution_b": "Meu pai",
+    "translated": true
+  },
+  {
+    "schema": "Em julho, Kamtchatka declarou guerra contra Yakutsk. Dado que o exército de Yakutsk era muito melhor equipado e dez vezes maior, eles foram derrotados em semanas.",
+    "snippet": "eles foram derrotados",
+    "pronoun": "eles",
+    "correct_answer": "A",
+    "substitution_a": "Kamtchatka",
+    "substitution_b": "Yakutsk",
+    "translated": true
+  },
+  {
+    "schema": "Em julho, Kamtchatka declarou guerra contra Yakutsk. Dado que o exército de Yakutsk era muito melhor equipado e dez vezes maior, eles foram vitoriosos em semanas.",
+    "snippet": "eles foram vitoriosos",
+    "pronoun": "eles",
+    "correct_answer": "B",
+    "substitution_a": "Kamtchatka",
+    "substitution_b": "Yakutsk",
+    "translated": true
+  },
+  {
+    "schema": "Olhe! Há um peixinho nadando bem debaixo daquele pato! É melhor ele fugir para um lugar seguro rápido!",
+    "snippet": "ele fugir",
+    "pronoun": "ele",
+    "correct_answer": "A",
+    "substitution_a": "O peixinho",
+    "substitution_b": "O pato",
+    "translated": true
+  },
+  {
+    "schema": "Olhe! Há um tubarão nadando bem debaixo daquele pato! É melhor ele fugir para um lugar seguro rápido!",
+    "snippet": "ele fugir",
+    "pronoun": "ele",
+    "correct_answer": "B",
+    "substitution_a": "O tubarão",
+    "substitution_b": "O pato",
+    "translated": true
+  },
+  {
+    "schema": "Arqueologistas concluíram que humanos viveram em Laputa 20.000 anos atrás. Eles buscaram por evidências às margens do rio.",
+    "snippet": "Eles buscaram por evidências",
+    "pronoun": "Eles",
+    "correct_answer": "A",
+    "substitution_a": "Arqueologistas",
+    "substitution_b": "Humanos pré-históricos",
+    "translated": true
+  },
+  {
+    "schema": "Arqueologistas concluíram que humanos viveram em Laputa 20.000 anos atrás. Eles caçavam veados às margens do rio.",
+    "snippet": "Eles caçavam veados",
+    "pronoun": "Eles",
+    "correct_answer": "B",
+    "substitution_a": "Arqueologistas",
+    "substitution_b": "Humanos pré-históricos",
+    "translated": true
+  },
+  {
+    "schema": "As universidades estão estudando três espécies de peixe que recentemente foram encontradas vivendo no Oceano Índico. Elas começaram dois anos atrás.",
+    "snippet": "Elas começaram dois anos atrás.",
+    "pronoun": "Elas",
+    "correct_answer": "A",
+    "substitution_a": "As universidades",
+    "substitution_b": "As espécies de peixe",
+    "translated": true
+  },
+  {
+    "schema": "As universidades estão estudando três espécies de peixe que recentemente foram encontradas vivendo no Oceano Índico. Elas apareceram dois anos atrás.",
+    "snippet": "Elas apareceram dois anos atrás.",
+    "pronoun": "Elas",
+    "correct_answer": "B",
+    "substitution_a": "As universidades",
+    "substitution_b": "As espécies de peixe",
+    "translated": true
+  },
+  {
+    "schema": "Os jornalistas entrevistaram os astros do novo filme. Eles foram muito persistentes, então a entrevista se estendeu por muito tempo.",
+    "snippet": "Eles foram muito persistentes",
+    "pronoun": "Eles",
+    "correct_answer": "A",
+    "substitution_a": "Os jornalistas",
+    "substitution_b": "Os astros",
+    "translated": true
+  },
+  {
+    "schema": "Os jornalistas entrevistaram os astros do novo filme. Eles foram muito cooperativos, então a entrevista se estendeu por muito tempo.",
+    "snippet": "Eles foram muito cooperativos",
+    "pronoun": "Eles",
+    "correct_answer": "B",
+    "substitution_a": "Os jornalistas",
+    "substitution_b": "Os astros",
+    "translated": true
+  },
+  {
+    "schema": "Os policiais prenderam todos os membros da gangue. Eles estavam tentando acabar com o tráfico de drogas na vizinhança.",
+    "snippet": "Eles estavam tentando acabar com o tráfico de drogas",
+    "pronoun": "Eles",
+    "correct_answer": "A",
+    "substitution_a": "Os policiais",
+    "substitution_b": "Os membros da gangue",
+    "translated": true
+  },
+  {
+    "schema": "Os policiais prenderam todos os membros da gangue. Eles estavam tentando fazer tráfico de drogas na vizinhança.",
+    "snippet": "Eles estavam tentando fazer tráfico de drogas",
+    "pronoun": "Eles",
+    "correct_answer": "B",
+    "substitution_a": "Os policiais",
+    "substitution_b": "Os membros da gangue",
+    "translated": true
+  },
+  {
+    "schema": "Eu pus a torta na geladeira. Ela tem muita manteiga.",
+    "snippet": "Ela tem muita manteiga.",
+    "pronoun": "Ela",
+    "correct_answer": "A",
+    "substitution_a": "A torta",
+    "substitution_b": "A geladeira",
+    "translated": true
+  },
+  {
+    "schema": "Eu pus a torta na geladeira. Ela tem muitas sobras de comida.",
+    "snippet": "Ela tem muitas sobras de comida.",
+    "pronoun": "Ela",
+    "correct_answer": "B",
+    "substitution_a": "A torta",
+    "substitution_b": "A geladeira",
+    "translated": true
+  },
+  {
+    "schema": "Sam quebrou ambas as pernas e agora ele está andando com muletas. Mas em aproximadamente um mês elas devem estar melhores.",
+    "snippet": "elas devem estar melhores.",
+    "pronoun": "elas",
+    "correct_answer": "A",
+    "substitution_a": "As pernas",
+    "substitution_b": "As muletas",
+    "translated": true
+  },
+  {
+    "schema": "Sam quebrou ambas as pernas e agora ele está andando com muletas. Mas em aproximadamente um mês elas devem não ser mais necessárias.",
+    "snippet": "elas devem não ser mais necessárias.",
+    "pronoun": "elas",
+    "correct_answer": "B",
+    "substitution_a": "As pernas",
+    "substitution_b": "As muletas",
+    "translated": true
+  },
+  {
+    "schema": "Quando os apoiadores do projeto de lei chegaram à prefeitura, foram surpreendidos ao encontrarem a sala repleta de opositores. Eles estavam em vasta minoria.",
+    "snippet": "Eles estavam em vasta minoria.",
+    "pronoun": "Eles",
+    "correct_answer": "A",
+    "substitution_a": "Os apoiadores",
+    "substitution_b": "Os opositores",
+    "translated": true
+  },
+  {
+    "schema": "Quando os apoiadores do projeto de lei chegaram à prefeitura, foram surpreendidos ao encontrarem a sala repleta de opositores. Eles estavam em vasta maioria.",
+    "snippet": "Eles estavam em vasta maioria.",
+    "pronoun": "Eles",
+    "correct_answer": "B",
+    "substitution_a": "Os apoiadores",
+    "substitution_b": "Os opositores",
+    "translated": true
+  },
+  {
+    "schema": "Todo mundo adorou os biscoitos de aveia; apenas algumas pessoas gostaram do biscoito com gotas de chocolate. Da próxima vez, nós deveríamos fazer mais deles.",
+    "snippet": "mais deles.",
+    "pronoun": "deles",
+    "correct_answer": "A",
+    "substitution_a": "Os biscoitos de aveia",
+    "substitution_b": "Os biscoitos com gotas de chocolate",
+    "translated": true
+  },
+  {
+    "schema": "Todo mundo adorou os biscoitos de aveia; apenas algumas pessoas gostaram do biscoito com gotas de chocolate. Da próxima vez, nós deveríamos fazer menos deles.",
+    "snippet": "menos deles.",
+    "pronoun": "deles",
+    "correct_answer": "B",
+    "substitution_a": "Os biscoitos de aveia",
+    "substitution_b": "Os biscoitos com gotas de chocolate",
+    "translated": true
+  },
+  {
+    "schema": "A gente havia planejado colocar cópias da nossa newsletter sobre todas as cadeiras no auditório, mas não havia o suficiente delas.",
+    "snippet": "o suficiente delas.",
+    "pronoun": "delas",
+    "correct_answer": "A",
+    "substitution_a": "cópias da newsletter",
+    "substitution_b": "cadeiras",
+    "translated": true
+  },
+  {
+    "schema": "A gente havia planejado colocar cópias da nossa newsletter sobre todas as cadeiras no auditório, mas havia muitas delas.",
+    "snippet": "muitas delas.",
+    "pronoun": "delas",
+    "correct_answer": "B",
+    "substitution_a": "cópias da newsletter",
+    "substitution_b": "cadeiras",
+    "translated": true
+  },
+  {
+    "schema": "Eu enfiei uma agulha através de uma cenoura. Quando eu removi a agulha, ela deixou um buraco.",
+    "snippet": "ela deixou um buraco.",
+    "pronoun": "ela",
+    "correct_answer": "A",
+    "substitution_a": "A agulha",
+    "substitution_b": "A cenoura",
+    "translated": true
+  },
+  {
+    "schema": "Eu enfiei uma agulha através de uma cenoura. Quando eu removi a agulha, ela tinha um buraco.",
+    "snippet": "ela tinha um buraco.",
+    "pronoun": "ela",
+    "correct_answer": "B",
+    "substitution_a": "A agulha",
+    "substitution_b": "A cenoura",
+    "translated": true
+  },
+  {
+    "schema": "Eu não estava encontrando uma colher, então eu tentei usar um pincel para mexer meu café. Mas por fim isso foi uma má ideia, porque ele ficou cheio de café.",
+    "snippet": "ele ficou cheio de café.",
+    "pronoun": "ele",
+    "correct_answer": "A",
+    "substitution_a": "O pincel",
+    "substitution_b": "O café",
+    "translated": true
+  },
+  {
+    "schema": "Eu não estava encontrando uma colher, então eu tentei usar um pincel para mexer meu café. Mas por fim isso foi uma má ideia, porque ele ficou cheio de tinta.",
+    "snippet": "ele ficou cheio de tinta.",
+    "pronoun": "ele",
+    "correct_answer": "B",
+    "substitution_a": "O pincel",
+    "substitution_b": "O café",
+    "translated": true
+  },
+  {
+    "schema": "Steve segue o exemplo do Fred em tudo. Ele o admira imensamente.",
+    "snippet": "Ele o admira imensamente.",
+    "pronoun": "Ele",
+    "correct_answer": "A",
+    "substitution_a": "Steve",
+    "substitution_b": "Fred",
+    "translated": true
+  },
+  {
+    "schema": "Steve segue o exemplo do Fred em tudo. Ele o influencia imensamente.",
+    "snippet": "Ele o influencia imensamente.",
+    "pronoun": "Ele",
+    "correct_answer": "B",
+    "substitution_a": "Steve",
+    "substitution_b": "Fred",
+    "translated": true
+  },
+  {
+    "schema": "A mesa não vai passar pela porta de entrada porque ela é muito larga.",
+    "snippet": "ela é muito larga.",
+    "pronoun": "ela",
+    "correct_answer": "A",
+    "substitution_a": "A mesa",
+    "substitution_b": "A porta de entrada",
+    "translated": true
+  },
+  {
+    "schema": "A mesa não vai passar pela porta de entrada porque ela é muito estreita.",
+    "snippet": "ela é muito estreita.",
+    "pronoun": "ela",
+    "correct_answer": "B",
+    "substitution_a": "A mesa",
+    "substitution_b": "A porta de entrada",
+    "translated": true
+  },
+  {
+    "schema": "Grace estava muito feliz em trocar sua blusa por minha jaqueta. Ela acha que ela fica deselegante nela.",
+    "snippet": "ela fica deselegante nela.",
+    "pronoun": "ela",
+    "correct_answer": "A",
+    "substitution_a": "A blusa",
+    "substitution_b": "A jaqueta",
+    "translated": true
+  },
+  {
+    "schema": "Grace estava muito feliz em trocar sua blusa por minha jaqueta. Ela acha que ela fica muito bem nela.",
+    "snippet": "ela fica muito bem nela.",
+    "pronoun": "ela",
+    "correct_answer": "B",
+    "substitution_a": "A blusa",
+    "substitution_b": "A jaqueta",
+    "translated": true
+  },
+  {
+    "schema": "John contratou Bill para cuidar dele.",
+    "snippet": "cuidar dele.",
+    "pronoun": "dele",
+    "correct_answer": "A",
+    "substitution_a": "John",
+    "substitution_b": "Bill",
+    "translated": true
+  },
+  {
+    "schema": "John foi contratado por Bill para cuidar dele.",
+    "snippet": "cuidar dele.",
+    "pronoun": "dele",
+    "correct_answer": "B",
+    "substitution_a": "John",
+    "substitution_b": "Bill",
+    "translated": true
+  },
+  {
+    "schema": "John prometeu a Bill que iria embora, então uma hora mais tarde ele partiu.",
+    "snippet": "ele partiu.",
+    "pronoun": "ele",
+    "correct_answer": "A",
+    "substitution_a": "John",
+    "substitution_b": "Bill",
+    "translated": true
+  },
+  {
+    "schema": "John ordenou a Bill que fosse embora, então uma hora mais tarde ele partiu.",
+    "snippet": "ele partiu.",
+    "pronoun": "ele",
+    "correct_answer": "B",
+    "substitution_a": "John",
+    "substitution_b": "Bill",
+    "translated": true
+  },
+  {
+    "schema": "A biografia de Sam Goodman sobre o general espartano Xenophanes comunica vividamente as dificuldades que ele enfrentou em sua pesquisa.",
+    "snippet": "dificuldades que ele enfrentou",
+    "pronoun": "ele",
+    "correct_answer": "A",
+    "substitution_a": "Goodman",
+    "substitution_b": "Xenophanes",
+    "translated": true
+  },
+  {
+    "schema": "A biografia de Sam Goodman sobre o general espartano Xenophanes comunica vividamente as dificuldades que ele enfrentou em sua infância.",
+    "snippet": "dificuldades que ele enfrentou",
+    "pronoun": "ele",
+    "correct_answer": "B",
+    "substitution_a": "Goodman",
+    "substitution_b": "Xenophanes",
+    "translated": true
+  },
+  {
+    "schema": "A mãe da Emma havia morrido fazia muitos anos, e a educação dela estava sendo cuidada por uma excelente governanta.",
+    "snippet": "a educação dela",
+    "pronoun": "dela",
+    "correct_answer": "A",
+    "substitution_a": "Emma",
+    "substitution_b": "A mãe da Emma",
+    "translated": true
+  },
+  {
+    "schema": "A mãe da Emma havia morrido fazia muitos anos, e a casa dela estava sendo cuidada por uma excelente governanta.",
+    "snippet": "a casa dela",
+    "pronoun": "dela",
+    "correct_answer": "B",
+    "substitution_a": "Emma",
+    "substitution_b": "A mãe da Emma",
+    "translated": true
+  },
+  {
+    "schema": "Jane bateu à porta de Susan mas ela não foi atendida.",
+    "snippet": "ela não foi atendida.",
+    "pronoun": "ela",
+    "correct_answer": "A",
+    "substitution_a": "Jane",
+    "substitution_b": "Susan",
+    "translated": true
+  },
+  {
+    "schema": "Jane bateu à porta de Susan mas ela não atendeu.",
+    "snippet": "ela não atendeu.",
+    "pronoun": "ela",
+    "correct_answer": "B",
+    "substitution_a": "Jane",
+    "substitution_b": "Susan",
+    "translated": true
+  },
+  {
+    "schema": "Joe pagou o detetive após ele ter recebido o relatório final sobre o caso.",
+    "snippet": "ele ter recebido o relatório final",
+    "pronoun": "ele",
+    "correct_answer": "A",
+    "substitution_a": "Joe",
+    "substitution_b": "O detetive",
+    "translated": true
+  },
+  {
+    "schema": "Joe pagou o detetive após ele ter entregado o relatório final sobre o caso.",
+    "snippet": "ele ter entregado o relatório final",
+    "pronoun": "ele",
+    "correct_answer": "B",
+    "substitution_a": "Joe",
+    "substitution_b": "O detetive",
+    "translated": true
+  },
+  {
+    "schema": "Beth não ficou brava com Sally, que havia a deixado de fora, porque ela parou e contou até dez.",
+    "snippet": "ela parou",
+    "pronoun": "ela",
+    "correct_answer": "A",
+    "substitution_a": "Beth",
+    "substitution_b": "Sally",
+    "translated": true
+  },
+  {
+    "schema": "Beth não ficou brava com Sally, que havia a deixado de fora, porque ela parou e pediu desculpas.",
+    "snippet": "ela parou",
+    "pronoun": "ela",
+    "correct_answer": "B",
+    "substitution_a": "Beth",
+    "substitution_b": "Sally",
+    "translated": true
+  },
+  {
+    "schema": "Jim fez um sinal para o barman e apontou para sua taça vazia.",
+    "snippet": "sua taça vazia.",
+    "pronoun": "sua",
+    "correct_answer": "A",
+    "substitution_a": "Jim",
+    "substitution_b": "O barman",
+    "translated": true
+  },
+  {
+    "schema": "Jim fez um sinal para o barman e apontou para sua chave do banheiro.",
+    "snippet": "sua chave do banheiro.",
+    "pronoun": "sua",
+    "correct_answer": "B",
+    "substitution_a": "Jim",
+    "substitution_b": "O barman",
+    "translated": true
+  },
+  {
+    "schema": "Dan ficou no banco de trás enquanto Bill reinvidicava a frente porque seu \"Eu primeiro!\" foi lento.",
+    "snippet": "seu \"Eu primeiro!\"",
+    "pronoun": "seu",
+    "correct_answer": "A",
+    "substitution_a": "Dan",
+    "substitution_b": "Bill",
+    "translated": true
+  },
+  {
+    "schema": "Dan ficou no banco de trás enquanto Bill reinvidicava a frente porque seu \"Eu primeiro!\" foi mais rápido.",
+    "snippet": "seu \"Eu primeiro!\"",
+    "pronoun": "seu",
+    "correct_answer": "B",
+    "substitution_a": "Dan",
+    "substitution_b": "Bill",
+    "translated": true
+  },
+  {
+    "schema": "Tom disse \"Check\" para Ralph enquanto ele movia seu bispo.",
+    "snippet": "seu bispo.",
+    "pronoun": "seu",
+    "correct_answer": "A",
+    "substitution_a": "Tom",
+    "substitution_b": "Ralph",
+    "translated": true
+  },
+  {
+    "schema": "Tom disse \"Check\" para Ralph enquanto ele tomava seu bispo.",
+    "snippet": "seu bispo.",
+    "pronoun": "seu",
+    "correct_answer": "B",
+    "substitution_a": "Tom",
+    "substitution_b": "Ralph",
+    "translated": true
+  },
+  {
+    "schema": "Enquanto Andrea no pequeno avião passava sobre Susan, ela podia ver a pista de aterrissagem.",
+    "snippet": "ela podia ver",
+    "pronoun": "ela",
+    "correct_answer": "A",
+    "substitution_a": "Andrea",
+    "substitution_b": "Susan",
+    "translated": true
+  },
+  {
+    "schema": "Enquanto Andrea no pequeno avião passava sobre Susan, ela podia ver o trem de pouso.",
+    "snippet": "ela podia ver",
+    "pronoun": "ela",
+    "correct_answer": "B",
+    "substitution_a": "Andrea",
+    "substitution_b": "Susan",
+    "translated": true
+  },
+  {
+    "schema": "Tom deu uma carona até a escola para Ralph, assim ele não teve que dirigir sozinho.",
+    "snippet": "ele não teve que dirigir sozinho.",
+    "pronoun": "ele",
+    "correct_answer": "A",
+    "substitution_a": "Tom",
+    "substitution_b": "Ralph",
+    "translated": true
+  },
+  {
+    "schema": "Tom deu uma carona até a escola para Ralph, assim ele não teve que caminhar.",
+    "snippet": "ele não teve que caminhar.",
+    "pronoun": "ele",
+    "correct_answer": "B",
+    "substitution_a": "Tom",
+    "substitution_b": "Ralph",
+    "translated": true
+  },
+  {
+    "schema": "Bill passou o prato pela metade para John porque ele estava satisfeito.",
+    "snippet": "ele estava satisfeito.",
+    "pronoun": "ele",
+    "correct_answer": "A",
+    "substitution_a": "Bill",
+    "substitution_b": "John",
+    "translated": true
+  },
+  {
+    "schema": "Bill passou o prato pela metade para John porque ele estava com fome.",
+    "snippet": "ele estava com fome.",
+    "pronoun": "ele",
+    "correct_answer": "B",
+    "substitution_a": "Bill",
+    "substitution_b": "John",
+    "translated": true
+  },
+  {
+    "schema": "Bill passou o gameboy para John porque sua vez tinha acabado.",
+    "snippet": "sua vez",
+    "pronoun": "sua",
+    "correct_answer": "A",
+    "substitution_a": "Bill",
+    "substitution_b": "John",
+    "translated": true
+  },
+  {
+    "schema": "Bill passou o gameboy para John porque sua vez era a próxima.",
+    "snippet": "sua vez",
+    "pronoun": "sua",
+    "correct_answer": "B",
+    "substitution_a": "Bill",
+    "substitution_b": "John",
+    "translated": true
+  },
+  {
+    "schema": "O homem levantou o menino sobre sua cabeça.",
+    "snippet": "sua cabeça.",
+    "pronoun": "sua",
+    "correct_answer": "A",
+    "substitution_a": "O homem",
+    "substitution_b": "O menino",
+    "translated": true
+  },
+  {
+    "schema": "O homem levantou o menino até sua beliche.",
+    "snippet": "sua beliche.",
+    "pronoun": "sua",
+    "correct_answer": "B",
+    "substitution_a": "O homem",
+    "substitution_b": "O menino",
+    "translated": true
+  },
+  {
+    "schema": "Alongando suas costas, a mulher sorriu para a menina.",
+    "snippet": "suas costas",
+    "pronoun": "suas",
+    "correct_answer": "A",
+    "substitution_a": "A mulher",
+    "substitution_b": "A menina",
+    "translated": true
+  },
+  {
+    "schema": "Dando um tapinha em suas costas, a mulher sorriu para a menina.",
+    "snippet": "suas costas",
+    "pronoun": "suas",
+    "correct_answer": "B",
+    "substitution_a": "A mulher",
+    "substitution_b": "A menina",
+    "translated": true
+  },
+  {
+    "schema": "Billy chorou porque Toby não queria aceitar seu brinquedo.",
+    "snippet": "seu brinquedo.",
+    "pronoun": "seu",
+    "correct_answer": "A",
+    "substitution_a": "Billy",
+    "substitution_b": "Toby",
+    "translated": true
+  },
+  {
+    "schema": "Billy chorou porque Toby não queria compartilhar seu brinquedo.",
+    "snippet": "seu brinquedo.",
+    "pronoun": "seu",
+    "correct_answer": "B",
+    "substitution_a": "Billy",
+    "substitution_b": "Toby",
+    "translated": true
+  },
+  {
+    "schema": "Lily conversou com Donna, quebrando sua promessa.",
+    "snippet": "sua promessa.",
+    "pronoun": "sua",
+    "correct_answer": "A",
+    "substitution_a": "Lily",
+    "substitution_b": "Donna",
+    "translated": true
+  },
+  {
+    "schema": "Lily conversou com Donna, tirando sua concentração.",
+    "snippet": "sua concentração.",
+    "pronoun": "sua",
+    "correct_answer": "B",
+    "substitution_a": "Lily",
+    "substitution_b": "Donna",
+    "translated": true
+  },
+  {
+    "schema": "Quando Tommy derrubou seu sorvete, Timmy gargalhou, então seu pai olhou-o com olhar empático.",
+    "snippet": "olhou-o",
+    "pronoun": "o",
+    "correct_answer": "A",
+    "substitution_a": "Tommy",
+    "substitution_b": "Timmy",
+    "translated": true
+  },
+  {
+    "schema": "Quando Tommy derrubou seu sorvete, Timmy gargalhou, então seu pai olhou-o com olhar severo.",
+    "snippet": "olhou-o",
+    "pronoun": "o",
+    "correct_answer": "B",
+    "substitution_a": "Tommy",
+    "substitution_b": "Timmy",
+    "translated": true
+  },
+  {
+    "schema": "Enquanto Ollie carregava Tommy subindo a longa escada em espiral, suas pernas doíam.",
+    "snippet": "suas pernas doíam.",
+    "pronoun": "suas",
+    "correct_answer": "A",
+    "substitution_a": "Ollie",
+    "substitution_b": "Tommy",
+    "translated": true
+  },
+  {
+    "schema": "Enquanto Ollie carregava Tommy subindo a longa escada em espiral, suas pernas balançavam.",
+    "snippet": "suas pernas balançavam.",
+    "pronoun": "suas",
+    "correct_answer": "B",
+    "substitution_a": "Ollie",
+    "substitution_b": "Tommy",
+    "translated": true
+  },
+  {
+    "schema": "O pai carregava o menino dormindo em seu colo.",
+    "snippet": "seu colo.",
+    "pronoun": "seu",
+    "correct_answer": "A",
+    "substitution_a": "O pai",
+    "substitution_b": "O menino",
+    "translated": true
+  },
+  {
+    "schema": "O pai carregava o menino dormindo em seu berço.",
+    "snippet": "seu berço.",
+    "pronoun": "seu",
+    "correct_answer": "B",
+    "substitution_a": "O pai",
+    "substitution_b": "O menino",
+    "translated": true
+  },
+  {
+    "schema": "A mulher estava segurando a menina contra seu peito.",
+    "snippet": "seu peito.",
+    "pronoun": "seu",
+    "correct_answer": "A",
+    "substitution_a": "A mulher",
+    "substitution_b": "A menina",
+    "translated": true
+  },
+  {
+    "schema": "A mulher estava segurando a menina contra seu desejo.",
+    "snippet": "seu desejo.",
+    "pronoun": "seu",
+    "correct_answer": "B",
+    "substitution_a": "A mulher",
+    "substitution_b": "A menina",
+    "translated": true
+  },
+  {
+    "schema": "Os pais da Pam chegaram em casa e a encontraram transando com seu namorado, Paul. Eles ficaram furiosos com isso.",
+    "snippet": "Eles ficaram furiosos",
+    "pronoun": "Eles",
+    "correct_answer": "A",
+    "substitution_a": "Os pais da Pam",
+    "substitution_b": "Pam e Paul",
+    "translated": true
+  },
+  {
+    "schema": "Os pais da Pam chegaram em casa e a encontraram transando com seu namorado, Paul. Eles ficaram constrangidos com isso.",
+    "snippet": "Eles ficaram constrangidos",
+    "pronoun": "Eles",
+    "correct_answer": "B",
+    "substitution_a": "Os pais da Pam",
+    "substitution_b": "Pam e Paul",
+    "translated": true
+  },
+  {
+    "schema": "Dra. Adams informou a Kate que ela tinha se aposentado e apresentou diversas opções para continuidade no seu tratamento.",
+    "snippet": "ela tinha se aposentado",
+    "pronoun": "ela",
+    "correct_answer": "A",
+    "substitution_a": "A Dra. Adams",
+    "substitution_b": "A Kate",
+    "translated": true
+  },
+  {
+    "schema": "Dra. Adams informou a Kate que ela tinha câncer e apresentou diversas opções para continuidade no seu tratamento.",
+    "snippet": "ela tinha câncer",
+    "pronoun": "ela",
+    "correct_answer": "B",
+    "substitution_a": "A Dra. Adams",
+    "substitution_b": "A Kate",
+    "translated": true
+  },
+  {
+    "schema": "Dan fez Bill parar de brincar com o pássaro machucado. Ele é muito compassivo.",
+    "snippet": "Ele é muito compassivo.",
+    "pronoun": "Ele",
+    "correct_answer": "A",
+    "substitution_a": "Dan",
+    "substitution_b": "Bill",
+    "translated": true
+  },
+  {
+    "schema": "Dan fez Bill parar de brincar com o pássaro machucado. Ele é muito cruel.",
+    "snippet": "Ele é muito cruel.",
+    "pronoun": "Ele",
+    "correct_answer": "B",
+    "substitution_a": "Dan",
+    "substitution_b": "Bill",
+    "translated": true
+  },
+  {
+    "schema": "George conseguiu ingressos de graça para a peça, mas ele os deu para Eric, mesmo ele estando particularmente interessado em assisti-la.",
+    "snippet": "ele estando particularmente interessado",
+    "pronoun": "ele",
+    "correct_answer": "A",
+    "substitution_a": "George",
+    "substitution_b": "Eric",
+    "translated": true
+  },
+  {
+    "schema": "George conseguiu ingressos de graça para a peça, mas ele os deu para Eric, porque ele estava particularmente interessado em assisti-la.",
+    "snippet": "ele estava particularmente interessado",
+    "pronoun": "ele",
+    "correct_answer": "B",
+    "substitution_a": "George",
+    "substitution_b": "Eric",
+    "translated": true
+  },
+  {
+    "schema": "George conseguiu ingressos de graça para a peça, mas ele os deu para Eric, porque ele não estava particularmente interessado em assisti-la.",
+    "snippet": "ele não estava particularmente interessado",
+    "pronoun": "ele",
+    "correct_answer": "A",
+    "substitution_a": "George",
+    "substitution_b": "Eric",
+    "translated": true
+  },
+  {
+    "schema": "Jane deu doces para Joan porque ela não estava com fome.",
+    "snippet": "ela não estava com fome.",
+    "pronoun": "ela",
+    "correct_answer": "A",
+    "substitution_a": "Jane",
+    "substitution_b": "Joan",
+    "translated": true
+  },
+  {
+    "schema": "Jane deu doces para Joan porque ela estava com fome.",
+    "snippet": "ela estava com fome.",
+    "pronoun": "ela",
+    "correct_answer": "B",
+    "substitution_a": "Jane",
+    "substitution_b": "Joan",
+    "translated": true
+  },
+  {
+    "schema": "Eu tentei fazer uma pintura de um pomar, com limões nos limoeiros, mas eles acabaram parecendo mais lâmpadas.",
+    "snippet": "eles acabaram",
+    "pronoun": "eles",
+    "correct_answer": "A",
+    "substitution_a": "Os limões",
+    "substitution_b": "Os limoeiros",
+    "translated": true
+  },
+  {
+    "schema": "Eu tentei fazer uma pintura de um pomar, com limões nos limoeiros, mas eles acabaram parecendo mais telefones públicos.",
+    "snippet": "eles acabaram",
+    "pronoun": "eles",
+    "correct_answer": "B",
+    "substitution_a": "Os limões",
+    "substitution_b": "Os limoeiros",
+    "translated": true
+  },
+  {
+    "schema": "James pediu um favor ao Robert mas ele teve seu pedido recusado.",
+    "snippet": "ele teve seu pedido recusado.",
+    "pronoun": "ele",
+    "correct_answer": "A",
+    "substitution_a": "James",
+    "substitution_b": "Robert",
+    "translated": true
+  },
+  {
+    "schema": "James pediu um favor ao Robert mas ele recusou-se a atender o favor.",
+    "snippet": "ele recusou-se a atender o favor.",
+    "pronoun": "ele",
+    "correct_answer": "B",
+    "substitution_a": "James",
+    "substitution_b": "Robert",
+    "translated": true
+  },
+  {
+    "schema": "Kirilov cedeu a presidência a Shatov porque ele era menos popular.",
+    "snippet": "ele era menos popular.",
+    "pronoun": "ele",
+    "correct_answer": "A",
+    "substitution_a": "Kirilov",
+    "substitution_b": "Shatov",
+    "translated": true
+  },
+  {
+    "schema": "Kirilov cedeu a presidência a Shatov porque ele era mais popular.",
+    "snippet": "ele era mais popular.",
+    "pronoun": "ele",
+    "correct_answer": "B",
+    "substitution_a": "Kirilov",
+    "substitution_b": "Shatov",
+    "translated": true
+  },
+  {
+    "schema": "Emma não passou a bola para Janie apesar de ela ter visto que ela estava livre.",
+    "snippet": "ela ter visto",
+    "pronoun": "ela",
+    "correct_answer": "A",
+    "substitution_a": "Emma",
+    "substitution_b": "Janie",
+    "translated": true
+  },
+  {
+    "schema": "Emma não passou a bola para Janie apesar de ela estar livre.",
+    "snippet": "ela estar livre.",
+    "pronoun": "ela",
+    "correct_answer": "B",
+    "substitution_a": "Emma",
+    "substitution_b": "Janie",
+    "translated": true
+  },
+  {
+    "schema": "Eu pus a asa de borboleta sobre a mesa e ela se quebrou.",
+    "snippet": "ela se quebrou.",
+    "pronoun": "ela",
+    "correct_answer": "A",
+    "substitution_a": "A asa de borboleta",
+    "substitution_b": "A mesa",
+    "translated": true
+  },
+  {
+    "schema": "Eu pus uma mochila pesada sobre a mesa e ela se quebrou.",
+    "snippet": "ela se quebrou.",
+    "pronoun": "ela",
+    "correct_answer": "B",
+    "substitution_a": "A mochila pesada",
+    "substitution_b": "A mesa",
+    "translated": true
+  },
+  {
+    "schema": "Madonna demitiu sua treinadora porque ela não suportava o namorado dela.",
+    "snippet": "ela não suportava",
+    "pronoun": "ela",
+    "correct_answer": "A",
+    "substitution_a": "Madonna",
+    "substitution_b": "A treinadora",
+    "translated": true
+  },
+  {
+    "schema": "Madonna demitiu sua treinadora porque ela dormiu com o namorado dela.",
+    "snippet": "ela dormiu",
+    "pronoun": "ela",
+    "correct_answer": "B",
+    "substitution_a": "Madonna",
+    "substitution_b": "A treinadora",
+    "translated": true
+  },
+  {
+    "schema": "Madonna demitiu sua treinadora porque ela dormiu com o namorado dela.",
+    "snippet": "namorado dela.",
+    "pronoun": "dela",
+    "correct_answer": "A",
+    "substitution_a": "Madonna",
+    "substitution_b": "A treinadora",
+    "translated": true
+  },
+  {
+    "schema": "Madonna demitiu sua treinadora porque ela não suportava o namorado dela.",
+    "snippet": "namorado dela.",
+    "pronoun": "dela",
+    "correct_answer": "B",
+    "substitution_a": "Madonna",
+    "substitution_b": "A treinadora",
+    "translated": true
+  },
+  {
+    "schema": "Carol acreditava que Rebecca suspeitava que ela tinha roubado o relógio.",
+    "snippet": "ela tinha roubado o relógio.",
+    "pronoun": "ela",
+    "correct_answer": "A",
+    "substitution_a": "Carol",
+    "substitution_b": "Rebecca",
+    "translated": true
+  },
+  {
+    "schema": "Carol acreditava que Rebecca lamentava que ela tinha roubado o relógio.",
+    "snippet": "que ela tinha roubado o relógio.",
+    "pronoun": "ela",
+    "correct_answer": "B",
+    "substitution_a": "Carol",
+    "substitution_b": "Rebecca",
+    "translated": true
+  },
+  {
+    "schema": "Este livro introduziu Shakespeare a Ovídio; ele foi uma grande influência em sua escrita.",
+    "snippet": "sua escrita.",
+    "pronoun": "sua",
+    "correct_answer": "A",
+    "substitution_a": "Shakespeare",
+    "substitution_b": "Ovídio",
+    "translated": true
+  },
+  {
+    "schema": "Este livro introduziu Shakespeare a Goethe; ele foi uma grande influência em sua escrita.",
+    "snippet": "sua escrita.",
+    "pronoun": "sua",
+    "correct_answer": "B",
+    "substitution_a": "Shakespeare",
+    "substitution_b": "Goethe",
+    "translated": true
+  },
+  {
+    "schema": "Este livro introduziu Shakespeare a Ovídio; ele era uma excelente seleção de sua escrita.",
+    "snippet": "sua escrita.",
+    "pronoun": "sua",
+    "correct_answer": "B",
+    "substitution_a": "Shakespeare",
+    "substitution_b": "Ovídio",
+    "translated": true
+  },
+  {
+    "schema": "Este livro introduziu Shakespeare a Goethe; ele era uma excelente seleção de sua escrita.",
+    "snippet": "sua escrita.",
+    "pronoun": "sua",
+    "correct_answer": "A",
+    "substitution_a": "Shakespeare",
+    "substitution_b": "Goethe",
+    "translated": true
+  },
+  {
+    "schema": "Alice procurou por sua amiga Jade na multidão. Dado que ela sempre tem muita sorte, Alice a encontrou rapidamente.",
+    "snippet": "ela sempre tem muita sorte",
+    "pronoun": "ela",
+    "correct_answer": "A",
+    "substitution_a": "Alice",
+    "substitution_b": "Jade",
+    "translated": true
+  },
+  {
+    "schema": "Alice procurou por sua amiga Jade na multidão. Dado que ela sempre usa um turbante vermelho, Alice a encontrou rapidamente.",
+    "snippet": "ela sempre usa um turbante vermelho",
+    "pronoun": "ela",
+    "correct_answer": "B",
+    "substitution_a": "Alice",
+    "substitution_b": "Jade",
+    "translated": true
+  },
+  {
+    "schema": "Durante um jogo de pega-pega, Ethan perseguiu Luke porque \"estava com ele\".",
+    "snippet": "\"estava com ele\".",
+    "pronoun": "ele",
+    "correct_answer": "A",
+    "substitution_a": "Ethan",
+    "substitution_b": "Luke",
+    "translated": true
+  },
+  {
+    "schema": "Durante um jogo de pega-pega, Ethan fugiu do Luke porque \"estava com ele\".",
+    "snippet": "\"estava com ele\".",
+    "pronoun": "ele",
+    "correct_answer": "B",
+    "substitution_a": "Ethan",
+    "substitution_b": "Luke",
+    "translated": true
+  },
+  {
+    "schema": "Na competição Loebner os juízes não conseguiam descobrir quais respondentes eram os chatbots porque eles eram muito estúpidos.",
+    "snippet": "eles eram muito estúpidos.",
+    "pronoun": "eles",
+    "correct_answer": "A",
+    "substitution_a": "Os juízes",
+    "substitution_b": "Os chatbots",
+    "translated": true
+  },
+  {
+    "schema": "Na competição Loebner os juízes não conseguiam descobrir quais respondentes eram os chatbots porque eles eram muito avançados.",
+    "snippet": "eles eram muito avançados.",
+    "pronoun": "eles",
+    "correct_answer": "B",
+    "substitution_a": "Os juízes",
+    "substitution_b": "Os chatbots",
+    "translated": true
+  },
+  {
+    "schema": "O usuário mudou sua senha \"GrWQWu8JyC\" para \"willow-towered Canopy Huntertropic wrestles\" porque ela era fácil de esquecer.",
+    "snippet": "ela era fácil de esquecer.",
+    "pronoun": "ela",
+    "correct_answer": "A",
+    "substitution_a": "GrWQWu8JyC",
+    "substitution_b": "willow-towered Canopy Huntertropic wrestles",
+    "translated": true
+  },
+  {
+    "schema": "O usuário mudou sua senha \"GrWQWu8JyC\" para \"willow-towered Canopy Huntertropic wrestles\" porque ela era fácil de lembrar.",
+    "snippet": "ela era fácil de lembrar.",
+    "pronoun": "ela",
+    "correct_answer": "B",
+    "substitution_a": "GrWQWu8JyC",
+    "substitution_b": "willow-towered Canopy Huntertropic wrestles",
+    "translated": true
+  }
+]
