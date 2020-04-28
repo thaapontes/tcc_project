@@ -3,8 +3,10 @@ from bs4 import BeautifulSoup
 
 MISSING_TRANSLATION_INDEXES = [60, 61, 62, 63, 72, 73, 86, 87]
 
+
 def join_content(item):
-    content = [it.strip().replace('  ', ' ') for it in item.text.split('\n') if it.strip() != '']
+    content = [it.strip().replace('  ', ' ')
+               for it in item.text.split('\n') if it.strip() != '']
     return content
 
 
@@ -46,7 +48,8 @@ def generate_df_from_html(file_name):
         pronoun = item.find('b').text.strip()
 
         content = join_content(item)
-        correct_answer = content[-1].replace('Resposta Correta:', '').strip()[0]
+        correct_answer = content[-1].replace(
+            'Resposta Correta:', '').strip()[0]
         substitution_a = content[-3]
         substitution_b = content[-2]
 
@@ -54,7 +57,8 @@ def generate_df_from_html(file_name):
 
         translated = True
 
-        row = [schema, snippet, pronoun, correct_answer, substitution_a, substitution_b, translated]
+        row = [schema, snippet, pronoun, correct_answer,
+               substitution_a, substitution_b, translated]
         rows.append(row)
 
     df = pd.DataFrame(rows, columns=['schema', 'snippet', 'pronoun', 'correct_answer',
