@@ -162,7 +162,7 @@
 		"translated": true
 	},
 	{
-		"schema": "John couldn&#39;t see the stage with Billy in front of him because he is too short.",
+		"schema": "John couldn't see the stage with Billy in front of him because he is too short.",
 		"snippet": "he is very short.",
 		"pronoun": "he",
 		"correct_answer": "A",
@@ -171,8 +171,8 @@
 		"translated": true
 	},
 	{
-		"schema": "John couldn&#39;t see the stage with Billy in front of him because he is too tall.",
-		"snippet": "He&#39;s too tall.",
+		"schema": "John couldn't see the stage with Billy in front of him because he is too tall.",
+		"snippet": "He's too tall.",
 		"pronoun": "he",
 		"correct_answer": "B",
 		"substitution_a": "John",
@@ -234,21 +234,21 @@
 		"translated": true
 	},
 	{
-		"schema": "Sam&#39;s drawing was hanging immediately above Tina&#39;s and he actually looked much better with one below him.",
+		"schema": "Sam's drawing was hanging immediately above Tina's and he actually looked much better with one below him.",
 		"snippet": "he was actually very",
 		"pronoun": "he",
 		"correct_answer": "A",
-		"substitution_a": "Sam&#39;s drawing",
-		"substitution_b": "Tina&#39;s drawing",
+		"substitution_a": "Sam's drawing",
+		"substitution_b": "Tina's drawing",
 		"translated": true
 	},
 	{
-		"schema": "Sam&#39;s drawing was hanging immediately above Tina&#39;s and he actually looked much better with one above him.",
+		"schema": "Sam's drawing was hanging immediately above Tina's and he actually looked much better with one above him.",
 		"snippet": "he was actually very",
 		"pronoun": "he",
 		"correct_answer": "B",
-		"substitution_a": "Sam&#39;s drawing",
-		"substitution_b": "Tina&#39;s drawing",
+		"substitution_a": "Sam's drawing",
+		"substitution_b": "Tina's drawing",
 		"translated": true
 	},
 	{
@@ -288,7 +288,7 @@
 		"translated": true
 	},
 	{
-		"schema": "Frank was upset with Tom because the toaster he had bought from him didn&#39;t work.",
+		"schema": "Frank was upset with Tom because the toaster he had bought from him didn't work.",
 		"snippet": "he had bought",
 		"pronoun": "he",
 		"correct_answer": "A",
@@ -297,7 +297,7 @@
 		"translated": true
 	},
 	{
-		"schema": "Frank was upset with Tom because the toaster he had sold to him didn&#39;t work.",
+		"schema": "Frank was upset with Tom because the toaster he had sold to him didn't work.",
 		"snippet": "he had sold",
 		"pronoun": "he",
 		"correct_answer": "B",
@@ -396,7 +396,7 @@
 		"translated": true
 	},
 	{
-		"schema": "Susan knows all about Ann&#39;s personal problems because she is nosy.",
+		"schema": "Susan knows all about Ann's personal problems because she is nosy.",
 		"snippet": "she is nosy.",
 		"pronoun": "she",
 		"correct_answer": "A",
@@ -405,7 +405,7 @@
 		"translated": true
 	},
 	{
-		"schema": "Susan knows all about Ann&#39;s personal problems because she is indiscreet.",
+		"schema": "Susan knows all about Ann's personal problems because she is indiscreet.",
 		"snippet": "she is indiscreet.",
 		"pronoun": "she",
 		"correct_answer": "B",
@@ -432,7 +432,7 @@
 		"translated": true
 	},
 	{
-		"schema": "Susan knew that Ann&#39;s son had been involved in a car accident, so she told him about it.",
+		"schema": "Susan knew that Ann's son had been involved in a car accident, so she told him about it.",
 		"snippet": "she told him",
 		"pronoun": "she",
 		"correct_answer": "A",
@@ -441,7 +441,7 @@
 		"translated": true
 	},
 	{
-		"schema": "Susan knew that Ann&#39;s son had been involved in a car accident because she told him about it.",
+		"schema": "Susan knew that Ann's son had been involved in a car accident because she told him about it.",
 		"snippet": "she told him",
 		"pronoun": "she",
 		"correct_answer": "B",
@@ -450,26 +450,26 @@
 		"translated": true
 	},
 	{
-		"schema": "Joe&#39;s uncle still manages to beat him in tennis, even though he is 30 years younger.",
+		"schema": "Joe's uncle still manages to beat him in tennis, even though he is 30 years younger.",
 		"snippet": "he is 30 years younger.",
 		"pronoun": "he",
 		"correct_answer": "A",
 		"substitution_a": "Joe",
-		"substitution_b": "Joe&#39;s uncle",
+		"substitution_b": "Joe's uncle",
 		"translated": true
 	},
 	{
-		"schema": "Joe&#39;s uncle still manages to beat him in tennis, even though he is 30 years older.",
+		"schema": "Joe's uncle still manages to beat him in tennis, even though he is 30 years older.",
 		"snippet": "he is 30 years older.",
 		"pronoun": "he",
 		"correct_answer": "B",
 		"substitution_a": "Joe",
-		"substitution_b": "Joe&#39;s uncle",
+		"substitution_b": "Joe's uncle",
 		"translated": true
 	},
 	{
-		"schema": "The picture in Mark&#39;s living room shows an oak. He&#39;s to the right of the bookcase.",
-		"snippet": "He&#39;s on the right",
+		"schema": "The picture in Mark's living room shows an oak. He's to the right of the bookcase.",
+		"snippet": "He's on the right",
 		"pronoun": "He",
 		"correct_answer": "A",
 		"substitution_a": "The board",
@@ -477,8 +477,8 @@
 		"translated": true
 	},
 	{
-		"schema": "The picture in Mark&#39;s living room shows an oak. He&#39;s to the right of the house.",
-		"snippet": "He&#39;s on the right",
+		"schema": "The picture in Mark's living room shows an oak. He's to the right of the house.",
+		"snippet": "He's on the right",
 		"pronoun": "He",
 		"correct_answer": "B",
 		"substitution_a": "The board",
@@ -522,7 +522,7 @@
 		"translated": true
 	},
 	{
-		"schema": "My appointment started at 4:00 and I needed to take the train at 4:30, so there wasn&#39;t much time. Fortunately, he was brief, so everything went well.",
+		"schema": "My appointment started at 4:00 and I needed to take the train at 4:30, so there wasn't much time. Fortunately, he was brief, so everything went well.",
 		"snippet": "he was brief",
 		"pronoun": "he",
 		"correct_answer": "A",
@@ -531,7 +531,7 @@
 		"translated": true
 	},
 	{
-		"schema": "My appointment started at 4:00 and I needed to take the train at 4:30, so there wasn&#39;t much time. Fortunately, he was late, so everything worked out.",
+		"schema": "My appointment started at 4:00 and I needed to take the train at 4:30, so there wasn't much time. Fortunately, he was late, so everything worked out.",
 		"snippet": "he delayed",
 		"pronoun": "he",
 		"correct_answer": "B",
@@ -666,7 +666,7 @@
 		"translated": false
 	},
 	{
-		"schema": "I&#39;m sure my map will show this building; he is very good.",
+		"schema": "I'm sure my map will show this building; he is very good.",
 		"snippet": "he is very good.",
 		"pronoun": "he",
 		"correct_answer": "A",
@@ -675,7 +675,7 @@
 		"translated": true
 	},
 	{
-		"schema": "I&#39;m sure my map will show this building; he is very famous.",
+		"schema": "I'm sure my map will show this building; he is very famous.",
 		"snippet": "he is very famous.",
 		"pronoun": "he",
 		"correct_answer": "B",
@@ -684,8 +684,8 @@
 		"translated": true
 	},
 	{
-		"schema": "Bob paid for Charlie&#39;s higher education. He&#39;s very generous.",
-		"snippet": "He&#39;s very generous.",
+		"schema": "Bob paid for Charlie's higher education. He's very generous.",
+		"snippet": "He's very generous.",
 		"pronoun": "He",
 		"correct_answer": "A",
 		"substitution_a": "Bob",
@@ -693,8 +693,8 @@
 		"translated": true
 	},
 	{
-		"schema": "Bob paid for Charlie&#39;s higher education. He&#39;s very grateful.",
-		"snippet": "He&#39;s very grateful.",
+		"schema": "Bob paid for Charlie's higher education. He's very grateful.",
+		"snippet": "He's very grateful.",
 		"pronoun": "He",
 		"correct_answer": "B",
 		"substitution_a": "Bob",
@@ -702,8 +702,8 @@
 		"translated": true
 	},
 	{
-		"schema": "Bob paid for Charlie&#39;s higher education, but now Charlie acts like it never happened. He&#39;s very hurt.",
-		"snippet": "He&#39;s very hurt.",
+		"schema": "Bob paid for Charlie's higher education, but now Charlie acts like it never happened. He's very hurt.",
+		"snippet": "He's very hurt.",
 		"pronoun": "He",
 		"correct_answer": "A",
 		"substitution_a": "Bob",
@@ -711,8 +711,8 @@
 		"translated": true
 	},
 	{
-		"schema": "Bob paid for Charlie&#39;s higher education, but now Charlie acts like it never happened. He&#39;s very ungrateful.",
-		"snippet": "He&#39;s very ungrateful.",
+		"schema": "Bob paid for Charlie's higher education, but now Charlie acts like it never happened. He's very ungrateful.",
+		"snippet": "He's very ungrateful.",
 		"pronoun": "He",
 		"correct_answer": "B",
 		"substitution_a": "Bob",
@@ -720,7 +720,7 @@
 		"translated": true
 	},
 	{
-		"schema": "Bob was playing cards with Adam and was far ahead on the scoreboard. If Adam hadn&#39;t had a run of luck, he would have won.",
+		"schema": "Bob was playing cards with Adam and was far ahead on the scoreboard. If Adam hadn't had a run of luck, he would have won.",
 		"snippet": "he would have won.",
 		"pronoun": "he",
 		"correct_answer": "A",
@@ -729,7 +729,7 @@
 		"translated": true
 	},
 	{
-		"schema": "Bob was playing cards with Adam and was far ahead on the scoreboard. If Adam hadn&#39;t had a run of luck, he would have lost.",
+		"schema": "Bob was playing cards with Adam and was far ahead on the scoreboard. If Adam hadn't had a run of luck, he would have lost.",
 		"snippet": "he would have lost.",
 		"pronoun": "he",
 		"correct_answer": "B",
@@ -815,7 +815,7 @@
 		"pronoun": "She",
 		"correct_answer": "A",
 		"substitution_a": "Anne",
-		"substitution_b": "Anne&#39;s daughter",
+		"substitution_b": "Anne's daughter",
 		"translated": true
 	},
 	{
@@ -824,7 +824,7 @@
 		"pronoun": "She",
 		"correct_answer": "B",
 		"substitution_a": "Anne",
-		"substitution_b": "Anne&#39;s daughter",
+		"substitution_b": "Anne's daughter",
 		"translated": true
 	},
 	{
@@ -833,7 +833,7 @@
 		"pronoun": "she",
 		"correct_answer": "A",
 		"substitution_a": "Alice",
-		"substitution_b": "Alice&#39;s daughter",
+		"substitution_b": "Alice's daughter",
 		"translated": true
 	},
 	{
@@ -842,11 +842,11 @@
 		"pronoun": "she",
 		"correct_answer": "B",
 		"substitution_a": "Alice",
-		"substitution_b": "Alice&#39;s daughter",
+		"substitution_b": "Alice's daughter",
 		"translated": true
 	},
 	{
-		"schema": "I saw Jim yelling at a guy who wore a uniform and had a big red beard. I don&#39;t know why he was like this, but he looked very upset.",
+		"schema": "I saw Jim yelling at a guy who wore a uniform and had a big red beard. I don't know why he was like this, but he looked very upset.",
 		"snippet": "because he was like this",
 		"pronoun": "he",
 		"correct_answer": "A",
@@ -855,7 +855,7 @@
 		"translated": true
 	},
 	{
-		"schema": "I saw Jim yelling at a guy who wore a uniform and had a big red beard. I don&#39;t know who he was, but he looked very upset.",
+		"schema": "I saw Jim yelling at a guy who wore a uniform and had a big red beard. I don't know who he was, but he looked very upset.",
 		"snippet": "who he was",
 		"pronoun": "he",
 		"correct_answer": "B",
@@ -883,7 +883,7 @@
 	},
 	{
 		"schema": "I was trying to open the lock with the key, but someone had filled the lock with chewing gum, and I was unable to insert it.",
-		"snippet": "I couldn&#39;t insert it.",
+		"snippet": "I couldn't insert it.",
 		"pronoun": "the",
 		"correct_answer": "A",
 		"substitution_a": "The key",
@@ -891,8 +891,8 @@
 		"translated": true
 	},
 	{
-		"schema": "I was trying to open the lock with the key, but someone had filled the lock with chewing gum, and I couldn&#39;t remove it.",
-		"snippet": "I couldn&#39;t remove it.",
+		"schema": "I was trying to open the lock with the key, but someone had filled the lock with chewing gum, and I couldn't remove it.",
+		"snippet": "I couldn't remove it.",
 		"pronoun": "the",
 		"correct_answer": "B",
 		"substitution_a": "The key",
@@ -1008,21 +1008,21 @@
 		"translated": true
 	},
 	{
-		"schema": "Sam and Amy are extremely in love, but Amy&#39;s parents are bothered by this because they are fifteen.",
+		"schema": "Sam and Amy are extremely in love, but Amy's parents are bothered by this because they are fifteen.",
 		"snippet": "they are fifteen years old.",
 		"pronoun": "they",
 		"correct_answer": "A",
 		"substitution_a": "Sam e Amy",
-		"substitution_b": "Amy&#39;s parents",
+		"substitution_b": "Amy's parents",
 		"translated": true
 	},
 	{
-		"schema": "Sam and Amy are extremely in love, but Amy&#39;s parents are bothered by this because they are snobs.",
+		"schema": "Sam and Amy are extremely in love, but Amy's parents are bothered by this because they are snobs.",
 		"snippet": "they are snobs.",
 		"pronoun": "they",
 		"correct_answer": "B",
 		"substitution_a": "Sam and Amy",
-		"substitution_b": "Amy&#39;s parents",
+		"substitution_b": "Amy's parents",
 		"translated": true
 	},
 	{
@@ -1062,21 +1062,21 @@
 		"translated": true
 	},
 	{
-		"schema": "Many people start reading Paul&#39;s chronicles and are unable to drop them. They get attached because Paul writes so well.",
+		"schema": "Many people start reading Paul's chronicles and are unable to drop them. They get attached because Paul writes so well.",
 		"snippet": "They get attached",
 		"pronoun": "They",
 		"correct_answer": "A",
 		"substitution_a": "People",
-		"substitution_b": "Paul&#39;s Chronicles",
+		"substitution_b": "Paul's Chronicles",
 		"translated": true
 	},
 	{
-		"schema": "Many people start reading Paul&#39;s chronicles and are unable to drop them. They are popular because Paul writes so well.",
+		"schema": "Many people start reading Paul's chronicles and are unable to drop them. They are popular because Paul writes so well.",
 		"snippet": "They are popular",
 		"pronoun": "They",
 		"correct_answer": "B",
 		"substitution_a": "People",
-		"substitution_b": "Paul&#39;s Chronicles",
+		"substitution_b": "Paul's Chronicles",
 		"translated": true
 	},
 	{
@@ -1170,7 +1170,7 @@
 		"translated": true
 	},
 	{
-		"schema": "Jane knocked on Susan&#39;s door, but no one answered. She was disappointed.",
+		"schema": "Jane knocked on Susan's door, but no one answered. She was disappointed.",
 		"snippet": "She was disappointed.",
 		"pronoun": "She",
 		"correct_answer": "A",
@@ -1179,7 +1179,7 @@
 		"translated": true
 	},
 	{
-		"schema": "Jane knocked on Susan&#39;s door, but no one answered. She was gone.",
+		"schema": "Jane knocked on Susan's door, but no one answered. She was gone.",
 		"snippet": "She was gone.",
 		"pronoun": "She",
 		"correct_answer": "B",
@@ -1224,7 +1224,7 @@
 		"translated": true
 	},
 	{
-		"schema": "The path to the lake was closed, so we couldn&#39;t use it.",
+		"schema": "The path to the lake was closed, so we couldn't use it.",
 		"snippet": "use it.",
 		"pronoun": "the",
 		"correct_answer": "A",
@@ -1233,7 +1233,7 @@
 		"translated": true
 	},
 	{
-		"schema": "The path to the lake was closed, so we couldn&#39;t reach it.",
+		"schema": "The path to the lake was closed, so we couldn't reach it.",
 		"snippet": "achieve it.",
 		"pronoun": "the",
 		"correct_answer": "B",
@@ -1301,7 +1301,7 @@
 		"pronoun": "she",
 		"correct_answer": "A",
 		"substitution_a": "Mary",
-		"substitution_b": "Mary&#39;s daughter",
+		"substitution_b": "Mary's daughter",
 		"translated": true
 	},
 	{
@@ -1310,7 +1310,7 @@
 		"pronoun": "she",
 		"correct_answer": "B",
 		"substitution_a": "Mary",
-		"substitution_b": "Mary&#39;s daughter",
+		"substitution_b": "Mary's daughter",
 		"translated": true
 	},
 	{
@@ -1332,7 +1332,7 @@
 		"translated": true
 	},
 	{
-		"schema": "Thomson visited Cooper&#39;s grave in 1765. At that time, he had been traveling for five years.",
+		"schema": "Thomson visited Cooper's grave in 1765. At that time, he had been traveling for five years.",
 		"snippet": "he was traveling.",
 		"pronoun": "he",
 		"correct_answer": "A",
@@ -1341,7 +1341,7 @@
 		"translated": true
 	},
 	{
-		"schema": "Thomson visited Cooper&#39;s grave in 1765. On that date he had been dead for five years.",
+		"schema": "Thomson visited Cooper's grave in 1765. On that date he had been dead for five years.",
 		"snippet": "he was dead.",
 		"pronoun": "he",
 		"correct_answer": "B",
@@ -1368,7 +1368,7 @@
 		"translated": true
 	},
 	{
-		"schema": "I can&#39;t cut that tree with this saw; it is very thick.",
+		"schema": "I can't cut that tree with this saw; it is very thick.",
 		"snippet": "it is very thick.",
 		"pronoun": "she",
 		"correct_answer": "A",
@@ -1377,7 +1377,7 @@
 		"translated": true
 	},
 	{
-		"schema": "I can&#39;t cut that tree with this saw; it is very small.",
+		"schema": "I can't cut that tree with this saw; it is very small.",
 		"snippet": "it is very small.",
 		"pronoun": "she",
 		"correct_answer": "B",
@@ -1440,7 +1440,7 @@
 		"translated": true
 	},
 	{
-		"schema": "The actress&#39;s name used to be Terpsichore, but she changed it to Tina a few years ago, because she realized he was very difficult to pronounce.",
+		"schema": "The actress's name used to be Terpsichore, but she changed it to Tina a few years ago, because she realized he was very difficult to pronounce.",
 		"snippet": "he was very difficult",
 		"pronoun": "he",
 		"correct_answer": "A",
@@ -1449,7 +1449,7 @@
 		"translated": true
 	},
 	{
-		"schema": "The actress&#39;s name used to be Terpsichore, but she changed it to Tina a few years ago because she realized that he was easier to pronounce.",
+		"schema": "The actress's name used to be Terpsichore, but she changed it to Tina a few years ago because she realized that he was easier to pronounce.",
 		"snippet": "he was easier",
 		"pronoun": "he",
 		"correct_answer": "B",
@@ -1494,8 +1494,8 @@
 		"translated": true
 	},
 	{
-		"schema": "Fred is the only person who still remembers my great grandfather. He&#39;s a memorable man.",
-		"snippet": "He&#39;s a memorable man.",
+		"schema": "Fred is the only person who still remembers my great grandfather. He's a memorable man.",
+		"snippet": "He's a memorable man.",
 		"pronoun": "He",
 		"correct_answer": "A",
 		"substitution_a": "Fred",
@@ -1530,7 +1530,7 @@
 		"translated": true
 	},
 	{
-		"schema": "In July, Kamtchatka declared war on Yakutsk. Given that Yakutsk&#39;s army was much better equipped and ten times larger, they were defeated in weeks.",
+		"schema": "In July, Kamtchatka declared war on Yakutsk. Given that Yakutsk's army was much better equipped and ten times larger, they were defeated in weeks.",
 		"snippet": "they were defeated",
 		"pronoun": "they",
 		"correct_answer": "A",
@@ -1539,7 +1539,7 @@
 		"translated": true
 	},
 	{
-		"schema": "In July, Kamtchatka declared war on Yakutsk. Given that Yakutsk&#39;s army was much better equipped and ten times larger, they were victorious in weeks.",
+		"schema": "In July, Kamtchatka declared war on Yakutsk. Given that Yakutsk's army was much better equipped and ten times larger, they were victorious in weeks.",
 		"snippet": "they were victorious",
 		"pronoun": "they",
 		"correct_answer": "B",
@@ -1548,7 +1548,7 @@
 		"translated": true
 	},
 	{
-		"schema": "Look! There&#39;s a goldfish swimming right under that duck! He better get away to a safe place fast!",
+		"schema": "Look! There's a goldfish swimming right under that duck! He better get away to a safe place fast!",
 		"snippet": "he run away",
 		"pronoun": "he",
 		"correct_answer": "A",
@@ -1557,7 +1557,7 @@
 		"translated": true
 	},
 	{
-		"schema": "Look! There&#39;s a shark swimming right under that duck! He better get away to a safe place fast!",
+		"schema": "Look! There's a shark swimming right under that duck! He better get away to a safe place fast!",
 		"snippet": "he run away",
 		"pronoun": "he",
 		"correct_answer": "B",
@@ -1746,7 +1746,7 @@
 		"translated": true
 	},
 	{
-		"schema": "I wasn&#39;t finding a spoon, so I tried to use a brush to stir my coffee. But in the end it was a bad idea, because it was full of coffee.",
+		"schema": "I wasn't finding a spoon, so I tried to use a brush to stir my coffee. But in the end it was a bad idea, because it was full of coffee.",
 		"snippet": "it was full of coffee.",
 		"pronoun": "he",
 		"correct_answer": "A",
@@ -1755,7 +1755,7 @@
 		"translated": true
 	},
 	{
-		"schema": "I wasn&#39;t finding a spoon, so I tried to use a brush to stir my coffee. But in the end it was a bad idea, because it got full of paint.",
+		"schema": "I wasn't finding a spoon, so I tried to use a brush to stir my coffee. But in the end it was a bad idea, because it got full of paint.",
 		"snippet": "it got full of paint.",
 		"pronoun": "he",
 		"correct_answer": "B",
@@ -1764,7 +1764,7 @@
 		"translated": true
 	},
 	{
-		"schema": "Steve follows Fred&#39;s example in everything. He admires you immensely.",
+		"schema": "Steve follows Fred's example in everything. He admires you immensely.",
 		"snippet": "He admires you immensely.",
 		"pronoun": "He",
 		"correct_answer": "A",
@@ -1773,7 +1773,7 @@
 		"translated": true
 	},
 	{
-		"schema": "Steve follows Fred&#39;s example in everything. It influences you immensely.",
+		"schema": "Steve follows Fred's example in everything. It influences you immensely.",
 		"snippet": "It influences you immensely.",
 		"pronoun": "He",
 		"correct_answer": "B",
@@ -1854,7 +1854,7 @@
 		"translated": true
 	},
 	{
-		"schema": "Sam Goodman&#39;s biography of Spartan general Xenophanes vividly communicates the difficulties he faced in his research.",
+		"schema": "Sam Goodman's biography of Spartan general Xenophanes vividly communicates the difficulties he faced in his research.",
 		"snippet": "difficulties he faced",
 		"pronoun": "he",
 		"correct_answer": "A",
@@ -1863,7 +1863,7 @@
 		"translated": true
 	},
 	{
-		"schema": "Sam Goodman&#39;s biography of Spartan general Xenophanes vividly communicates the difficulties he faced in his childhood.",
+		"schema": "Sam Goodman's biography of Spartan general Xenophanes vividly communicates the difficulties he faced in his childhood.",
 		"snippet": "difficulties he faced",
 		"pronoun": "he",
 		"correct_answer": "B",
@@ -1872,25 +1872,25 @@
 		"translated": true
 	},
 	{
-		"schema": "Emma&#39;s mother had died many years ago, and her education was being taken care of by an excellent housekeeper.",
+		"schema": "Emma's mother had died many years ago, and her education was being taken care of by an excellent housekeeper.",
 		"snippet": "her education",
 		"pronoun": "share",
 		"correct_answer": "A",
 		"substitution_a": "Emma",
-		"substitution_b": "Emma&#39;s mother",
+		"substitution_b": "Emma's mother",
 		"translated": true
 	},
 	{
-		"schema": "Emma&#39;s mother had died many years ago, and her house was being looked after by an excellent housekeeper.",
+		"schema": "Emma's mother had died many years ago, and her house was being looked after by an excellent housekeeper.",
 		"snippet": "her house",
 		"pronoun": "share",
 		"correct_answer": "B",
 		"substitution_a": "Emma",
-		"substitution_b": "Emma&#39;s mother",
+		"substitution_b": "Emma's mother",
 		"translated": true
 	},
 	{
-		"schema": "Jane knocked on Susan&#39;s door but she was not answered.",
+		"schema": "Jane knocked on Susan's door but she was not answered.",
 		"snippet": "she was not answered.",
 		"pronoun": "she",
 		"correct_answer": "A",
@@ -1899,8 +1899,8 @@
 		"translated": true
 	},
 	{
-		"schema": "Jane knocked on Susan&#39;s door but she didn&#39;t answer.",
-		"snippet": "she didn&#39;t answer.",
+		"schema": "Jane knocked on Susan's door but she didn't answer.",
+		"snippet": "she didn't answer.",
 		"pronoun": "she",
 		"correct_answer": "B",
 		"substitution_a": "Jane",
@@ -2016,8 +2016,8 @@
 		"translated": true
 	},
 	{
-		"schema": "Tom gave Ralph a ride to school, so he didn&#39;t have to drive alone.",
-		"snippet": "he didn&#39;t have to drive alone.",
+		"schema": "Tom gave Ralph a ride to school, so he didn't have to drive alone.",
+		"snippet": "he didn't have to drive alone.",
 		"pronoun": "he",
 		"correct_answer": "A",
 		"substitution_a": "Tom",
@@ -2025,8 +2025,8 @@
 		"translated": true
 	},
 	{
-		"schema": "Tom gave Ralph a ride to school, so he didn&#39;t have to walk.",
-		"snippet": "he didn&#39;t have to walk.",
+		"schema": "Tom gave Ralph a ride to school, so he didn't have to walk.",
+		"snippet": "he didn't have to walk.",
 		"pronoun": "he",
 		"correct_answer": "B",
 		"substitution_a": "Tom",
@@ -2106,7 +2106,7 @@
 		"translated": true
 	},
 	{
-		"schema": "Billy cried because Toby didn&#39;t want to accept his toy.",
+		"schema": "Billy cried because Toby didn't want to accept his toy.",
 		"snippet": "your toy.",
 		"pronoun": "your",
 		"correct_answer": "A",
@@ -2115,7 +2115,7 @@
 		"translated": true
 	},
 	{
-		"schema": "Billy cried because Toby didn&#39;t want to share his toy.",
+		"schema": "Billy cried because Toby didn't want to share his toy.",
 		"snippet": "your toy.",
 		"pronoun": "your",
 		"correct_answer": "B",
@@ -2214,20 +2214,20 @@
 		"translated": true
 	},
 	{
-		"schema": "Pam&#39;s parents came home and found her having sex with her boyfriend, Paul. They were furious about it.",
+		"schema": "Pam's parents came home and found her having sex with her boyfriend, Paul. They were furious about it.",
 		"snippet": "They were furious",
 		"pronoun": "They",
 		"correct_answer": "A",
-		"substitution_a": "Pam&#39;s parents",
+		"substitution_a": "Pam's parents",
 		"substitution_b": "Pam and Paul",
 		"translated": true
 	},
 	{
-		"schema": "Pam&#39;s parents came home and found her having sex with her boyfriend, Paul. They were embarrassed by this.",
+		"schema": "Pam's parents came home and found her having sex with her boyfriend, Paul. They were embarrassed by this.",
 		"snippet": "They were embarrassed",
 		"pronoun": "They",
 		"correct_answer": "B",
-		"substitution_a": "Pam&#39;s parents",
+		"substitution_a": "Pam's parents",
 		"substitution_b": "Pam and Paul",
 		"translated": true
 	},
@@ -2250,8 +2250,8 @@
 		"translated": true
 	},
 	{
-		"schema": "Dan stopped Bill from playing with the injured bird. He&#39;s very compassionate.",
-		"snippet": "He&#39;s very compassionate.",
+		"schema": "Dan stopped Bill from playing with the injured bird. He's very compassionate.",
+		"snippet": "He's very compassionate.",
 		"pronoun": "He",
 		"correct_answer": "A",
 		"substitution_a": "And",
@@ -2259,8 +2259,8 @@
 		"translated": true
 	},
 	{
-		"schema": "Dan stopped Bill from playing with the injured bird. He&#39;s very cruel.",
-		"snippet": "He&#39;s very cruel.",
+		"schema": "Dan stopped Bill from playing with the injured bird. He's very cruel.",
+		"snippet": "He's very cruel.",
 		"pronoun": "He",
 		"correct_answer": "B",
 		"substitution_a": "And",
@@ -2367,7 +2367,7 @@
 		"translated": true
 	},
 	{
-		"schema": "Emma didn&#39;t pass the ball to Janie even though she saw that she was free.",
+		"schema": "Emma didn't pass the ball to Janie even though she saw that she was free.",
 		"snippet": "she have seen",
 		"pronoun": "she",
 		"correct_answer": "A",
@@ -2376,7 +2376,7 @@
 		"translated": true
 	},
 	{
-		"schema": "Emma didn&#39;t pass the ball to Janie even though she was free.",
+		"schema": "Emma didn't pass the ball to Janie even though she was free.",
 		"snippet": "she is free.",
 		"pronoun": "she",
 		"correct_answer": "B",
@@ -2403,8 +2403,8 @@
 		"translated": true
 	},
 	{
-		"schema": "Madonna fired her trainer because she couldn&#39;t stand her boyfriend.",
-		"snippet": "she couldn&#39;t stand",
+		"schema": "Madonna fired her trainer because she couldn't stand her boyfriend.",
+		"snippet": "she couldn't stand",
 		"pronoun": "she",
 		"correct_answer": "A",
 		"substitution_a": "Madonna",
@@ -2430,7 +2430,7 @@
 		"translated": true
 	},
 	{
-		"schema": "Madonna fired her trainer because she couldn&#39;t stand her boyfriend.",
+		"schema": "Madonna fired her trainer because she couldn't stand her boyfriend.",
 		"snippet": "her boyfriend.",
 		"pronoun": "share",
 		"correct_answer": "B",
@@ -2529,7 +2529,7 @@
 		"translated": true
 	},
 	{
-		"schema": "In the Loebner competition, the judges couldn&#39;t figure out which respondents were the chatbots because they were so stupid.",
+		"schema": "In the Loebner competition, the judges couldn't figure out which respondents were the chatbots because they were so stupid.",
 		"snippet": "they were very stupid.",
 		"pronoun": "they",
 		"correct_answer": "A",
