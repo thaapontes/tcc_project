@@ -1962,8 +1962,8 @@
 		"translated": true
 	},
 	{
-		"schema": "Dan stayed in the back seat while Bill claimed the front because his &quot;Me first!&quot; it was slow.",
-		"snippet": "your &quot;Me first!&quot;",
+		"schema": "Dan stayed in the back seat while Bill claimed the front because his \"Me first!\" it was slow.",
+		"snippet": "your \"Me first!\"",
 		"pronoun": "your",
 		"correct_answer": "A",
 		"substitution_a": "And",
@@ -1971,8 +1971,8 @@
 		"translated": true
 	},
 	{
-		"schema": "Dan stayed in the back seat while Bill claimed the front because his &quot;Me first!&quot; it was faster.",
-		"snippet": "your &quot;Me first!&quot;",
+		"schema": "Dan stayed in the back seat while Bill claimed the front because his \"Me first!\" it was faster.",
+		"snippet": "your \"Me first!\"",
 		"pronoun": "your",
 		"correct_answer": "B",
 		"substitution_a": "And",
@@ -1980,7 +1980,7 @@
 		"translated": true
 	},
 	{
-		"schema": "Tom said &quot;Check&quot; to Ralph as he moved his bishop.",
+		"schema": "Tom said \"Check\" to Ralph as he moved his bishop.",
 		"snippet": "your bishop.",
 		"pronoun": "your",
 		"correct_answer": "A",
@@ -1989,7 +1989,7 @@
 		"translated": true
 	},
 	{
-		"schema": "Tom said &quot;Check&quot; to Ralph while he took his bishop.",
+		"schema": "Tom said \"Check\" to Ralph while he took his bishop.",
 		"snippet": "your bishop.",
 		"pronoun": "your",
 		"correct_answer": "B",
@@ -2511,8 +2511,8 @@
 		"translated": true
 	},
 	{
-		"schema": "During a game of tag, Ethan chased Luke because &quot;he was with him&quot;.",
-		"snippet": "&quot;was with him&quot;.",
+		"schema": "During a game of tag, Ethan chased Luke because \"he was with him\".",
+		"snippet": "\"was with him\".",
 		"pronoun": "he",
 		"correct_answer": "A",
 		"substitution_a": "Ethan",
@@ -2520,8 +2520,8 @@
 		"translated": true
 	},
 	{
-		"schema": "During a game of tag, Ethan ran away from Luke because &quot;he was with him&quot;.",
-		"snippet": "&quot;was with him&quot;.",
+		"schema": "During a game of tag, Ethan ran away from Luke because \"he was with him\".",
+		"snippet": "\"was with him\".",
 		"pronoun": "he",
 		"correct_answer": "B",
 		"substitution_a": "Ethan",
@@ -2547,7 +2547,7 @@
 		"translated": true
 	},
 	{
-		"schema": "The user changed his &quot;GrWQWu8JyC&quot; password to &quot;willow-towered Canopy Huntertropic wrestles&quot; because it was easy to forget.",
+		"schema": "The user changed his \"GrWQWu8JyC\" password to \"willow-towered Canopy Huntertropic wrestles\" because it was easy to forget.",
 		"snippet": "she was easy to forget.",
 		"pronoun": "she",
 		"correct_answer": "A",
@@ -2556,7 +2556,7 @@
 		"translated": true
 	},
 	{
-		"schema": "The user changed his &quot;GrWQWu8JyC&quot; password to &quot;willow-towered Canopy Huntertropic wrestles&quot; because it was easy to remember.",
+		"schema": "The user changed his \"GrWQWu8JyC\" password to \"willow-towered Canopy Huntertropic wrestles\" because it was easy to remember.",
 		"snippet": "she was easy to remember.",
 		"pronoun": "she",
 		"correct_answer": "B",
