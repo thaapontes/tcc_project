@@ -2182,5 +2182,101 @@
 		"answer0": "Carol",
 		"is_associative": 0,
 		"correct_answer": "Rebecca"
+	},
+	{
+		"index": 273,
+		"sentence": "This book introduced Shakespeare to Ovid; it was a major influence on his writing.",
+		"answer1": "Shakespeare",
+		"answer0": "Ovid",
+		"is_associative": 0,
+		"correct_answer": "Shakespeare"
+	},
+	{
+		"index": 274,
+		"sentence": "This book introduced Shakespeare to Goethe; it was a major influence on his writing.",
+		"answer1": "Shakespeare",
+		"answer0": "Goethe",
+		"is_associative": 0,
+		"correct_answer": "Goethe"
+	},
+	{
+		"index": 275,
+		"sentence": "This book introduced Shakespeare to Ovid; it was a fine selection of his writing.",
+		"answer1": "Shakespeare",
+		"answer0": "Ovid",
+		"is_associative": 0,
+		"correct_answer": "Ovid"
+	},
+	{
+		"index": 276,
+		"sentence": "This book introduced Shakespeare to Goethe; it was a fine selection of his writing.",
+		"answer1": "Shakespeare",
+		"answer0": "Goethe",
+		"is_associative": 0,
+		"correct_answer": "Shakespeare"
+	},
+	{
+		"index": 277,
+		"sentence": "Alice looked for her friend Jade in the crowd. Since she always has good luck, Alice spotted her quickly.",
+		"answer1": "Alice",
+		"answer0": "Jade",
+		"is_associative": 0,
+		"correct_answer": "Alice"
+	},
+	{
+		"index": 278,
+		"sentence": "Alice looked for her friend Jade in the crowd. Since she always wears a red turban, Alice spotted her quickly.",
+		"answer1": "Alice",
+		"answer0": "Jade",
+		"is_associative": 0,
+		"correct_answer": "Jade"
+	},
+	{
+		"index": 279,
+		"sentence": "During a game of tag, Ethan chased Luke because he was \"it\".",
+		"answer1": "Ethan",
+		"answer0": "Luke",
+		"is_associative": 0,
+		"correct_answer": "Ethan"
+	},
+	{
+		"index": 280,
+		"sentence": "During a game of tag, Ethan ran from Luke because he was \"it\".",
+		"answer1": "Ethan",
+		"answer0": "Luke",
+		"is_associative": 0,
+		"correct_answer": "Luke"
+	},
+	{
+		"index": 281,
+		"sentence": "At the Loebner competition the judges couldn't figure out which respondents were the chatbots because they were so stupid. ",
+		"answer1": "the judges",
+		"answer0": "the chatbots",
+		"is_associative": 0,
+		"correct_answer": "the judges"
+	},
+	{
+		"index": 282,
+		"sentence": "At the Loebner competition the judges couldn't figure out which respondents were the chatbots because they were so advanced.",
+		"answer1": "the judges",
+		"answer0": "the chatbots",
+		"is_associative": 0,
+		"correct_answer": "the chatbots"
+	},
+	{
+		"index": 283,
+		"sentence": "The user changed his password from \"GrWQWu8JyC\" to \"willow-towered Canopy Huntertropic wrestles\" as it was easy to forget.",
+		"answer1": "GrWQWu8JyC",
+		"answer0": "willow-towered Canopy Huntertropic wrestles",
+		"is_associative": 0,
+		"correct_answer": "GrWQWu8JyC"
+	},
+	{
+		"index": 284,
+		"sentence": "The user changed his password from \"GrWQWu8JyC\" to \"willow-towered Canopy Huntertropic wrestles\" as it was easy to remember.",
+		"answer1": "GrWQWu8JyC",
+		"answer0": "willow-towered Canopy Huntertropic wrestles",
+		"is_associative": 0,
+		"correct_answer": "willow-towered Canopy Huntertropic wrestles"
 	}
 ]
