@@ -1745,7 +1745,7 @@
 	},
 	{
 		"original": "Dan took the rear seat while Bill claimed the front because his \"Dibs!\" was slow.",
-		"candidate": "Dan stayed in the back seat while Bill claimed the front because his &quot;Me first!&quot; it was slow.",
+		"candidate": "Dan stayed in the back seat while Bill claimed the front because his \"Me first!\" it was slow.",
 		"score 1-gram": 0.6666666666666666,
 		"score 2-gram": 0.47058823529411764,
 		"score 3-gram": 0.375,
@@ -1753,7 +1753,7 @@
 	},
 	{
 		"original": "Dan took the rear seat while Bill claimed the front because his \"Dibs!\" was quicker.",
-		"candidate": "Dan stayed in the back seat while Bill claimed the front because his &quot;Me first!&quot; it was faster.",
+		"candidate": "Dan stayed in the back seat while Bill claimed the front because his \"Me first!\" it was faster.",
 		"score 1-gram": 0.6111111111111112,
 		"score 2-gram": 0.4117647058823529,
 		"score 3-gram": 0.375,
@@ -1761,19 +1761,19 @@
 	},
 	{
 		"original": "Tom said \"Check\" to Ralph as he moved his bishop.",
-		"candidate": "Tom said &quot;Check&quot; to Ralph as he moved his bishop.",
-		"score 1-gram": 0.9,
-		"score 2-gram": 0.7777777777777778,
-		"score 3-gram": 0.625,
-		"score 4-gram": 0.5714285714285714
+		"candidate": "Tom said \"Check\" to Ralph as he moved his bishop.",
+		"score 1-gram": 1.0,
+		"score 2-gram": 1.0,
+		"score 3-gram": 1.0,
+		"score 4-gram": 1.0
 	},
 	{
 		"original": "Tom said \"Check\" to Ralph as he took his bishop.",
-		"candidate": "Tom said &quot;Check&quot; to Ralph while he took his bishop.",
-		"score 1-gram": 0.8,
-		"score 2-gram": 0.5555555555555556,
-		"score 3-gram": 0.25,
-		"score 4-gram": 0.14285714285714285
+		"candidate": "Tom said \"Check\" to Ralph while he took his bishop.",
+		"score 1-gram": 0.9,
+		"score 2-gram": 0.7777777777777778,
+		"score 3-gram": 0.625,
+		"score 4-gram": 0.42857142857142855
 	},
 	{
 		"original": "As Andrea in the crop duster passed over Susan, she could see the landing strip.",
@@ -2182,5 +2182,101 @@
 		"score 2-gram": 1.0,
 		"score 3-gram": 1.0,
 		"score 4-gram": 1.0
+	},
+	{
+		"original": "This book introduced Shakespeare to Ovid; it was a major influence on his writing.",
+		"candidate": "This book introduced Shakespeare to Ovid; he was a big influence on his writing.",
+		"score 1-gram": 0.8571428571428571,
+		"score 2-gram": 0.6923076923076923,
+		"score 3-gram": 0.5,
+		"score 4-gram": 0.36363636363636365
+	},
+	{
+		"original": "This book introduced Shakespeare to Goethe; it was a major influence on his writing.",
+		"candidate": "This book introduced Shakespeare to Goethe; he was a big influence on his writing.",
+		"score 1-gram": 0.8571428571428571,
+		"score 2-gram": 0.6923076923076923,
+		"score 3-gram": 0.5,
+		"score 4-gram": 0.36363636363636365
+	},
+	{
+		"original": "This book introduced Shakespeare to Ovid; it was a fine selection of his writing.",
+		"candidate": "This book introduced Shakespeare to Ovid; he was an excellent selection of his writing.",
+		"score 1-gram": 0.7857142857142857,
+		"score 2-gram": 0.6153846153846154,
+		"score 3-gram": 0.5,
+		"score 4-gram": 0.36363636363636365
+	},
+	{
+		"original": "This book introduced Shakespeare to Goethe; it was a fine selection of his writing.",
+		"candidate": "This book introduced Shakespeare to Goethe; he was an excellent selection of his writing.",
+		"score 1-gram": 0.7857142857142857,
+		"score 2-gram": 0.6153846153846154,
+		"score 3-gram": 0.5,
+		"score 4-gram": 0.36363636363636365
+	},
+	{
+		"original": "Alice looked for her friend Jade in the crowd. Since she always has good luck, Alice spotted her quickly.",
+		"candidate": "Alice looked for her friend Jade in the crowd. Since she is always very lucky, Alice found her quickly.",
+		"score 1-gram": 0.7894736842105263,
+		"score 2-gram": 0.6111111111111112,
+		"score 3-gram": 0.5294117647058824,
+		"score 4-gram": 0.5
+	},
+	{
+		"original": "Alice looked for her friend Jade in the crowd. Since she always wears a red turban, Alice spotted her quickly.",
+		"candidate": "Alice looked for her friend Jade in the crowd. Since she always wears a red turban, Alice found her quickly.",
+		"score 1-gram": 0.95,
+		"score 2-gram": 0.8947368421052632,
+		"score 3-gram": 0.8333333333333334,
+		"score 4-gram": 0.8235294117647058
+	},
+	{
+		"original": "During a game of tag, Ethan chased Luke because he was \"it\".",
+		"candidate": "During a game of tag, Ethan chased Luke because \"he was with him\".",
+		"score 1-gram": 0.7692307692307693,
+		"score 2-gram": 0.6666666666666666,
+		"score 3-gram": 0.6363636363636364,
+		"score 4-gram": 0.6
+	},
+	{
+		"original": "During a game of tag, Ethan ran from Luke because he was \"it\".",
+		"candidate": "During a game of tag, Ethan ran away from Luke because \"he was with him\".",
+		"score 1-gram": 0.7333333333333333,
+		"score 2-gram": 0.5714285714285714,
+		"score 3-gram": 0.46153846153846156,
+		"score 4-gram": 0.3333333333333333
+	},
+	{
+		"original": "At the Loebner competition the judges couldn't figure out which respondents were the chatbots because they were so stupid. ",
+		"candidate": "In the Loebner competition, the judges couldn't figure out which respondents were the chatbots because they were so stupid.",
+		"score 1-gram": 0.8947368421052632,
+		"score 2-gram": 0.8333333333333334,
+		"score 3-gram": 0.7647058823529411,
+		"score 4-gram": 0.75
+	},
+	{
+		"original": "At the Loebner competition the judges couldn't figure out which respondents were the chatbots because they were so advanced.",
+		"candidate": "In the Loebner competition the judges were unable to find out which respondents were the chatbots because they were too advanced.",
+		"score 1-gram": 0.7142857142857143,
+		"score 2-gram": 0.6,
+		"score 3-gram": 0.5263157894736842,
+		"score 4-gram": 0.4444444444444444
+	},
+	{
+		"original": "The user changed his password from \"GrWQWu8JyC\" to \"willow-towered Canopy Huntertropic wrestles\" as it was easy to forget.",
+		"candidate": "The user changed his \"GrWQWu8JyC\" password to \"willow-towered Canopy Huntertropic wrestles\" because it was easy to forget.",
+		"score 1-gram": 0.8874100177457646,
+		"score 2-gram": 0.6482252864002265,
+		"score 3-gram": 0.5028656767226,
+		"score 4-gram": 0.33674040851959824
+	},
+	{
+		"original": "The user changed his password from \"GrWQWu8JyC\" to \"willow-towered Canopy Huntertropic wrestles\" as it was easy to remember.",
+		"candidate": "The user changed his \"GrWQWu8JyC\" password to \"willow-towered Canopy Huntertropic wrestles\" because it was easy to remember.",
+		"score 1-gram": 0.8874100177457646,
+		"score 2-gram": 0.6482252864002265,
+		"score 3-gram": 0.5028656767226,
+		"score 4-gram": 0.33674040851959824
 	}
 ]
