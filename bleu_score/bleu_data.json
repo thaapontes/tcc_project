@@ -5,7 +5,8 @@
 		"score 1-gram": 0.49123845184678916,
 		"score 2-gram": 0.272910251025994,
 		"score 3-gram": 0.20468268826949548,
-		"score 4-gram": 0.11696153615399742
+		"score 4-gram": 0.11696153615399742,
+		"score equal weights": 0.23801761257033807
 	},
 	{
 		"original": "The city councilmen refused the demonstrators a permit because they advocated violence.",
@@ -13,7 +14,8 @@
 		"score 1-gram": 0.4,
 		"score 2-gram": 0.07142857142857141,
 		"score 3-gram": 2.2250738585072626e-308,
-		"score 4-gram": 2.2250738585072626e-308
+		"score 4-gram": 2.2250738585072626e-308,
+		"score equal weights": 6.13274920178966e-155
 	},
 	{
 		"original": "The trophy doesn't fit into the brown suitcase because it is too large.",
@@ -21,7 +23,8 @@
 		"score 1-gram": 0.5384615384615384,
 		"score 2-gram": 0.25,
 		"score 3-gram": 0.18181818181818182,
-		"score 4-gram": 0.10000000000000002
+		"score 4-gram": 0.10000000000000002,
+		"score equal weights": 0.2224246939793677
 	},
 	{
 		"original": "The trophy doesn't fit into the brown suitcase because it is too small.",
@@ -29,7 +32,8 @@
 		"score 1-gram": 0.6923076923076923,
 		"score 2-gram": 0.4166666666666667,
 		"score 3-gram": 0.36363636363636365,
-		"score 4-gram": 0.3
+		"score 4-gram": 0.3,
+		"score equal weights": 0.4211813371894875
 	},
 	{
 		"original": "Joan made sure to thank Susan for all the help she had received.",
@@ -37,7 +41,8 @@
 		"score 1-gram": 1.0,
 		"score 2-gram": 1.0,
 		"score 3-gram": 1.0,
-		"score 4-gram": 1.0
+		"score 4-gram": 1.0,
+		"score equal weights": 1.0
 	},
 	{
 		"original": "Joan made sure to thank Susan for all the help she had given.",
@@ -45,7 +50,8 @@
 		"score 1-gram": 0.9230769230769231,
 		"score 2-gram": 0.9166666666666666,
 		"score 3-gram": 0.9090909090909091,
-		"score 4-gram": 0.9
+		"score 4-gram": 0.9,
+		"score equal weights": 0.912167909070388
 	},
 	{
 		"original": "Paul tried to call George on the phone, but he wasn't successful.",
@@ -53,7 +59,8 @@
 		"score 1-gram": 0.47768754038252614,
 		"score 2-gram": 0.35826565528689464,
 		"score 3-gram": 0.2047232315925112,
-		"score 4-gram": 0.11942188509563156
+		"score 4-gram": 0.11942188509563156,
+		"score equal weights": 0.2543314312919721
 	},
 	{
 		"original": "Paul tried to call George on the phone, but he wasn't available.",
@@ -61,7 +68,8 @@
 		"score 1-gram": 0.47768754038252614,
 		"score 2-gram": 0.35826565528689464,
 		"score 3-gram": 0.2047232315925112,
-		"score 4-gram": 0.11942188509563156
+		"score 4-gram": 0.11942188509563156,
+		"score equal weights": 0.2543314312919721
 	},
 	{
 		"original": "The lawyer asked the witness a question, but he was reluctant to repeat it.",
@@ -69,7 +77,8 @@
 		"score 1-gram": 0.9285714285714286,
 		"score 2-gram": 0.8461538461538461,
 		"score 3-gram": 0.75,
-		"score 4-gram": 0.6363636363636364
+		"score 4-gram": 0.6363636363636364,
+		"score equal weights": 0.7825422900366437
 	},
 	{
 		"original": "The lawyer asked the witness a question, but he was reluctant to answer it.",
@@ -77,7 +86,8 @@
 		"score 1-gram": 0.9285714285714286,
 		"score 2-gram": 0.8461538461538461,
 		"score 3-gram": 0.75,
-		"score 4-gram": 0.6363636363636364
+		"score 4-gram": 0.6363636363636364,
+		"score equal weights": 0.7825422900366437
 	},
 	{
 		"original": "The delivery truck zoomed by the school bus because it was going so fast.",
@@ -85,7 +95,8 @@
 		"score 1-gram": 0.7857142857142857,
 		"score 2-gram": 0.5384615384615384,
 		"score 3-gram": 0.3333333333333333,
-		"score 4-gram": 0.0909090909090909
+		"score 4-gram": 0.0909090909090909,
+		"score equal weights": 0.33649324423301513
 	},
 	{
 		"original": "The delivery truck zoomed by the school bus because it was going so slow.",
@@ -93,7 +104,8 @@
 		"score 1-gram": 0.7857142857142857,
 		"score 2-gram": 0.5384615384615384,
 		"score 3-gram": 0.3333333333333333,
-		"score 4-gram": 0.0909090909090909
+		"score 4-gram": 0.0909090909090909,
+		"score equal weights": 0.33649324423301513
 	},
 	{
 		"original": "Frank felt vindicated when his longtime rival Bill revealed that he was the winner of the competition.",
@@ -101,7 +113,8 @@
 		"score 1-gram": 0.9411764705882353,
 		"score 2-gram": 0.875,
 		"score 3-gram": 0.8,
-		"score 4-gram": 0.7857142857142857
+		"score 4-gram": 0.7857142857142857,
+		"score equal weights": 0.848219861937046
 	},
 	{
 		"original": "Frank felt crushed when his longtime rival Bill revealed that he was the winner of the competition.",
@@ -109,7 +122,8 @@
 		"score 1-gram": 0.8888888888888888,
 		"score 2-gram": 0.8235294117647058,
 		"score 3-gram": 0.75,
-		"score 4-gram": 0.7333333333333333
+		"score 4-gram": 0.7333333333333333,
+		"score equal weights": 0.7965670178751182
 	},
 	{
 		"original": "The man couldn't lift his son because he was so weak.",
@@ -117,7 +131,8 @@
 		"score 1-gram": 0.75,
 		"score 2-gram": 0.5454545454545454,
 		"score 3-gram": 0.4,
-		"score 4-gram": 0.3333333333333333
+		"score 4-gram": 0.3333333333333333,
+		"score equal weights": 0.4832697830906221
 	},
 	{
 		"original": "The man couldn't lift his son because he was so heavy.",
@@ -125,7 +140,8 @@
 		"score 1-gram": 0.6923076923076923,
 		"score 2-gram": 0.5,
 		"score 3-gram": 0.36363636363636365,
-		"score 4-gram": 0.3
+		"score 4-gram": 0.3,
+		"score equal weights": 0.44082318755867267
 	},
 	{
 		"original": "The large ball crashed right through the table because it was made of steel.",
@@ -133,7 +149,8 @@
 		"score 1-gram": 0.7054014374088451,
 		"score 2-gram": 0.5386701885667544,
 		"score 3-gram": 0.5078890349343684,
-		"score 4-gram": 0.47026762493923
+		"score 4-gram": 0.47026762493923,
+		"score equal weights": 0.5488684910025905
 	},
 	{
 		"original": "The large ball crashed right through the table because it was made of styrofoam.",
@@ -141,7 +158,8 @@
 		"score 1-gram": 0.6348612936679605,
 		"score 2-gram": 0.4617173044857894,
 		"score 3-gram": 0.423240862445307,
-		"score 4-gram": 0.376214099951384
+		"score 4-gram": 0.376214099951384,
+		"score equal weights": 0.46480352718451945
 	},
 	{
 		"original": "John couldn't see the stage with Billy in front of him because he is so short.",
@@ -149,7 +167,8 @@
 		"score 1-gram": 0.9375,
 		"score 2-gram": 0.8666666666666667,
 		"score 3-gram": 0.8571428571428571,
-		"score 4-gram": 0.8461538461538461
+		"score 4-gram": 0.8461538461538461,
+		"score equal weights": 0.8761560783209453
 	},
 	{
 		"original": "John couldn't see the stage with Billy in front of him because he is so tall.",
@@ -157,7 +176,8 @@
 		"score 1-gram": 0.9375,
 		"score 2-gram": 0.8666666666666667,
 		"score 3-gram": 0.8571428571428571,
-		"score 4-gram": 0.8461538461538461
+		"score 4-gram": 0.8461538461538461,
+		"score equal weights": 0.8761560783209453
 	},
 	{
 		"original": "Tom threw his schoolbag down to Ray after he reached the top of the stairs.",
@@ -165,7 +185,8 @@
 		"score 1-gram": 0.8,
 		"score 2-gram": 0.5714285714285714,
 		"score 3-gram": 0.46153846153846156,
-		"score 4-gram": 0.4166666666666667
+		"score 4-gram": 0.4166666666666667,
+		"score equal weights": 0.5445178846139404
 	},
 	{
 		"original": "Tom threw his schoolbag down to Ray after he reached the bottom of the stairs.",
@@ -173,7 +194,8 @@
 		"score 1-gram": 0.8,
 		"score 2-gram": 0.5714285714285714,
 		"score 3-gram": 0.46153846153846156,
-		"score 4-gram": 0.4166666666666667
+		"score 4-gram": 0.4166666666666667,
+		"score equal weights": 0.5445178846139404
 	},
 	{
 		"original": "Although they ran at about the same speed, Sue beat Sally because she had such a good start.",
@@ -181,7 +203,8 @@
 		"score 1-gram": 0.4412484512922977,
 		"score 2-gram": 0.29416563419486513,
 		"score 3-gram": 0.18910647912527043,
-		"score 4-gram": 0.06788437712189196
+		"score 4-gram": 0.06788437712189196,
+		"score equal weights": 0.20204022516827064
 	},
 	{
 		"original": "Although they ran at about the same speed, Sue beat Sally because she had such a bad start.",
@@ -189,7 +212,8 @@
 		"score 1-gram": 0.4412484512922977,
 		"score 2-gram": 0.29416563419486513,
 		"score 3-gram": 0.18910647912527043,
-		"score 4-gram": 0.06788437712189196
+		"score 4-gram": 0.06788437712189196,
+		"score equal weights": 0.20204022516827064
 	},
 	{
 		"original": "The sculpture rolled off the shelf because it wasn't anchored.",
@@ -197,7 +221,8 @@
 		"score 1-gram": 0.5833333333333334,
 		"score 2-gram": 0.45454545454545453,
 		"score 3-gram": 0.3,
-		"score 4-gram": 0.2222222222222222
+		"score 4-gram": 0.2222222222222222,
+		"score equal weights": 0.3646285861936467
 	},
 	{
 		"original": "The sculpture rolled off the shelf because it wasn't level.",
@@ -205,7 +230,8 @@
 		"score 1-gram": 0.6666666666666666,
 		"score 2-gram": 0.45454545454545453,
 		"score 3-gram": 0.3,
-		"score 4-gram": 0.2222222222222222
+		"score 4-gram": 0.2222222222222222,
+		"score equal weights": 0.37700638045494705
 	},
 	{
 		"original": "Sam's drawing was hung just above Tina's and it did look much better with another one below it.",
@@ -213,7 +239,8 @@
 		"score 1-gram": 0.6100943872002131,
 		"score 2-gram": 0.41250700043650773,
 		"score 3-gram": 0.18857462877097497,
-		"score 4-gram": 2.0979623842800395e-308
+		"score 4-gram": 2.0979623842800395e-308,
+		"score equal weights": 5.617296238777251e-78
 	},
 	{
 		"original": "Sam's drawing was hung just above Tina's and it did look much better with another one above it.",
@@ -221,7 +248,8 @@
 		"score 1-gram": 0.6100943872002131,
 		"score 2-gram": 0.41250700043650773,
 		"score 3-gram": 0.18857462877097497,
-		"score 4-gram": 2.0979623842800395e-308
+		"score 4-gram": 2.0979623842800395e-308,
+		"score equal weights": 5.617296238777251e-78
 	},
 	{
 		"original": "Anna did a lot better than her good friend Lucy on the test because she had studied so hard.",
@@ -229,7 +257,8 @@
 		"score 1-gram": 0.6217718386353003,
 		"score 2-gram": 0.3316116472721602,
 		"score 3-gram": 0.1776490967529429,
-		"score 4-gram": 0.06377147062926157
+		"score 4-gram": 0.06377147062926157,
+		"score equal weights": 0.21984296110304893
 	},
 	{
 		"original": "Anna did a lot worse than her good friend Lucy on the test because she had studied so hard.",
@@ -237,7 +266,8 @@
 		"score 1-gram": 0.6735861585215753,
 		"score 2-gram": 0.44214886302954687,
 		"score 3-gram": 0.2960818279215716,
-		"score 4-gram": 0.19131441188778472
+		"score 4-gram": 0.19131441188778472,
+		"score equal weights": 0.36039626112317097
 	},
 	{
 		"original": "The firemen arrived after the police because they were coming from so far away.",
@@ -245,7 +275,8 @@
 		"score 1-gram": 0.8547333033621379,
 		"score 2-gram": 0.6944708089817371,
 		"score 3-gram": 0.5892479591360192,
-		"score 4-gram": 0.5555766471853896
+		"score 4-gram": 0.5555766471853896,
+		"score equal weights": 0.6639443396605762
 	},
 	{
 		"original": "The firemen arrived before the police because they were coming from so far away.",
@@ -253,7 +284,8 @@
 		"score 1-gram": 0.925961078642316,
 		"score 2-gram": 0.848797655422123,
 		"score 3-gram": 0.7576045188891677,
-		"score 4-gram": 0.7407688629138529
+		"score 4-gram": 0.7407688629138529,
+		"score equal weights": 0.8149492131269727
 	},
 	{
 		"original": "Frank was upset with Tom because the toaster he had bought from him didn't work.",
@@ -261,7 +293,8 @@
 		"score 1-gram": 1.0,
 		"score 2-gram": 1.0,
 		"score 3-gram": 1.0,
-		"score 4-gram": 1.0
+		"score 4-gram": 1.0,
+		"score equal weights": 1.0
 	},
 	{
 		"original": "Frank was upset with Tom because the toaster he had sold him didn't work.",
@@ -269,7 +302,8 @@
 		"score 1-gram": 0.9333333333333333,
 		"score 2-gram": 0.8571428571428571,
 		"score 3-gram": 0.7692307692307693,
-		"score 4-gram": 0.6666666666666666
+		"score 4-gram": 0.6666666666666666,
+		"score equal weights": 0.8003203203844999
 	},
 	{
 		"original": "Jim yelled at Kevin because he was so upset.",
@@ -277,7 +311,8 @@
 		"score 1-gram": 0.8888888888888888,
 		"score 2-gram": 0.75,
 		"score 3-gram": 0.7142857142857143,
-		"score 4-gram": 0.6666666666666666
+		"score 4-gram": 0.6666666666666666,
+		"score equal weights": 0.7506238537503395
 	},
 	{
 		"original": "Jim comforted Kevin because he was so upset.",
@@ -285,7 +320,8 @@
 		"score 1-gram": 0.875,
 		"score 2-gram": 0.7142857142857143,
 		"score 3-gram": 0.6666666666666666,
-		"score 4-gram": 0.6
+		"score 4-gram": 0.6,
+		"score equal weights": 0.7071067811865475
 	},
 	{
 		"original": "The sack of potatoes had been placed above the bag of flour, so it had to be moved first.",
@@ -293,7 +329,8 @@
 		"score 1-gram": 0.6842105263157895,
 		"score 2-gram": 0.3333333333333333,
 		"score 3-gram": 0.23529411764705885,
-		"score 4-gram": 0.12500000000000003
+		"score 4-gram": 0.12500000000000003,
+		"score equal weights": 0.2861853478258715
 	},
 	{
 		"original": "The sack of potatoes had been placed below the bag of flour, so it had to be moved first.",
@@ -301,7 +338,8 @@
 		"score 1-gram": 0.6275363049901946,
 		"score 2-gram": 0.3333786620260409,
 		"score 3-gram": 0.2370692707740735,
-		"score 4-gram": 0.12700139505753938
+		"score 4-gram": 0.12700139505753938,
+		"score equal weights": 0.2817183283353883
 	},
 	{
 		"original": "Pete envies Martin although he is very successful.",
@@ -309,7 +347,8 @@
 		"score 1-gram": 0.5454545454545454,
 		"score 2-gram": 0.3,
 		"score 3-gram": 0.2222222222222222,
-		"score 4-gram": 0.12500000000000003
+		"score 4-gram": 0.12500000000000003,
+		"score equal weights": 0.2596535889340338
 	},
 	{
 		"original": "Pete envies Martin because he is very successful.",
@@ -317,7 +356,8 @@
 		"score 1-gram": 0.7,
 		"score 2-gram": 0.5555555555555556,
 		"score 3-gram": 0.5,
-		"score 4-gram": 0.42857142857142855
+		"score 4-gram": 0.42857142857142855,
+		"score equal weights": 0.537284965911771
 	},
 	{
 		"original": "The older students were bullying the younger ones, so we punished them .",
@@ -325,7 +365,8 @@
 		"score 1-gram": 0.8433740467435463,
 		"score 2-gram": 0.8364040132993847,
 		"score 3-gram": 0.828039973166391,
-		"score 4-gram": 0.8178172574482874
+		"score 4-gram": 0.8178172574482874,
+		"score equal weights": 0.8313539764691034
 	},
 	{
 		"original": "The older students were bullying the younger ones, so we rescued them .",
@@ -333,7 +374,8 @@
 		"score 1-gram": 0.7667036788577695,
 		"score 2-gram": 0.7527636119694464,
 		"score 3-gram": 0.7360355317034587,
-		"score 4-gram": 0.7155901002672514
+		"score 4-gram": 0.7155901002672514,
+		"score equal weights": 0.7425271143743541
 	},
 	{
 		"original": "I poured water from the bottle into the cup until it was empty.",
@@ -341,7 +383,8 @@
 		"score 1-gram": 0.9285714285714286,
 		"score 2-gram": 0.8461538461538461,
 		"score 3-gram": 0.75,
-		"score 4-gram": 0.7272727272727273
+		"score 4-gram": 0.7272727272727273,
+		"score equal weights": 0.8091067115702212
 	},
 	{
 		"original": "I poured water from the bottle into the cup until it was full.",
@@ -349,7 +392,8 @@
 		"score 1-gram": 0.9285714285714286,
 		"score 2-gram": 0.8461538461538461,
 		"score 3-gram": 0.75,
-		"score 4-gram": 0.7272727272727273
+		"score 4-gram": 0.7272727272727273,
+		"score equal weights": 0.8091067115702212
 	},
 	{
 		"original": "Susan knows all about Ann's personal problems because she is nosy.",
@@ -357,7 +401,8 @@
 		"score 1-gram": 1.0,
 		"score 2-gram": 1.0,
 		"score 3-gram": 1.0,
-		"score 4-gram": 1.0
+		"score 4-gram": 1.0,
+		"score equal weights": 1.0
 	},
 	{
 		"original": "Susan knows all about Ann's personal problems because she is indiscreet.",
@@ -365,7 +410,8 @@
 		"score 1-gram": 1.0,
 		"score 2-gram": 1.0,
 		"score 3-gram": 1.0,
-		"score 4-gram": 1.0
+		"score 4-gram": 1.0,
+		"score equal weights": 1.0
 	},
 	{
 		"original": "Sid explained his theory to Mark but he couldn't convince him.",
@@ -373,7 +419,8 @@
 		"score 1-gram": 0.7692307692307693,
 		"score 2-gram": 0.6666666666666666,
 		"score 3-gram": 0.5454545454545454,
-		"score 4-gram": 0.5
+		"score 4-gram": 0.5,
+		"score equal weights": 0.6115380576901023
 	},
 	{
 		"original": "Sid explained his theory to Mark but he couldn't understand him.",
@@ -381,7 +428,8 @@
 		"score 1-gram": 0.6923076923076923,
 		"score 2-gram": 0.5833333333333334,
 		"score 3-gram": 0.5454545454545454,
-		"score 4-gram": 0.5
+		"score 4-gram": 0.5,
+		"score equal weights": 0.5760844201603896
 	},
 	{
 		"original": "Susan knew that Ann's son had been in a car accident, so she told her about it.",
@@ -389,7 +437,8 @@
 		"score 1-gram": 0.8888888888888888,
 		"score 2-gram": 0.7647058823529411,
 		"score 3-gram": 0.625,
-		"score 4-gram": 0.5333333333333333
+		"score 4-gram": 0.5333333333333333,
+		"score equal weights": 0.6899302125555485
 	},
 	{
 		"original": "Susan knew that Ann's son had been in a car accident, because she told her about it.",
@@ -397,7 +446,8 @@
 		"score 1-gram": 0.8333333333333334,
 		"score 2-gram": 0.6470588235294118,
 		"score 3-gram": 0.4375,
-		"score 4-gram": 0.26666666666666666
+		"score 4-gram": 0.26666666666666666,
+		"score equal weights": 0.5008149986295091
 	},
 	{
 		"original": "Joe's uncle can still beat him at tennis, even though he is 30 years younger.",
@@ -405,7 +455,8 @@
 		"score 1-gram": 0.8125,
 		"score 2-gram": 0.6,
 		"score 3-gram": 0.42857142857142855,
-		"score 4-gram": 0.38461538461538464
+		"score 4-gram": 0.38461538461538464,
+		"score equal weights": 0.532422158401508
 	},
 	{
 		"original": "Joe's uncle can still beat him at tennis, even though he is 30 years older.",
@@ -413,7 +464,8 @@
 		"score 1-gram": 0.8125,
 		"score 2-gram": 0.6,
 		"score 3-gram": 0.42857142857142855,
-		"score 4-gram": 0.38461538461538464
+		"score 4-gram": 0.38461538461538464,
+		"score equal weights": 0.532422158401508
 	},
 	{
 		"original": "The painting in Mark's living room shows an oak tree. It is to the right of the bookcase.",
@@ -421,7 +473,8 @@
 		"score 1-gram": 0.7170287333499838,
 		"score 2-gram": 0.5883312683897303,
 		"score 3-gram": 0.5042839443340545,
-		"score 4-gram": 0.4073062627313518
+		"score 4-gram": 0.4073062627313518,
+		"score equal weights": 0.5425486407251953
 	},
 	{
 		"original": "The painting in Mark's living room shows an oak tree. It is to the right of a house.",
@@ -429,7 +482,8 @@
 		"score 1-gram": 0.6618726769384466,
 		"score 2-gram": 0.47066501471178424,
 		"score 3-gram": 0.3782129582505409,
-		"score 4-gram": 0.2715375084875678
+		"score 4-gram": 0.2715375084875678,
+		"score equal weights": 0.4229247984636106
 	},
 	{
 		"original": "There is a gap in the wall. You can see the garden through it .",
@@ -437,7 +491,8 @@
 		"score 1-gram": 0.625,
 		"score 2-gram": 0.4666666666666667,
 		"score 3-gram": 0.2857142857142857,
-		"score 4-gram": 0.07692307692307693
+		"score 4-gram": 0.07692307692307693,
+		"score equal weights": 0.2829559628326351
 	},
 	{
 		"original": "There is a gap in the wall. You can see the garden behind it .",
@@ -445,7 +500,8 @@
 		"score 1-gram": 0.625,
 		"score 2-gram": 0.4666666666666667,
 		"score 3-gram": 0.2857142857142857,
-		"score 4-gram": 0.07692307692307693
+		"score 4-gram": 0.07692307692307693,
+		"score equal weights": 0.2829559628326351
 	},
 	{
 		"original": "The drain is clogged with hair. It has to be cleaned.",
@@ -453,7 +509,8 @@
 		"score 1-gram": 1.0,
 		"score 2-gram": 1.0,
 		"score 3-gram": 1.0,
-		"score 4-gram": 1.0
+		"score 4-gram": 1.0,
+		"score equal weights": 1.0
 	},
 	{
 		"original": "The drain is clogged with hair. It has to be removed.",
@@ -461,7 +518,8 @@
 		"score 1-gram": 1.0,
 		"score 2-gram": 1.0,
 		"score 3-gram": 1.0,
-		"score 4-gram": 1.0
+		"score 4-gram": 1.0,
+		"score equal weights": 1.0
 	},
 	{
 		"original": "My meeting started at 4:00 and I needed to catch the train at 4:30,  so there wasn't much time. Luckily, it was short, so it worked out.",
@@ -469,7 +527,8 @@
 		"score 1-gram": 0.7037037037037037,
 		"score 2-gram": 0.5384615384615384,
 		"score 3-gram": 0.48,
-		"score 4-gram": 0.4166666666666667
+		"score 4-gram": 0.4166666666666667,
+		"score equal weights": 0.5246789370600702
 	},
 	{
 		"original": "My meeting started at 4:00 and I needed to catch the train at 4:30,  so there wasn't much time. Luckily, it was delayed, so it worked out.",
@@ -477,7 +536,8 @@
 		"score 1-gram": 0.7777777777777778,
 		"score 2-gram": 0.5769230769230769,
 		"score 3-gram": 0.48,
-		"score 4-gram": 0.4166666666666667
+		"score 4-gram": 0.4166666666666667,
+		"score equal weights": 0.547332024239071
 	},
 	{
 		"original": "There is a pillar between me and the stage, and I can't see around it .",
@@ -485,7 +545,8 @@
 		"score 1-gram": 0.8731398526961766,
 		"score 2-gram": 0.8686850575293594,
 		"score 3-gram": 0.863544909259955,
-		"score 4-gram": 0.8575480696123162
+		"score 4-gram": 0.8575480696123162,
+		"score equal weights": 0.8657099140685622
 	},
 	{
 		"original": "There is a pillar between me and the stage, and I can't see it .",
@@ -493,7 +554,8 @@
 		"score 1-gram": 0.8645582954394498,
 		"score 2-gram": 0.8594425658806365,
 		"score 3-gram": 0.8534742147286876,
-		"score 4-gram": 0.846420708821839
+		"score 4-gram": 0.846420708821839,
+		"score equal weights": 0.8559471626823624
 	},
 	{
 		"original": "They broadcast an announcement, but a subway came into the  station and I couldn't hear it .",
@@ -501,7 +563,8 @@
 		"score 1-gram": 0.8806997463876336,
 		"score 2-gram": 0.8767855252925775,
 		"score 3-gram": 0.8723121297553704,
-		"score 4-gram": 0.8671505195201316
+		"score 4-gram": 0.8671505195201316,
+		"score equal weights": 0.8742223609582066
 	},
 	{
 		"original": "They broadcast an announcement, but a subway came into the  station and I couldn't hear over it .",
@@ -509,7 +572,8 @@
 		"score 1-gram": 0.8874100177457646,
 		"score 2-gram": 0.8839435723639452,
 		"score 3-gram": 0.8800149342645499,
-		"score 4-gram": 0.8755250621509553
+		"score 4-gram": 0.8755250621509553,
+		"score equal weights": 0.8817122476287481
 	},
 	{
 		"original": "In the middle of the outdoor concert, the rain started falling, but it continued until 10.",
@@ -517,7 +581,8 @@
 		"score 1-gram": 0.43343894987509085,
 		"score 2-gram": 0.2667316614615943,
 		"score 3-gram": 0.21671947493754543,
-		"score 4-gram": 0.15761416359094213
+		"score 4-gram": 0.15761416359094213,
+		"score equal weights": 0.25068244494498715
 	},
 	{
 		"original": "In the middle of the outdoor concert, the rain started falling, and it continued until 10.",
@@ -525,7 +590,8 @@
 		"score 1-gram": 0.43343894987509085,
 		"score 2-gram": 0.2667316614615943,
 		"score 3-gram": 0.21671947493754543,
-		"score 4-gram": 0.15761416359094213
+		"score 4-gram": 0.15761416359094213,
+		"score equal weights": 0.25068244494498715
 	},
 	{
 		"original": "I used an old rag to clean the knife, and then I put it in the trash.",
@@ -533,7 +599,8 @@
 		"score 1-gram": 0.8823529411764706,
 		"score 2-gram": 0.75,
 		"score 3-gram": 0.6,
-		"score 4-gram": 0.42857142857142855
+		"score 4-gram": 0.42857142857142855,
+		"score equal weights": 0.6422727797927412
 	},
 	{
 		"original": "I used an old rag to clean the knife, and then I put it in the drawer.",
@@ -541,7 +608,8 @@
 		"score 1-gram": 0.8219864299617914,
 		"score 2-gram": 0.6262753752089838,
 		"score 3-gram": 0.40260559834863247,
-		"score 4-gram": 0.2167876298800329
+		"score 4-gram": 0.2167876298800329,
+		"score equal weights": 0.46040080324036
 	},
 	{
 		"original": "Ann asked Mary what time the library closes, because she had forgotten.",
@@ -549,7 +617,8 @@
 		"score 1-gram": 0.9166666666666666,
 		"score 2-gram": 0.8181818181818182,
 		"score 3-gram": 0.7,
-		"score 4-gram": 0.5555555555555556
+		"score 4-gram": 0.5555555555555556,
+		"score equal weights": 0.7348889200874658
 	},
 	{
 		"original": "Ann asked Mary what time the library closes, but she had forgotten.",
@@ -557,7 +626,8 @@
 		"score 1-gram": 0.9166666666666666,
 		"score 2-gram": 0.8181818181818182,
 		"score 3-gram": 0.7,
-		"score 4-gram": 0.5555555555555556
+		"score 4-gram": 0.5555555555555556,
+		"score equal weights": 0.7348889200874658
 	},
 	{
 		"original": "I took the water bottle out of the backpack so that it would be handy.",
@@ -565,7 +635,8 @@
 		"score 1-gram": 0.5935873286495363,
 		"score 2-gram": 0.42870195958022067,
 		"score 3-gram": 0.3117832433310696,
-		"score 4-gram": 0.17148078383208828
+		"score 4-gram": 0.17148078383208828,
+		"score equal weights": 0.34152860179730143
 	},
 	{
 		"original": "I took the water bottle out of the backpack so that it would be lighter.",
@@ -573,7 +644,8 @@
 		"score 1-gram": 0.5935873286495363,
 		"score 2-gram": 0.42870195958022067,
 		"score 3-gram": 0.3117832433310696,
-		"score 4-gram": 0.17148078383208828
+		"score 4-gram": 0.17148078383208828,
+		"score equal weights": 0.34152860179730143
 	},
 	{
 		"original": "I couldn't put the pot on the shelf because it was too tall.",
@@ -581,7 +653,8 @@
 		"score 1-gram": 1.0,
 		"score 2-gram": 1.0,
 		"score 3-gram": 1.0,
-		"score 4-gram": 1.0
+		"score 4-gram": 1.0,
+		"score equal weights": 1.0
 	},
 	{
 		"original": "I couldn't put the pot on the shelf because it was too high.",
@@ -589,7 +662,8 @@
 		"score 1-gram": 1.0,
 		"score 2-gram": 1.0,
 		"score 3-gram": 1.0,
-		"score 4-gram": 1.0
+		"score 4-gram": 1.0,
+		"score equal weights": 1.0
 	},
 	{
 		"original": "I'm sure that my map will show this building; it is very good.",
@@ -597,7 +671,8 @@
 		"score 1-gram": 0.8433740467435463,
 		"score 2-gram": 0.6691232106395079,
 		"score 3-gram": 0.46002220731466165,
-		"score 4-gram": 0.30668147154310776
+		"score 4-gram": 0.30668147154310776,
+		"score equal weights": 0.5311878904526515
 	},
 	{
 		"original": "I'm sure that my map will show this building; it is very famous.",
@@ -605,7 +680,8 @@
 		"score 1-gram": 0.8433740467435463,
 		"score 2-gram": 0.6691232106395079,
 		"score 3-gram": 0.46002220731466165,
-		"score 4-gram": 0.30668147154310776
+		"score 4-gram": 0.30668147154310776,
+		"score equal weights": 0.5311878904526515
 	},
 	{
 		"original": "Bob paid for Charlie's college education. He is very generous.",
@@ -613,7 +689,8 @@
 		"score 1-gram": 0.6959861353000654,
 		"score 2-gram": 0.44741965840718484,
 		"score 3-gram": 0.255668376232677,
-		"score 4-gram": 0.1491398861357283
+		"score 4-gram": 0.1491398861357283,
+		"score equal weights": 0.3301008309851503
 	},
 	{
 		"original": "Bob paid for Charlie's college education. He is very grateful.",
@@ -621,7 +698,8 @@
 		"score 1-gram": 0.6959861353000654,
 		"score 2-gram": 0.44741965840718484,
 		"score 3-gram": 0.255668376232677,
-		"score 4-gram": 0.1491398861357283
+		"score 4-gram": 0.1491398861357283,
+		"score equal weights": 0.3301008309851503
 	},
 	{
 		"original": "Bob paid for Charlie's college education, but now Charlie acts as though it never happened. He is very hurt.",
@@ -629,7 +707,8 @@
 		"score 1-gram": 0.732125689155227,
 		"score 2-gram": 0.5556311033767348,
 		"score 3-gram": 0.35560390616111026,
-		"score 4-gram": 0.19050209258630904
+		"score 4-gram": 0.19050209258630904,
+		"score equal weights": 0.4074362040846933
 	},
 	{
 		"original": "Bob paid for Charlie's college education, but now Charlie acts as though it never happened. He is very ungrateful.",
@@ -637,7 +716,8 @@
 		"score 1-gram": 0.732125689155227,
 		"score 2-gram": 0.5556311033767348,
 		"score 3-gram": 0.35560390616111026,
-		"score 4-gram": 0.19050209258630904
+		"score 4-gram": 0.19050209258630904,
+		"score equal weights": 0.4074362040846933
 	},
 	{
 		"original": "Bob was playing cards with Adam and was way ahead. If Adam hadn't had a sudden run of good luck, he would have won.",
@@ -645,7 +725,8 @@
 		"score 1-gram": 0.8,
 		"score 2-gram": 0.6666666666666666,
 		"score 3-gram": 0.5217391304347826,
-		"score 4-gram": 0.4090909090909091
+		"score 4-gram": 0.4090909090909091,
+		"score equal weights": 0.580855347112618
 	},
 	{
 		"original": "Bob was playing cards with Adam and was way ahead. If Adam hadn't had a sudden run of good luck, he would have lost.",
@@ -653,7 +734,8 @@
 		"score 1-gram": 0.8,
 		"score 2-gram": 0.6666666666666666,
 		"score 3-gram": 0.5217391304347826,
-		"score 4-gram": 0.4090909090909091
+		"score 4-gram": 0.4090909090909091,
+		"score equal weights": 0.580855347112618
 	},
 	{
 		"original": "Adam can't leave work here until Bob arrives to replace him. If Bob had  left home for work on time, he would be gone by this time.",
@@ -661,7 +743,8 @@
 		"score 1-gram": 0.5907944616874469,
 		"score 2-gram": 0.4615581731933179,
 		"score 3-gram": 0.3612194398904227,
-		"score 4-gram": 0.29371883748665684
+		"score 4-gram": 0.29371883748665684,
+		"score equal weights": 0.4124216393269557
 	},
 	{
 		"original": "Adam can't leave work here until Bob arrives to replace him. If Bob had  left home for work on time, he would be here by this time.",
@@ -669,7 +752,8 @@
 		"score 1-gram": 0.6942186709776983,
 		"score 2-gram": 0.5729795250892485,
 		"score 3-gram": 0.4802114115033702,
-		"score 4-gram": 0.42018498506544893
+		"score 4-gram": 0.42018498506544893,
+		"score equal weights": 0.532264007594785
 	},
 	{
 		"original": "If the con artist has succeeded in fooling Sam, he would have gotten a lot of money.",
@@ -677,7 +761,8 @@
 		"score 1-gram": 0.6470588235294118,
 		"score 2-gram": 0.4375,
 		"score 3-gram": 0.26666666666666666,
-		"score 4-gram": 0.14285714285714285
+		"score 4-gram": 0.14285714285714285,
+		"score equal weights": 0.3222538601891173
 	},
 	{
 		"original": "If the con artist has succeeded in fooling Sam, he would have lost a lot of money.",
@@ -685,7 +770,8 @@
 		"score 1-gram": 0.7058823529411765,
 		"score 2-gram": 0.5625,
 		"score 3-gram": 0.4666666666666667,
-		"score 4-gram": 0.42857142857142855
+		"score 4-gram": 0.42857142857142855,
+		"score equal weights": 0.5308492544859768
 	},
 	{
 		"original": "It was a summer afternoon, and the dog was sitting in the middle of the lawn. After a while, it got up and moved to a spot under the tree,  because it was hot.",
@@ -693,7 +779,8 @@
 		"score 1-gram": 1.0,
 		"score 2-gram": 1.0,
 		"score 3-gram": 1.0,
-		"score 4-gram": 1.0
+		"score 4-gram": 1.0,
+		"score equal weights": 1.0
 	},
 	{
 		"original": "It was a summer afternoon, and the dog was sitting in the middle of the lawn. After a while, it got up and moved to a spot under the tree,  because it was cooler.",
@@ -701,7 +788,8 @@
 		"score 1-gram": 1.0,
 		"score 2-gram": 1.0,
 		"score 3-gram": 1.0,
-		"score 4-gram": 1.0
+		"score 4-gram": 1.0,
+		"score equal weights": 1.0
 	},
 	{
 		"original": "The cat was lying by the mouse hole waiting for the mouse, but it was too impatient.",
@@ -709,7 +797,8 @@
 		"score 1-gram": 0.7632731135359491,
 		"score 2-gram": 0.5010203001671871,
 		"score 3-gram": 0.40260559834863247,
-		"score 4-gram": 0.2890501731733771
+		"score 4-gram": 0.2890501731733771,
+		"score equal weights": 0.4593006739855921
 	},
 	{
 		"original": "The cat was lying by the mouse hole waiting for the mouse, but it was too cautious.",
@@ -717,7 +806,8 @@
 		"score 1-gram": 0.7647058823529411,
 		"score 2-gram": 0.5,
 		"score 3-gram": 0.4,
-		"score 4-gram": 0.2857142857142857
+		"score 4-gram": 0.2857142857142857,
+		"score equal weights": 0.4572082891936413
 	},
 	{
 		"original": "Anne gave birth to a daughter last month. She is a very charming woman.",
@@ -725,7 +815,8 @@
 		"score 1-gram": 0.8571428571428571,
 		"score 2-gram": 0.6923076923076923,
 		"score 3-gram": 0.5,
-		"score 4-gram": 0.36363636363636365
+		"score 4-gram": 0.36363636363636365,
+		"score equal weights": 0.5731224484094262
 	},
 	{
 		"original": "Anne gave birth to a daughter last month. She is a very charming baby.",
@@ -733,7 +824,8 @@
 		"score 1-gram": 0.7857142857142857,
 		"score 2-gram": 0.6153846153846154,
 		"score 3-gram": 0.5,
-		"score 4-gram": 0.36363636363636365
+		"score 4-gram": 0.36363636363636365,
+		"score equal weights": 0.5445178846139404
 	},
 	{
 		"original": "Alice tried frantically to stop her daughter from chatting at the party, leaving us to wonder why she was behaving so strangely.",
@@ -741,7 +833,8 @@
 		"score 1-gram": 0.6786280635269697,
 		"score 2-gram": 0.476230220018926,
 		"score 3-gram": 0.3518812181250954,
-		"score 4-gram": 0.2661286523635175
+		"score 4-gram": 0.2661286523635175,
+		"score equal weights": 0.41709417232262036
 	},
 	{
 		"original": "Alice tried frantically to stop her daughter from barking at the party, leaving us to wonder why she was behaving so strangely.",
@@ -749,7 +842,8 @@
 		"score 1-gram": 0.7238699344287677,
 		"score 2-gram": 0.5714762640227112,
 		"score 3-gram": 0.502687454464422,
-		"score 4-gram": 0.425805843781628
+		"score 4-gram": 0.425805843781628,
+		"score equal weights": 0.5454966652138936
 	},
 	{
 		"original": "I saw Jim yelling at some guy in a military uniform with a huge red  beard. I don't know why he was, but he looked very unhappy.",
@@ -757,7 +851,8 @@
 		"score 1-gram": 0.6666666666666666,
 		"score 2-gram": 0.4482758620689655,
 		"score 3-gram": 0.3571428571428572,
-		"score 4-gram": 0.25925925925925924
+		"score 4-gram": 0.25925925925925924,
+		"score equal weights": 0.40785668493845234
 	},
 	{
 		"original": "I saw Jim yelling at some guy in a military uniform with a huge red  beard. I don't know who he was, but he looked very unhappy.",
@@ -765,7 +860,8 @@
 		"score 1-gram": 0.75,
 		"score 2-gram": 0.5555555555555556,
 		"score 3-gram": 0.5,
-		"score 4-gram": 0.44
+		"score 4-gram": 0.44,
+		"score equal weights": 0.5502408885295141
 	},
 	{
 		"original": "The fish ate the worm. It was hungry.",
@@ -773,7 +869,8 @@
 		"score 1-gram": 0.75,
 		"score 2-gram": 0.5714285714285714,
 		"score 3-gram": 0.3333333333333333,
-		"score 4-gram": 0.2
+		"score 4-gram": 0.2,
+		"score equal weights": 0.4111336169005197
 	},
 	{
 		"original": "The fish ate the worm. It was tasty.",
@@ -781,7 +878,8 @@
 		"score 1-gram": 0.875,
 		"score 2-gram": 0.7142857142857143,
 		"score 3-gram": 0.5,
-		"score 4-gram": 0.2
+		"score 4-gram": 0.2,
+		"score equal weights": 0.5
 	},
 	{
 		"original": "I was trying to open the lock with the key, but someone had filled the  keyhole with chewing gum, and I couldn't get it in.",
@@ -789,7 +887,8 @@
 		"score 1-gram": 0.7692307692307693,
 		"score 2-gram": 0.72,
 		"score 3-gram": 0.6666666666666666,
-		"score 4-gram": 0.6086956521739131
+		"score 4-gram": 0.6086956521739131,
+		"score equal weights": 0.6885326214539055
 	},
 	{
 		"original": "I was trying to open the lock with the key, but someone had filled the  keyhole with chewing gum, and I couldn't get it out.",
@@ -797,7 +896,8 @@
 		"score 1-gram": 0.8392907749704959,
 		"score 2-gram": 0.7923738993510272,
 		"score 3-gram": 0.7411918532206977,
-		"score 4-gram": 0.6851353265065273
+		"score 4-gram": 0.6851353265065273,
+		"score equal weights": 0.76232015509242
 	},
 	{
 		"original": "The dog chased the cat, which ran up a tree. It waited at the bottom.",
@@ -805,7 +905,8 @@
 		"score 1-gram": 0.5935873286495363,
 		"score 2-gram": 0.2858013063868138,
 		"score 3-gram": 0.23383743249830216,
-		"score 4-gram": 0.17148078383208828
+		"score 4-gram": 0.17148078383208828,
+		"score equal weights": 0.2871901769579641
 	},
 	{
 		"original": "The dog chased the cat, which ran up a tree. It waited at the top.",
@@ -813,7 +914,8 @@
 		"score 1-gram": 0.6650448426457306,
 		"score 2-gram": 0.28648085529354544,
 		"score 3-gram": 0.2327656949260057,
-		"score 4-gram": 0.1692841417643678
+		"score 4-gram": 0.1692841417643678,
+		"score equal weights": 0.29435434184140324
 	},
 	{
 		"original": "In the storm, the tree fell down and crashed through the roof of my  house. Now, I have to get it removed.",
@@ -821,7 +923,8 @@
 		"score 1-gram": 0.7718784872461477,
 		"score 2-gram": 0.5720981729000859,
 		"score 3-gram": 0.45165645228954154,
-		"score 4-gram": 0.3708043713241298
+		"score 4-gram": 0.3708043713241298,
+		"score equal weights": 0.5214865845309236
 	},
 	{
 		"original": "In the storm, the tree fell down and crashed through the roof of my  house. Now, I have to get it repaired.",
@@ -829,7 +932,8 @@
 		"score 1-gram": 0.7264738703493154,
 		"score 2-gram": 0.5244233251584122,
 		"score 3-gram": 0.45165645228954154,
-		"score 4-gram": 0.3708043713241298
+		"score 4-gram": 0.3708043713241298,
+		"score equal weights": 0.502589910168054
 	},
 	{
 		"original": "The customer walked into the bank and stabbed one of the tellers. He was immediately taken to the police station.",
@@ -837,7 +941,8 @@
 		"score 1-gram": 0.8987963494892562,
 		"score 2-gram": 0.8433150933479441,
 		"score 3-gram": 0.7813066306017717,
-		"score 4-gram": 0.7708427025133552
+		"score 4-gram": 0.7708427025133552,
+		"score equal weights": 0.8219768987890458
 	},
 	{
 		"original": "The customer walked into the bank and stabbed one of the tellers. He was immediately taken to the hospital.",
@@ -845,7 +950,8 @@
 		"score 1-gram": 0.8934061650786117,
 		"score 2-gram": 0.8346701196236165,
 		"score 3-gram": 0.7685920684867469,
-		"score 4-gram": 0.7567675751254124
+		"score 4-gram": 0.7567675751254124,
+		"score equal weights": 0.811531826234226
 	},
 	{
 		"original": "John was doing research in the library when he heard a man humming and  whistling. He was very annoyed.",
@@ -853,7 +959,8 @@
 		"score 1-gram": 0.9,
 		"score 2-gram": 0.8421052631578947,
 		"score 3-gram": 0.7777777777777778,
-		"score 4-gram": 0.7058823529411765
+		"score 4-gram": 0.7058823529411765,
+		"score equal weights": 0.803154665668484
 	},
 	{
 		"original": "John was doing research in the library when he heard a man humming and  whistling. He was very annoying.",
@@ -861,7 +968,8 @@
 		"score 1-gram": 0.95,
 		"score 2-gram": 0.8947368421052632,
 		"score 3-gram": 0.8333333333333334,
-		"score 4-gram": 0.7647058823529411
+		"score 4-gram": 0.7647058823529411,
+		"score equal weights": 0.8578928092681435
 	},
 	{
 		"original": "John was jogging through the park when he saw a man juggling watermelons. He was very impressed.",
@@ -869,7 +977,8 @@
 		"score 1-gram": 0.9411764705882353,
 		"score 2-gram": 0.875,
 		"score 3-gram": 0.8,
-		"score 4-gram": 0.7857142857142857
+		"score 4-gram": 0.7857142857142857,
+		"score equal weights": 0.848219861937046
 	},
 	{
 		"original": "John was jogging through the park when he saw a man juggling watermelons. He was very impressive.",
@@ -877,7 +986,8 @@
 		"score 1-gram": 0.9411764705882353,
 		"score 2-gram": 0.875,
 		"score 3-gram": 0.8,
-		"score 4-gram": 0.7857142857142857
+		"score 4-gram": 0.7857142857142857,
+		"score equal weights": 0.848219861937046
 	},
 	{
 		"original": "Bob collapsed on the sidewalk. Soon he saw Carl coming to help. He was very ill.",
@@ -885,7 +995,8 @@
 		"score 1-gram": 0.8823529411764706,
 		"score 2-gram": 0.8125,
 		"score 3-gram": 0.7333333333333333,
-		"score 4-gram": 0.6428571428571429
+		"score 4-gram": 0.6428571428571429,
+		"score equal weights": 0.762465858623486
 	},
 	{
 		"original": "Bob collapsed on the sidewalk. Soon he saw Carl coming to help. He was very concerned.",
@@ -893,7 +1004,8 @@
 		"score 1-gram": 0.8823529411764706,
 		"score 2-gram": 0.8125,
 		"score 3-gram": 0.7333333333333333,
-		"score 4-gram": 0.6428571428571429
+		"score 4-gram": 0.6428571428571429,
+		"score equal weights": 0.762465858623486
 	},
 	{
 		"original": "Sam and Amy are passionately in love, but Amy's parents are unhappy about it, because they are fifteen.",
@@ -901,7 +1013,8 @@
 		"score 1-gram": 0.7777777777777778,
 		"score 2-gram": 0.6470588235294118,
 		"score 3-gram": 0.5,
-		"score 4-gram": 0.3333333333333333
+		"score 4-gram": 0.3333333333333333,
+		"score equal weights": 0.5381607389335188
 	},
 	{
 		"original": "Sam and Amy are passionately in love, but Amy's parents are unhappy about it, because they are snobs.",
@@ -909,7 +1022,8 @@
 		"score 1-gram": 0.7777777777777778,
 		"score 2-gram": 0.6470588235294118,
 		"score 3-gram": 0.5,
-		"score 4-gram": 0.3333333333333333
+		"score 4-gram": 0.3333333333333333,
+		"score equal weights": 0.5381607389335188
 	},
 	{
 		"original": "Mark told Pete many lies about himself, which Pete included in his book. He should have been more  truthful.",
@@ -917,7 +1031,8 @@
 		"score 1-gram": 0.7142857142857143,
 		"score 2-gram": 0.55,
 		"score 3-gram": 0.3684210526315789,
-		"score 4-gram": 0.2777777777777778
+		"score 4-gram": 0.2777777777777778,
+		"score equal weights": 0.44778459441351737
 	},
 	{
 		"original": "Mark told Pete many lies about himself, which Pete included in his book. He should have been more  skeptical.",
@@ -925,7 +1040,8 @@
 		"score 1-gram": 0.7619047619047619,
 		"score 2-gram": 0.6,
 		"score 3-gram": 0.42105263157894735,
-		"score 4-gram": 0.3333333333333333
+		"score 4-gram": 0.3333333333333333,
+		"score equal weights": 0.5032882223383748
 	},
 	{
 		"original": "Joe has sold his house and bought a new one a few miles away. He will be moving out of it on Thursday.",
@@ -933,7 +1049,8 @@
 		"score 1-gram": 0.7316017799612992,
 		"score 2-gram": 0.6342058773658321,
 		"score 3-gram": 0.5738053176167053,
-		"score 4-gram": 0.5569286906279787
+		"score 4-gram": 0.5569286906279787,
+		"score equal weights": 0.6205364459725934
 	},
 	{
 		"original": "Joe has sold his house and bought a new one a few miles away. He will be moving into it on Thursday.",
@@ -941,7 +1058,8 @@
 		"score 1-gram": 0.7691118053305656,
 		"score 2-gram": 0.6667223080264965,
 		"score 3-gram": 0.6032249453573063,
-		"score 4-gram": 0.5854830351997385
+		"score 4-gram": 0.5854830351997385,
+		"score equal weights": 0.6523520298988895
 	},
 	{
 		"original": "Many people start to read Paul's books and can't put them down. They are gripped because Paul writes so well.",
@@ -949,7 +1067,8 @@
 		"score 1-gram": 0.65,
 		"score 2-gram": 0.3157894736842105,
 		"score 3-gram": 0.2222222222222222,
-		"score 4-gram": 0.11764705882352941
+		"score 4-gram": 0.11764705882352941,
+		"score equal weights": 0.2706573913259733
 	},
 	{
 		"original": "Many people start to read Paul's books and can't put them down. They are popular because Paul writes so well.",
@@ -957,7 +1076,8 @@
 		"score 1-gram": 0.7,
 		"score 2-gram": 0.47368421052631576,
 		"score 3-gram": 0.3888888888888889,
-		"score 4-gram": 0.29411764705882354
+		"score 4-gram": 0.29411764705882354,
+		"score equal weights": 0.4412994555017375
 	},
 	{
 		"original": "Mary took out her flute and played one of her favorite pieces. She has had it since she was a child.",
@@ -965,7 +1085,8 @@
 		"score 1-gram": 0.951229424500714,
 		"score 2-gram": 0.9011647179480448,
 		"score 3-gram": 0.8455372662228569,
-		"score 4-gram": 0.8393200804418065
+		"score 4-gram": 0.8393200804418065,
+		"score equal weights": 0.8831560649744244
 	},
 	{
 		"original": "Mary took out her flute and played one of her favorite pieces. She has loved it since she was a child.",
@@ -973,7 +1094,8 @@
 		"score 1-gram": 0.9036679532756783,
 		"score 2-gram": 0.8010353048427065,
 		"score 3-gram": 0.6869990288060712,
-		"score 4-gram": 0.6155013923239915
+		"score 4-gram": 0.6155013923239915,
+		"score equal weights": 0.7438089938902134
 	},
 	{
 		"original": "Sam pulled up a chair to the piano, but it was broken, so he had to stand instead.",
@@ -981,7 +1103,8 @@
 		"score 1-gram": 0.7210206394184336,
 		"score 2-gram": 0.5892957149092968,
 		"score 3-gram": 0.5028656767226,
-		"score 4-gram": 0.47143657192743743
+		"score 4-gram": 0.47143657192743743,
+		"score equal weights": 0.5633639605518703
 	},
 	{
 		"original": "Sam pulled up a chair to the piano, but it was broken, so he had to sing instead.",
@@ -989,7 +1112,8 @@
 		"score 1-gram": 0.7170287333499838,
 		"score 2-gram": 0.5883312683897303,
 		"score 3-gram": 0.5042839443340545,
-		"score 4-gram": 0.47519063985324367
+		"score 4-gram": 0.47519063985324367,
+		"score equal weights": 0.5638653104251217
 	},
 	{
 		"original": "Since it was raining, I carried the newspaper in my backpack to keep it dry.",
@@ -997,7 +1121,8 @@
 		"score 1-gram": 0.8666666666666667,
 		"score 2-gram": 0.7857142857142857,
 		"score 3-gram": 0.6923076923076923,
-		"score 4-gram": 0.5833333333333334
+		"score 4-gram": 0.5833333333333334,
+		"score equal weights": 0.7241577342575828
 	},
 	{
 		"original": "Since it was raining, I carried the newspaper over my backpack to keep it dry.",
@@ -1005,7 +1130,8 @@
 		"score 1-gram": 0.8666666666666667,
 		"score 2-gram": 0.7857142857142857,
 		"score 3-gram": 0.6923076923076923,
-		"score 4-gram": 0.5833333333333334
+		"score 4-gram": 0.5833333333333334,
+		"score equal weights": 0.7241577342575828
 	},
 	{
 		"original": "Sara borrowed the book from the library because she needs it for an article she is working on. She reads it when she gets home from work.",
@@ -1013,7 +1139,8 @@
 		"score 1-gram": 0.9259259259259259,
 		"score 2-gram": 0.8461538461538461,
 		"score 3-gram": 0.76,
-		"score 4-gram": 0.7083333333333334
+		"score 4-gram": 0.7083333333333334,
+		"score equal weights": 0.8058778374128266
 	},
 	{
 		"original": "Sara borrowed the book from the library because she needs it for an article she is working on. She writes it when she gets home from work.",
@@ -1021,7 +1148,8 @@
 		"score 1-gram": 0.9259259259259259,
 		"score 2-gram": 0.8461538461538461,
 		"score 3-gram": 0.76,
-		"score 4-gram": 0.7083333333333334
+		"score 4-gram": 0.7083333333333334,
+		"score equal weights": 0.8058778374128266
 	},
 	{
 		"original": "This morning, Joey built a sand castle on the beach, and put a toy  flag in the highest tower, but this afternoon the tide  knocked it down.",
@@ -1029,7 +1157,8 @@
 		"score 1-gram": 0.703196368188534,
 		"score 2-gram": 0.5003797314688938,
 		"score 3-gram": 0.36085076788622145,
-		"score 4-gram": 0.25102662113824104
+		"score 4-gram": 0.25102662113824104,
+		"score equal weights": 0.4225284298110354
 	},
 	{
 		"original": "This morning, Joey built a sand castle on the beach, and put a toy  flag in the highest tower, but this afternoon the wind  knocked it down.",
@@ -1037,7 +1166,8 @@
 		"score 1-gram": 0.7402067033563517,
 		"score 2-gram": 0.5388704800434241,
 		"score 3-gram": 0.40094529765135717,
-		"score 4-gram": 0.29286439132794795
+		"score 4-gram": 0.29286439132794795,
+		"score equal weights": 0.4652081079898411
 	},
 	{
 		"original": "Jane knocked on Susan's door, but there was no answer. She was disappointed.",
@@ -1045,7 +1175,8 @@
 		"score 1-gram": 0.7667036788577695,
 		"score 2-gram": 0.5854828093095693,
 		"score 3-gram": 0.46002220731466165,
-		"score 4-gram": 0.30668147154310776
+		"score 4-gram": 0.30668147154310776,
+		"score equal weights": 0.5016513759455239
 	},
 	{
 		"original": "Jane knocked on Susan's door, but there was no answer. She was out.",
@@ -1053,7 +1184,8 @@
 		"score 1-gram": 0.6900333109719925,
 		"score 2-gram": 0.5018424079796309,
 		"score 3-gram": 0.36801776585172935,
-		"score 4-gram": 0.30668147154310776
+		"score 4-gram": 0.30668147154310776,
+		"score equal weights": 0.44462966469165144
 	},
 	{
 		"original": "Jane knocked on the door, and Susan answered it. She invited her to come out.",
@@ -1061,7 +1193,8 @@
 		"score 1-gram": 0.6490006525595041,
 		"score 2-gram": 0.42480042712985716,
 		"score 3-gram": 0.38940039153570244,
-		"score 4-gram": 0.34613368136506883
+		"score 4-gram": 0.34613368136506883,
+		"score equal weights": 0.439053638813621
 	},
 	{
 		"original": "Jane knocked on the door, and Susan answered it. She invited her to come in.",
@@ -1069,7 +1202,8 @@
 		"score 1-gram": 0.7139007178154544,
 		"score 2-gram": 0.5664005695064763,
 		"score 3-gram": 0.4672804698428429,
-		"score 4-gram": 0.34613368136506883
+		"score 4-gram": 0.34613368136506883,
+		"score equal weights": 0.5057032536203355
 	},
 	{
 		"original": "Sam took French classes from Adam, because he was eager to speak it fluently.",
@@ -1077,7 +1211,8 @@
 		"score 1-gram": 0.7835055280819597,
 		"score 2-gram": 0.617307385761544,
 		"score 3-gram": 0.505069679259445,
-		"score 4-gram": 0.37038443145692646
+		"score 4-gram": 0.37038443145692646,
+		"score equal weights": 0.5484498092204758
 	},
 	{
 		"original": "Sam took French classes from Adam, because he was known to speak it fluently.",
@@ -1085,7 +1220,8 @@
 		"score 1-gram": 0.6410499775216034,
 		"score 2-gram": 0.462980539321158,
 		"score 3-gram": 0.33671311950629673,
-		"score 4-gram": 0.18519221572846323
+		"score 4-gram": 0.18519221572846323,
+		"score equal weights": 0.36883688707312123
 	},
 	{
 		"original": "The path to the lake was blocked, so we couldn't use it .",
@@ -1093,7 +1229,8 @@
 		"score 1-gram": 0.7667036788577695,
 		"score 2-gram": 0.6691232106395079,
 		"score 3-gram": 0.552026648777594,
-		"score 4-gram": 0.4089086287241437
+		"score 4-gram": 0.4089086287241437,
+		"score equal weights": 0.5833510584342544
 	},
 	{
 		"original": "The path to the lake was blocked, so we couldn't reach it .",
@@ -1101,7 +1238,8 @@
 		"score 1-gram": 0.7667036788577695,
 		"score 2-gram": 0.6691232106395079,
 		"score 3-gram": 0.552026648777594,
-		"score 4-gram": 0.4089086287241437
+		"score 4-gram": 0.4089086287241437,
+		"score equal weights": 0.5833510584342544
 	},
 	{
 		"original": "The sun was covered by a thick cloud all morning, but luckily, by the time the picnic started, it was out.",
@@ -1109,7 +1247,8 @@
 		"score 1-gram": 0.517294387433153,
 		"score 2-gram": 0.34855129848437044,
 		"score 3-gram": 0.2116204312226535,
-		"score 4-gram": 0.1128642299854152
+		"score 4-gram": 0.1128642299854152,
+		"score equal weights": 0.25617078395508247
 	},
 	{
 		"original": "The sun was covered by a thick cloud all morning, but luckily, by the time the picnic started, it was gone.",
@@ -1117,7 +1256,8 @@
 		"score 1-gram": 0.8085450108256069,
 		"score 2-gram": 0.7009058917373682,
 		"score 3-gram": 0.6341529496671426,
-		"score 4-gram": 0.6155013923239915
+		"score 4-gram": 0.6155013923239915,
+		"score equal weights": 0.6857988336949306
 	},
 	{
 		"original": "We went to the lake, because a shark had been seen at the ocean beach, so it was a safer place to swim.",
@@ -1125,7 +1265,8 @@
 		"score 1-gram": 0.8252589858680638,
 		"score 2-gram": 0.6825450259059174,
 		"score 3-gram": 0.5733378217609706,
-		"score 4-gram": 0.4526351224428715
+		"score 4-gram": 0.4526351224428715,
+		"score equal weights": 0.6183296932477693
 	},
 	{
 		"original": "We went to the lake, because a shark had been seen at the ocean beach, so it was a dangerous place to swim.",
@@ -1133,7 +1274,8 @@
 		"score 1-gram": 0.8252589858680638,
 		"score 2-gram": 0.6825450259059174,
 		"score 3-gram": 0.5733378217609706,
-		"score 4-gram": 0.4526351224428715
+		"score 4-gram": 0.4526351224428715,
+		"score equal weights": 0.6183296932477693
 	},
 	{
 		"original": "Sam tried to paint a picture of shepherds with sheep, but they ended up looking more like golfers.",
@@ -1141,7 +1283,8 @@
 		"score 1-gram": 1.0,
 		"score 2-gram": 1.0,
 		"score 3-gram": 1.0,
-		"score 4-gram": 1.0
+		"score 4-gram": 1.0,
+		"score equal weights": 1.0
 	},
 	{
 		"original": "Sam tried to paint a picture of shepherds with sheep, but they ended up looking more like dogs.",
@@ -1149,7 +1292,8 @@
 		"score 1-gram": 1.0,
 		"score 2-gram": 1.0,
 		"score 3-gram": 1.0,
-		"score 4-gram": 1.0
+		"score 4-gram": 1.0,
+		"score equal weights": 1.0
 	},
 	{
 		"original": "Mary tucked her daughter Anne into bed, so that she could work.",
@@ -1157,7 +1301,8 @@
 		"score 1-gram": 0.75,
 		"score 2-gram": 0.45454545454545453,
 		"score 3-gram": 0.2,
-		"score 4-gram": 2.2250738585072626e-308
+		"score 4-gram": 2.2250738585072626e-308,
+		"score equal weights": 6.240986633072297e-78
 	},
 	{
 		"original": "Mary tucked her daughter Anne into bed, so that she could sleep.",
@@ -1165,7 +1310,8 @@
 		"score 1-gram": 0.6666666666666666,
 		"score 2-gram": 0.36363636363636365,
 		"score 3-gram": 0.2,
-		"score 4-gram": 2.2250738585072626e-308
+		"score 4-gram": 2.2250738585072626e-308,
+		"score equal weights": 5.731095145962094e-78
 	},
 	{
 		"original": "Fred and Alice had very warm down coats, but they were not prepared for the cold in Alaska.",
@@ -1173,7 +1319,8 @@
 		"score 1-gram": 0.772184789761521,
 		"score 2-gram": 0.7059975220676764,
 		"score 3-gram": 0.6303549304175682,
-		"score 4-gram": 0.5430750169751357
+		"score 4-gram": 0.5430750169751357,
+		"score equal weights": 0.6572677895577042
 	},
 	{
 		"original": "Fred and Alice had very warm down coats, but they were not enough for the cold in Alaska.",
@@ -1181,7 +1328,8 @@
 		"score 1-gram": 0.772184789761521,
 		"score 2-gram": 0.7059975220676764,
 		"score 3-gram": 0.6303549304175682,
-		"score 4-gram": 0.5430750169751357
+		"score 4-gram": 0.5430750169751357,
+		"score equal weights": 0.6572677895577042
 	},
 	{
 		"original": "Thomson visited Cooper's grave in 1765. At that date he had been travelling for five years.",
@@ -1189,7 +1337,8 @@
 		"score 1-gram": 0.875,
 		"score 2-gram": 0.7333333333333333,
 		"score 3-gram": 0.5714285714285714,
-		"score 4-gram": 0.38461538461538464
+		"score 4-gram": 0.38461538461538464,
+		"score equal weights": 0.6128081331864039
 	},
 	{
 		"original": "Thomson visited Cooper's grave in 1765. At that date he had been dead for five years.",
@@ -1197,7 +1346,8 @@
 		"score 1-gram": 0.9375,
 		"score 2-gram": 0.8666666666666667,
 		"score 3-gram": 0.7857142857142857,
-		"score 4-gram": 0.6923076923076923
+		"score 4-gram": 0.6923076923076923,
+		"score equal weights": 0.8153551038173115
 	},
 	{
 		"original": "Jackson was greatly influenced by Arnold, though he lived two centuries later.",
@@ -1205,7 +1355,8 @@
 		"score 1-gram": 0.8461538461538461,
 		"score 2-gram": 0.6666666666666666,
 		"score 3-gram": 0.45454545454545453,
-		"score 4-gram": 0.3
+		"score 4-gram": 0.3,
+		"score equal weights": 0.5266403878479265
 	},
 	{
 		"original": "Jackson was greatly influenced by Arnold, though he lived two centuries earlier.",
@@ -1213,7 +1364,8 @@
 		"score 1-gram": 0.7142857142857143,
 		"score 2-gram": 0.46153846153846156,
 		"score 3-gram": 0.16666666666666669,
-		"score 4-gram": 2.2250738585072626e-308
+		"score 4-gram": 2.2250738585072626e-308,
+		"score equal weights": 5.913141352605895e-78
 	},
 	{
 		"original": "I can't cut that tree down with that axe; it is too thick.",
@@ -1221,7 +1373,8 @@
 		"score 1-gram": 0.6900333109719925,
 		"score 2-gram": 0.41820200664969237,
 		"score 3-gram": 0.276013324388797,
-		"score 4-gram": 0.20445431436207184
+		"score 4-gram": 0.20445431436207184,
+		"score equal weights": 0.3572281085191041
 	},
 	{
 		"original": "I can't cut that tree down with that axe; it is too small.",
@@ -1229,7 +1382,8 @@
 		"score 1-gram": 0.6900333109719925,
 		"score 2-gram": 0.41820200664969237,
 		"score 3-gram": 0.276013324388797,
-		"score 4-gram": 0.20445431436207184
+		"score 4-gram": 0.20445431436207184,
+		"score equal weights": 0.3572281085191041
 	},
 	{
 		"original": "The foxes are getting in at night and attacking the chickens. I shall have to kill them .",
@@ -1237,7 +1391,8 @@
 		"score 1-gram": 0.776483765527544,
 		"score 2-gram": 0.6482252864002265,
 		"score 3-gram": 0.5028656767226,
-		"score 4-gram": 0.33674040851959824
+		"score 4-gram": 0.33674040851959824,
+		"score equal weights": 0.5403204364769614
 	},
 	{
 		"original": "The foxes are getting in at night and attacking the chickens. I shall have to guard them .",
@@ -1245,7 +1400,8 @@
 		"score 1-gram": 0.7210206394184336,
 		"score 2-gram": 0.5892957149092968,
 		"score 3-gram": 0.44000746713227495,
-		"score 4-gram": 0.33674040851959824
+		"score 4-gram": 0.33674040851959824,
+		"score equal weights": 0.5009092657036854
 	},
 	{
 		"original": "The foxes are getting in at night and attacking the chickens. They have gotten very bold.",
@@ -1253,7 +1409,8 @@
 		"score 1-gram": 0.875,
 		"score 2-gram": 0.7333333333333333,
 		"score 3-gram": 0.5714285714285714,
-		"score 4-gram": 0.46153846153846156
+		"score 4-gram": 0.46153846153846156,
+		"score equal weights": 0.6413865258981679
 	},
 	{
 		"original": "The foxes are getting in at night and attacking the chickens. They have gotten very nervous.",
@@ -1261,7 +1418,8 @@
 		"score 1-gram": 0.8107727203607354,
 		"score 2-gram": 0.6682192750225842,
 		"score 3-gram": 0.5037345304016403,
-		"score 4-gram": 0.38979457709650744
+		"score 4-gram": 0.38979457709650744,
+		"score equal weights": 0.571102301617107
 	},
 	{
 		"original": "Fred covered his eyes with his hands, because the wind was blowing sand around. He opened them when the wind stopped.",
@@ -1269,7 +1427,8 @@
 		"score 1-gram": 0.7391304347826086,
 		"score 2-gram": 0.6363636363636364,
 		"score 3-gram": 0.5238095238095238,
-		"score 4-gram": 0.4
+		"score 4-gram": 0.4,
+		"score equal weights": 0.5602926888650678
 	},
 	{
 		"original": "Fred covered his eyes with his hands, because the wind was blowing sand around. He lowered them when the wind stopped.",
@@ -1277,7 +1436,8 @@
 		"score 1-gram": 0.7391304347826086,
 		"score 2-gram": 0.6363636363636364,
 		"score 3-gram": 0.5238095238095238,
-		"score 4-gram": 0.4
+		"score 4-gram": 0.4,
+		"score equal weights": 0.5602926888650678
 	},
 	{
 		"original": "The actress used to be named Terpsichore, but she changed it to Tina a  few years ago, because she figured it was too hard to pronounce.",
@@ -1285,7 +1445,8 @@
 		"score 1-gram": 0.7692307692307693,
 		"score 2-gram": 0.6,
 		"score 3-gram": 0.5,
-		"score 4-gram": 0.43478260869565216
+		"score 4-gram": 0.43478260869565216,
+		"score equal weights": 0.5628109216957106
 	},
 	{
 		"original": "The actress used to be named Terpsichore, but she changed it to Tina a  few years ago, because she figured it was easier to pronounce.",
@@ -1293,7 +1454,8 @@
 		"score 1-gram": 0.7692307692307693,
 		"score 2-gram": 0.6,
 		"score 3-gram": 0.4583333333333333,
-		"score 4-gram": 0.3478260869565218
+		"score 4-gram": 0.3478260869565218,
+		"score equal weights": 0.5208202637221087
 	},
 	{
 		"original": "Fred watched TV while George went out to buy groceries. After an hour he got up.",
@@ -1301,7 +1463,8 @@
 		"score 1-gram": 0.7328516841396473,
 		"score 2-gram": 0.6616022148482927,
 		"score 3-gram": 0.5773982965948736,
-		"score 4-gram": 0.4763535946907707
+		"score 4-gram": 0.4763535946907707,
+		"score equal weights": 0.6043026468442619
 	},
 	{
 		"original": "Fred watched TV while George went out to buy groceries. After an hour he got back.",
@@ -1309,7 +1472,8 @@
 		"score 1-gram": 0.6717807104613434,
 		"score 2-gram": 0.5292817718786341,
 		"score 3-gram": 0.43304872244615517,
-		"score 4-gram": 0.31756906312718053
+		"score 4-gram": 0.31756906312718053,
+		"score equal weights": 0.47024301588843226
 	},
 	{
 		"original": "Fred was supposed to run the dishwasher, but he put it off,  because he wanted to watch TV. But the show turned out to be boring, so he changed his mind and turned it on.",
@@ -1317,7 +1481,8 @@
 		"score 1-gram": 0.7088271064548485,
 		"score 2-gram": 0.49806918013560686,
 		"score 3-gram": 0.42431857131228173,
-		"score 4-gram": 0.34530006185871903
+		"score 4-gram": 0.34530006185871903,
+		"score equal weights": 0.47690257854361195
 	},
 	{
 		"original": "Fred was supposed to run the dishwasher, but he put it off,  because he wanted to watch TV. But the show turned out to be boring, so he changed his mind and turned it off.",
@@ -1325,7 +1490,8 @@
 		"score 1-gram": 0.7088271064548485,
 		"score 2-gram": 0.49806918013560686,
 		"score 3-gram": 0.42431857131228173,
-		"score 4-gram": 0.34530006185871903
+		"score 4-gram": 0.34530006185871903,
+		"score equal weights": 0.47690257854361195
 	},
 	{
 		"original": "Fred is the only man still alive who remembers my great-grandfather. He is a remarkable man.",
@@ -1333,7 +1499,8 @@
 		"score 1-gram": 0.6236713233544118,
 		"score 2-gram": 0.2672877100090336,
 		"score 3-gram": 0.14392415154332583,
-		"score 4-gram": 0.07795891541930147
+		"score 4-gram": 0.07795891541930147,
+		"score equal weights": 0.20796179532157866
 	},
 	{
 		"original": "Fred is the only man still alive who remembers my great-grandfather. He was a remarkable man.",
@@ -1341,7 +1508,8 @@
 		"score 1-gram": 0.75,
 		"score 2-gram": 0.4,
 		"score 3-gram": 0.21428571428571425,
-		"score 4-gram": 0.07692307692307693
+		"score 4-gram": 0.07692307692307693,
+		"score equal weights": 0.26518122980477765
 	},
 	{
 		"original": "Fred is the only man alive who still remembers my father as an infant. When Fred first saw my father, he was twelve years old.",
@@ -1349,7 +1517,8 @@
 		"score 1-gram": 0.8392907749704959,
 		"score 2-gram": 0.7089661204719716,
 		"score 3-gram": 0.5667937701099454,
-		"score 4-gram": 0.4567568843376848
+		"score 4-gram": 0.4567568843376848,
+		"score equal weights": 0.6264869449400985
 	},
 	{
 		"original": "Fred is the only man alive who still remembers my father as an infant. When Fred first saw my father, he was twelve months old.",
@@ -1357,7 +1526,8 @@
 		"score 1-gram": 0.8392907749704959,
 		"score 2-gram": 0.7089661204719716,
 		"score 3-gram": 0.5667937701099454,
-		"score 4-gram": 0.4567568843376848
+		"score 4-gram": 0.4567568843376848,
+		"score equal weights": 0.6264869449400985
 	},
 	{
 		"original": "In July, Kamtchatka declared war on Yakutsk. Since Yakutsk's army was much  better equipped and ten times larger, they were defeated within weeks.",
@@ -1365,7 +1535,8 @@
 		"score 1-gram": 0.875,
 		"score 2-gram": 0.782608695652174,
 		"score 3-gram": 0.7272727272727273,
-		"score 4-gram": 0.6666666666666666
+		"score 4-gram": 0.6666666666666666,
+		"score equal weights": 0.7590837444182695
 	},
 	{
 		"original": "In July, Kamtchatka declared war on Yakutsk. Since Yakutsk's army was much  better equipped and ten times larger, they were victorious within weeks.",
@@ -1373,7 +1544,8 @@
 		"score 1-gram": 0.875,
 		"score 2-gram": 0.782608695652174,
 		"score 3-gram": 0.7272727272727273,
-		"score 4-gram": 0.6666666666666666
+		"score 4-gram": 0.6666666666666666,
+		"score equal weights": 0.7590837444182695
 	},
 	{
 		"original": "Look! There is a minnow swimming right below that duck! It had better get away to safety fast!",
@@ -1381,7 +1553,8 @@
 		"score 1-gram": 0.6111111111111112,
 		"score 2-gram": 0.29411764705882354,
 		"score 3-gram": 0.12500000000000003,
-		"score 4-gram": 0.06666666666666667
+		"score 4-gram": 0.06666666666666667,
+		"score equal weights": 0.1967274688523915
 	},
 	{
 		"original": "Look! There is a shark swimming right below that duck! It had better get away to safety fast!",
@@ -1389,7 +1562,8 @@
 		"score 1-gram": 0.6666666666666666,
 		"score 2-gram": 0.4117647058823529,
 		"score 3-gram": 0.25,
-		"score 4-gram": 0.13333333333333333
+		"score 4-gram": 0.13333333333333333,
+		"score equal weights": 0.30928520903947526
 	},
 	{
 		"original": "Archaeologists have concluded that humans lived in Laputa 20,000 years ago. They hunted for evidence on the river banks.",
@@ -1397,7 +1571,8 @@
 		"score 1-gram": 0.732125689155227,
 		"score 2-gram": 0.5556311033767348,
 		"score 3-gram": 0.474138541548147,
-		"score 4-gram": 0.4445048827013878
+		"score 4-gram": 0.4445048827013878,
+		"score equal weights": 0.5411136600215111
 	},
 	{
 		"original": "Archaeologists have concluded that humans lived in Laputa 20,000 years ago. They hunted for deer on the river banks.",
@@ -1405,7 +1580,8 @@
 		"score 1-gram": 0.7254004784078503,
 		"score 2-gram": 0.5526860787869335,
 		"score 3-gram": 0.5329472902588288,
-		"score 4-gram": 0.5101717650340926
+		"score 4-gram": 0.5101717650340926,
+		"score equal weights": 0.5745981987689177
 	},
 	{
 		"original": "The scientists are studying three species of fish that have recently been found living in the Indian Ocean. They began two years ago.",
@@ -1413,7 +1589,8 @@
 		"score 1-gram": 0.8686936693348039,
 		"score 2-gram": 0.8190540310871008,
 		"score 3-gram": 0.7644504290146275,
-		"score 4-gram": 0.7040990793555779
+		"score 4-gram": 0.7040990793555779,
+		"score equal weights": 0.786666359120811
 	},
 	{
 		"original": "The scientists are studying three species of fish that have recently been found living in the Indian Ocean. They appeared two years ago.",
@@ -1421,7 +1598,8 @@
 		"score 1-gram": 0.9121283528015441,
 		"score 2-gram": 0.9100600345412231,
 		"score 3-gram": 0.90778488445487,
-		"score 4-gram": 0.905270244885743
+		"score 4-gram": 0.905270244885743,
+		"score equal weights": 0.9088072810577346
 	},
 	{
 		"original": "The journalists interviewed the stars of the new movie. They were very persistent, so the interview lasted for a long time.",
@@ -1429,7 +1607,8 @@
 		"score 1-gram": 0.8095238095238095,
 		"score 2-gram": 0.7,
 		"score 3-gram": 0.5789473684210527,
-		"score 4-gram": 0.4444444444444444
+		"score 4-gram": 0.4444444444444444,
+		"score equal weights": 0.617939643800199
 	},
 	{
 		"original": "The journalists interviewed the stars of the new movie. They were very cooperative, so the interview lasted for a long time.",
@@ -1437,7 +1616,8 @@
 		"score 1-gram": 0.8095238095238095,
 		"score 2-gram": 0.7,
 		"score 3-gram": 0.5789473684210527,
-		"score 4-gram": 0.4444444444444444
+		"score 4-gram": 0.4444444444444444,
+		"score equal weights": 0.617939643800199
 	},
 	{
 		"original": "The police arrested all of the gang members. They were trying to stop the drug trade in the neighborhood.",
@@ -1445,7 +1625,8 @@
 		"score 1-gram": 0.7357462535941509,
 		"score 2-gram": 0.5008020717741699,
 		"score 3-gram": 0.2956123340333642,
-		"score 4-gram": 0.1261279291875687
+		"score 4-gram": 0.1261279291875687,
+		"score equal weights": 0.3423591961656695
 	},
 	{
 		"original": "The police arrested all of the gang members. They were trying to run the drug trade in the neighborhood.",
@@ -1453,7 +1634,8 @@
 		"score 1-gram": 0.7357462535941509,
 		"score 2-gram": 0.5008020717741699,
 		"score 3-gram": 0.2956123340333642,
-		"score 4-gram": 0.1261279291875687
+		"score 4-gram": 0.1261279291875687,
+		"score equal weights": 0.3423591961656695
 	},
 	{
 		"original": "I put the cake away in the refrigerator. It has a lot of butter in it.",
@@ -1461,7 +1643,8 @@
 		"score 1-gram": 0.5496387631047355,
 		"score 2-gram": 0.3969613289089756,
 		"score 3-gram": 0.21652436122307758,
-		"score 4-gram": 0.07939226578179515
+		"score 4-gram": 0.07939226578179515,
+		"score equal weights": 0.24747288953097432
 	},
 	{
 		"original": "I put the cake away in the refrigerator. It has a lot of leftovers in it.",
@@ -1469,7 +1652,8 @@
 		"score 1-gram": 0.5572786498394026,
 		"score 2-gram": 0.4000974921923916,
 		"score 3-gram": 0.21671947493754543,
-		"score 4-gram": 0.07880708179547105
+		"score 4-gram": 0.07880708179547105,
+		"score equal weights": 0.2484135921884226
 	},
 	{
 		"original": "Sam broke both his ankles and he's walking with crutches. But a month or so from now they should be better.",
@@ -1477,7 +1661,8 @@
 		"score 1-gram": 0.6658605971504997,
 		"score 2-gram": 0.3504529458686841,
 		"score 3-gram": 0.1585382374167857,
-		"score 4-gram": 0.055954672029453756
+		"score 4-gram": 0.055954672029453756,
+		"score equal weights": 0.21330245438710907
 	},
 	{
 		"original": "Sam broke both his ankles and he's walking with crutches. But a month or so from now they should be unnecessary.",
@@ -1485,7 +1670,8 @@
 		"score 1-gram": 0.5909090909090909,
 		"score 2-gram": 0.23809523809523808,
 		"score 3-gram": 0.05000000000000001,
-		"score 4-gram": 2.2250738585072626e-308
+		"score 4-gram": 2.2250738585072626e-308,
+		"score equal weights": 3.5370927999342654e-78
 	},
 	{
 		"original": "When the sponsors of the bill got to the town hall, they were surprised to find that the room was full of opponents. They were very much in the minority.",
@@ -1493,7 +1679,8 @@
 		"score 1-gram": 0.5567369120930278,
 		"score 2-gram": 0.34113781378249247,
 		"score 3-gram": 0.2135819355855605,
-		"score 4-gram": 0.11164510269245208
+		"score 4-gram": 0.11164510269245208,
+		"score equal weights": 0.2594155579064388
 	},
 	{
 		"original": "When the sponsors of the bill got to the town hall, they were surprised to find that the room was full of opponents. They were very much in the majority.",
@@ -1501,7 +1688,8 @@
 		"score 1-gram": 0.5567369120930278,
 		"score 2-gram": 0.34113781378249247,
 		"score 3-gram": 0.2135819355855605,
-		"score 4-gram": 0.11164510269245208
+		"score 4-gram": 0.11164510269245208,
+		"score equal weights": 0.2594155579064388
 	},
 	{
 		"original": "Everyone really loved the oatmeal cookies; only a few people liked the  chocolate chip cookies. Next time, we should make more of them .",
@@ -1509,7 +1697,8 @@
 		"score 1-gram": 0.7885869822437721,
 		"score 2-gram": 0.6522147973444732,
 		"score 3-gram": 0.5478604297693574,
-		"score 4-gram": 0.48057932435908546
+		"score 4-gram": 0.48057932435908546,
+		"score equal weights": 0.6066229224098699
 	},
 	{
 		"original": "Everyone really loved the oatmeal cookies; only a few people liked the  chocolate chip cookies. Next time, we should make fewer of them .",
@@ -1517,7 +1706,8 @@
 		"score 1-gram": 0.7470824042309421,
 		"score 2-gram": 0.6087338108548416,
 		"score 3-gram": 0.5478604297693574,
-		"score 4-gram": 0.48057932435908546
+		"score 4-gram": 0.48057932435908546,
+		"score equal weights": 0.5882443128784921
 	},
 	{
 		"original": "We had hoped to place copies of our newsletter on all the chairs in the auditorium, but there were simply not enough of them .",
@@ -1525,7 +1715,8 @@
 		"score 1-gram": 0.797145175674336,
 		"score 2-gram": 0.6667032378367174,
 		"score 3-gram": 0.523838258300278,
-		"score 4-gram": 0.4125226284114689
+		"score 4-gram": 0.4125226284114689,
+		"score equal weights": 0.5821417459564051
 	},
 	{
 		"original": "We had hoped to place copies of our newsletter on all the chairs in the auditorium, but there were simply too many of them .",
@@ -1533,7 +1724,8 @@
 		"score 1-gram": 0.7084846608207754,
 		"score 2-gram": 0.5785958063369666,
 		"score 3-gram": 0.4350344408548621,
-		"score 4-gram": 0.3673624167218836
+		"score 4-gram": 0.3673624167218836,
+		"score equal weights": 0.505919040243432
 	},
 	{
 		"original": "I stuck a pin through a carrot. When I pulled the pin out, it left a hole.",
@@ -1541,7 +1733,8 @@
 		"score 1-gram": 0.7632731135359491,
 		"score 2-gram": 0.5636478376880855,
 		"score 3-gram": 0.40260559834863247,
-		"score 4-gram": 0.2167876298800329
+		"score 4-gram": 0.2167876298800329,
+		"score equal weights": 0.4402004976281391
 	},
 	{
 		"original": "I stuck a pin through a carrot. When I pulled the pin out, it had a hole.",
@@ -1549,7 +1742,8 @@
 		"score 1-gram": 0.7632731135359491,
 		"score 2-gram": 0.5636478376880855,
 		"score 3-gram": 0.40260559834863247,
-		"score 4-gram": 0.2167876298800329
+		"score 4-gram": 0.2167876298800329,
+		"score equal weights": 0.4402004976281391
 	},
 	{
 		"original": "I couldn't find a spoon, so I tried using a pen to stir my  coffee. But that turned out to be a bad idea, because it got full of coffee.",
@@ -1557,7 +1751,8 @@
 		"score 1-gram": 0.6774193548387096,
 		"score 2-gram": 0.4666666666666667,
 		"score 3-gram": 0.3448275862068966,
-		"score 4-gram": 0.21428571428571425
+		"score 4-gram": 0.21428571428571425,
+		"score equal weights": 0.3909443137613962
 	},
 	{
 		"original": "I couldn't find a spoon, so I tried using a pen to stir my  coffee. But that turned out to be a bad idea, because it got full of ink.",
@@ -1565,7 +1760,8 @@
 		"score 1-gram": 0.6774193548387096,
 		"score 2-gram": 0.5,
 		"score 3-gram": 0.41379310344827586,
-		"score 4-gram": 0.32142857142857145
+		"score 4-gram": 0.32142857142857145,
+		"score equal weights": 0.4607059623951704
 	},
 	{
 		"original": "Steve follows Fred's example in everything. He admires him hugely.",
@@ -1573,7 +1769,8 @@
 		"score 1-gram": 0.8,
 		"score 2-gram": 0.7777777777777778,
 		"score 3-gram": 0.75,
-		"score 4-gram": 0.7142857142857143
+		"score 4-gram": 0.7142857142857143,
+		"score equal weights": 0.7598356856515925
 	},
 	{
 		"original": "Steve follows Fred's example in everything. He influences him hugely.",
@@ -1581,7 +1778,8 @@
 		"score 1-gram": 0.7,
 		"score 2-gram": 0.5555555555555556,
 		"score 3-gram": 0.5,
-		"score 4-gram": 0.42857142857142855
+		"score 4-gram": 0.42857142857142855,
+		"score equal weights": 0.537284965911771
 	},
 	{
 		"original": "The table won't fit through the doorway because it is too wide.",
@@ -1589,7 +1787,8 @@
 		"score 1-gram": 0.6428571428571429,
 		"score 2-gram": 0.46153846153846156,
 		"score 3-gram": 0.25,
-		"score 4-gram": 0.18181818181818182
+		"score 4-gram": 0.18181818181818182,
+		"score equal weights": 0.3407806467081348
 	},
 	{
 		"original": "The table won't fit through the doorway because it is too narrow.",
@@ -1597,7 +1796,8 @@
 		"score 1-gram": 0.6428571428571429,
 		"score 2-gram": 0.46153846153846156,
 		"score 3-gram": 0.25,
-		"score 4-gram": 0.18181818181818182
+		"score 4-gram": 0.18181818181818182,
+		"score equal weights": 0.3407806467081348
 	},
 	{
 		"original": "Grace was happy to trade me her sweater for my jacket. She thinks it looks dowdy on her.",
@@ -1605,7 +1805,8 @@
 		"score 1-gram": 0.6111111111111112,
 		"score 2-gram": 0.35294117647058826,
 		"score 3-gram": 0.1875,
-		"score 4-gram": 0.13333333333333333
+		"score 4-gram": 0.13333333333333333,
+		"score equal weights": 0.27098211583470044
 	},
 	{
 		"original": "Grace was happy to trade me her sweater for my jacket. She thinks it looks great on her.",
@@ -1613,7 +1814,8 @@
 		"score 1-gram": 0.7777777777777778,
 		"score 2-gram": 0.5294117647058824,
 		"score 3-gram": 0.3125,
-		"score 4-gram": 0.2
+		"score 4-gram": 0.2,
+		"score equal weights": 0.4005274484725572
 	},
 	{
 		"original": "John hired Bill to take care of him .",
@@ -1621,7 +1823,8 @@
 		"score 1-gram": 0.4294155960430205,
 		"score 2-gram": 0.37573864653764294,
 		"score 3-gram": 0.3005909172301144,
-		"score 4-gram": 0.18786932326882147
+		"score 4-gram": 0.18786932326882147,
+		"score equal weights": 0.30895757752065417
 	},
 	{
 		"original": "John hired himself out to Bill to take care of him .",
@@ -1629,7 +1832,8 @@
 		"score 1-gram": 0.31845836025501745,
 		"score 2-gram": 0.08956641382172367,
 		"score 3-gram": 1.594335087959687e-308,
-		"score 4-gram": 1.594335087959687e-308
+		"score 4-gram": 1.594335087959687e-308,
+		"score equal weights": 5.189066807518457e-155
 	},
 	{
 		"original": "John promised Bill to leave, so an hour later he left.",
@@ -1637,7 +1841,8 @@
 		"score 1-gram": 0.7692307692307693,
 		"score 2-gram": 0.6666666666666666,
 		"score 3-gram": 0.5454545454545454,
-		"score 4-gram": 0.4
+		"score 4-gram": 0.4,
+		"score equal weights": 0.5783569866465142
 	},
 	{
 		"original": "John ordered Bill to leave, so an hour later he left.",
@@ -1645,7 +1850,8 @@
 		"score 1-gram": 1.0,
 		"score 2-gram": 1.0,
 		"score 3-gram": 1.0,
-		"score 4-gram": 1.0
+		"score 4-gram": 1.0,
+		"score equal weights": 1.0
 	},
 	{
 		"original": "Sam Goodman's biography of the Spartan general Xenophanes conveys a vivid sense of the difficulties he faced in his research.",
@@ -1653,7 +1859,8 @@
 		"score 1-gram": 0.6814506851874793,
 		"score 2-gram": 0.5711205742523635,
 		"score 3-gram": 0.4450290188979456,
-		"score 4-gram": 0.29953876271977115
+		"score 4-gram": 0.29953876271977115,
+		"score equal weights": 0.47725545399809716
 	},
 	{
 		"original": "Sam Goodman's biography of the Spartan general Xenophanes conveys a vivid sense of the difficulties he faced in his childhood.",
@@ -1661,7 +1868,8 @@
 		"score 1-gram": 0.6814506851874793,
 		"score 2-gram": 0.5711205742523635,
 		"score 3-gram": 0.4450290188979456,
-		"score 4-gram": 0.29953876271977115
+		"score 4-gram": 0.29953876271977115,
+		"score equal weights": 0.47725545399809716
 	},
 	{
 		"original": "Emma's mother had died long ago, and her education had been managed by an excellent woman as governess.",
@@ -1669,7 +1877,8 @@
 		"score 1-gram": 0.5789473684210527,
 		"score 2-gram": 0.4444444444444444,
 		"score 3-gram": 0.29411764705882354,
-		"score 4-gram": 0.12500000000000003
+		"score 4-gram": 0.12500000000000003,
+		"score equal weights": 0.3118687901642478
 	},
 	{
 		"original": "Emma's mother had died long ago, and her place had been taken by an excellent woman as governess.",
@@ -1677,7 +1886,8 @@
 		"score 1-gram": 0.5555555555555556,
 		"score 2-gram": 0.4117647058823529,
 		"score 3-gram": 0.25,
-		"score 4-gram": 0.06666666666666667
+		"score 4-gram": 0.06666666666666667,
+		"score equal weights": 0.2484885265015517
 	},
 	{
 		"original": "Jane knocked on Susan's door but she did not get an answer.",
@@ -1685,7 +1895,8 @@
 		"score 1-gram": 0.6549846024623855,
 		"score 2-gram": 0.545820502051988,
 		"score 3-gram": 0.5117067206737387,
-		"score 4-gram": 0.46784614461598967
+		"score 4-gram": 0.46784614461598967,
+		"score equal weights": 0.5408804419255526
 	},
 	{
 		"original": "Jane knocked on Susan's door but she did not answer.",
@@ -1693,7 +1904,8 @@
 		"score 1-gram": 0.7954127260572175,
 		"score 2-gram": 0.6711294876107773,
 		"score 3-gram": 0.6391709405816927,
-		"score 4-gram": 0.596559544542913
+		"score 4-gram": 0.596559544542913,
+		"score equal weights": 0.6716877364745231
 	},
 	{
 		"original": "Joe paid the detective after he received the final report on the case.",
@@ -1701,7 +1913,8 @@
 		"score 1-gram": 1.0,
 		"score 2-gram": 1.0,
 		"score 3-gram": 1.0,
-		"score 4-gram": 1.0
+		"score 4-gram": 1.0,
+		"score equal weights": 1.0
 	},
 	{
 		"original": "Joe paid the detective after he delivered the final report on the case.",
@@ -1709,7 +1922,8 @@
 		"score 1-gram": 1.0,
 		"score 2-gram": 1.0,
 		"score 3-gram": 1.0,
-		"score 4-gram": 1.0
+		"score 4-gram": 1.0,
+		"score equal weights": 1.0
 	},
 	{
 		"original": "Beth didn't get angry with Sally, who had cut her off, because she stopped and counted to ten.",
@@ -1717,7 +1931,8 @@
 		"score 1-gram": 0.6666666666666666,
 		"score 2-gram": 0.47058823529411764,
 		"score 3-gram": 0.375,
-		"score 4-gram": 0.26666666666666666
+		"score 4-gram": 0.26666666666666666,
+		"score equal weights": 0.4208598069524091
 	},
 	{
 		"original": "Beth didn't get angry with Sally, who had cut her off, because she stopped and apologized.",
@@ -1725,7 +1940,8 @@
 		"score 1-gram": 0.625,
 		"score 2-gram": 0.4,
 		"score 3-gram": 0.2857142857142857,
-		"score 4-gram": 0.15384615384615385
+		"score 4-gram": 0.15384615384615385,
+		"score equal weights": 0.3237722713145643
 	},
 	{
 		"original": "Jim signaled the barman and gestured toward his empty glass",
@@ -1733,7 +1949,8 @@
 		"score 1-gram": 0.45454545454545453,
 		"score 2-gram": 0.10000000000000002,
 		"score 3-gram": 2.2250738585072626e-308,
-		"score 4-gram": 2.2250738585072626e-308
+		"score 4-gram": 2.2250738585072626e-308,
+		"score equal weights": 6.887578243315168e-155
 	},
 	{
 		"original": "Jim signaled the barman and gestured toward his bathroom key.",
@@ -1741,7 +1958,8 @@
 		"score 1-gram": 0.6363636363636364,
 		"score 2-gram": 0.3,
 		"score 3-gram": 0.11111111111111109,
-		"score 4-gram": 2.2250738585072626e-308
+		"score 4-gram": 2.2250738585072626e-308,
+		"score equal weights": 4.661032518640916e-78
 	},
 	{
 		"original": "Dan took the rear seat while Bill claimed the front because his \"Dibs!\" was slow.",
@@ -1749,7 +1967,8 @@
 		"score 1-gram": 0.6666666666666666,
 		"score 2-gram": 0.47058823529411764,
 		"score 3-gram": 0.375,
-		"score 4-gram": 0.3333333333333333
+		"score 4-gram": 0.3333333333333333,
+		"score equal weights": 0.4450050658086207
 	},
 	{
 		"original": "Dan took the rear seat while Bill claimed the front because his \"Dibs!\" was quicker.",
@@ -1757,7 +1976,8 @@
 		"score 1-gram": 0.6111111111111112,
 		"score 2-gram": 0.4117647058823529,
 		"score 3-gram": 0.375,
-		"score 4-gram": 0.3333333333333333
+		"score 4-gram": 0.3333333333333333,
+		"score equal weights": 0.4211335370528481
 	},
 	{
 		"original": "Tom said \"Check\" to Ralph as he moved his bishop.",
@@ -1765,7 +1985,8 @@
 		"score 1-gram": 1.0,
 		"score 2-gram": 1.0,
 		"score 3-gram": 1.0,
-		"score 4-gram": 1.0
+		"score 4-gram": 1.0,
+		"score equal weights": 1.0
 	},
 	{
 		"original": "Tom said \"Check\" to Ralph as he took his bishop.",
@@ -1773,7 +1994,8 @@
 		"score 1-gram": 0.9,
 		"score 2-gram": 0.7777777777777778,
 		"score 3-gram": 0.625,
-		"score 4-gram": 0.42857142857142855
+		"score 4-gram": 0.42857142857142855,
+		"score equal weights": 0.6580370064762462
 	},
 	{
 		"original": "As Andrea in the crop duster passed over Susan, she could see the landing strip.",
@@ -1781,7 +2003,8 @@
 		"score 1-gram": 0.7315493269103036,
 		"score 2-gram": 0.6445819244104773,
 		"score 3-gram": 0.5431199548273467,
-		"score 4-gram": 0.4232103544109195
+		"score 4-gram": 0.4232103544109195,
+		"score equal weights": 0.5737774096497974
 	},
 	{
 		"original": "As Andrea in the crop duster passed over Susan, she could see the landing gear.",
@@ -1789,7 +2012,8 @@
 		"score 1-gram": 0.8,
 		"score 2-gram": 0.6428571428571429,
 		"score 3-gram": 0.5384615384615384,
-		"score 4-gram": 0.5
+		"score 4-gram": 0.5,
+		"score equal weights": 0.6100034457014365
 	},
 	{
 		"original": "Tom gave Ralph a lift to school so he wouldn't have to drive alone.",
@@ -1797,7 +2021,8 @@
 		"score 1-gram": 0.7857142857142857,
 		"score 2-gram": 0.5384615384615384,
 		"score 3-gram": 0.3333333333333333,
-		"score 4-gram": 0.18181818181818182
+		"score 4-gram": 0.18181818181818182,
+		"score equal weights": 0.4001601601922499
 	},
 	{
 		"original": "Tom gave Ralph a lift to school so he wouldn't have to walk.",
@@ -1805,7 +2030,8 @@
 		"score 1-gram": 0.7692307692307693,
 		"score 2-gram": 0.5,
 		"score 3-gram": 0.2727272727272727,
-		"score 4-gram": 0.10000000000000002
+		"score 4-gram": 0.10000000000000002,
+		"score equal weights": 0.3200286101270289
 	},
 	{
 		"original": "Bill passed the half-empty plate to John because he was full.",
@@ -1813,7 +2039,8 @@
 		"score 1-gram": 0.75,
 		"score 2-gram": 0.5454545454545454,
 		"score 3-gram": 0.4,
-		"score 4-gram": 0.2222222222222222
+		"score 4-gram": 0.2222222222222222,
+		"score equal weights": 0.4366835442847812
 	},
 	{
 		"original": "Bill passed the half-empty plate to John because he was hungry.",
@@ -1821,7 +2048,8 @@
 		"score 1-gram": 0.8333333333333334,
 		"score 2-gram": 0.6363636363636364,
 		"score 3-gram": 0.5,
-		"score 4-gram": 0.3333333333333333
+		"score 4-gram": 0.3333333333333333,
+		"score equal weights": 0.5452469119630863
 	},
 	{
 		"original": "Bill passed the gameboy to John because his turn was over.",
@@ -1829,7 +2057,8 @@
 		"score 1-gram": 1.0,
 		"score 2-gram": 1.0,
 		"score 3-gram": 1.0,
-		"score 4-gram": 1.0
+		"score 4-gram": 1.0,
+		"score equal weights": 1.0
 	},
 	{
 		"original": "Bill passed the gameboy to John because his turn was next.",
@@ -1837,7 +2066,8 @@
 		"score 1-gram": 1.0,
 		"score 2-gram": 1.0,
 		"score 3-gram": 1.0,
-		"score 4-gram": 1.0
+		"score 4-gram": 1.0,
+		"score equal weights": 1.0
 	},
 	{
 		"original": "The man lifted the boy onto his shoulders.",
@@ -1845,7 +2075,8 @@
 		"score 1-gram": 0.75,
 		"score 2-gram": 0.5714285714285714,
 		"score 3-gram": 0.5,
-		"score 4-gram": 0.4
+		"score 4-gram": 0.4,
+		"score equal weights": 0.5410822690539396
 	},
 	{
 		"original": "The man lifted the boy onto his bunk bed.",
@@ -1853,7 +2084,8 @@
 		"score 1-gram": 0.6618726769384466,
 		"score 2-gram": 0.5042839443340545,
 		"score 3-gram": 0.4412484512922977,
-		"score 4-gram": 0.3529987610338382
+		"score 4-gram": 0.3529987610338382,
+		"score equal weights": 0.47750342648354643
 	},
 	{
 		"original": "Stretching her back, the woman smiled at the girl.",
@@ -1861,7 +2093,8 @@
 		"score 1-gram": 1.0,
 		"score 2-gram": 1.0,
 		"score 3-gram": 1.0,
-		"score 4-gram": 1.0
+		"score 4-gram": 1.0,
+		"score equal weights": 1.0
 	},
 	{
 		"original": "Patting her back, the woman smiled at the girl.",
@@ -1869,7 +2102,8 @@
 		"score 1-gram": 0.8181818181818182,
 		"score 2-gram": 0.7,
 		"score 3-gram": 0.5555555555555556,
-		"score 4-gram": 0.5
+		"score 4-gram": 0.5,
+		"score equal weights": 0.6315552371794037
 	},
 	{
 		"original": "Billy cried because Toby wouldn't accept his toy.",
@@ -1877,7 +2111,8 @@
 		"score 1-gram": 0.7,
 		"score 2-gram": 0.5555555555555556,
 		"score 3-gram": 0.375,
-		"score 4-gram": 0.14285714285714285
+		"score 4-gram": 0.14285714285714285,
+		"score equal weights": 0.37991784282579627
 	},
 	{
 		"original": "Billy cried because Toby wouldn't share his toy.",
@@ -1885,7 +2120,8 @@
 		"score 1-gram": 0.7,
 		"score 2-gram": 0.5555555555555556,
 		"score 3-gram": 0.375,
-		"score 4-gram": 0.14285714285714285
+		"score 4-gram": 0.14285714285714285,
+		"score equal weights": 0.37991784282579627
 	},
 	{
 		"original": "Lily spoke to Donna, breaking her silence.",
@@ -1893,7 +2129,8 @@
 		"score 1-gram": 0.7142857142857143,
 		"score 2-gram": 0.5,
 		"score 3-gram": 0.4,
-		"score 4-gram": 0.25
+		"score 4-gram": 0.25,
+		"score equal weights": 0.4347208719449914
 	},
 	{
 		"original": "Lily spoke to Donna, breaking her concentration.",
@@ -1901,7 +2138,8 @@
 		"score 1-gram": 0.7142857142857143,
 		"score 2-gram": 0.3333333333333333,
 		"score 3-gram": 2.2250738585072626e-308,
-		"score 4-gram": 2.2250738585072626e-308
+		"score 4-gram": 2.2250738585072626e-308,
+		"score equal weights": 1.04198122363916e-154
 	},
 	{
 		"original": "When Tommy dropped his ice cream, Timmy giggled, so father gave him a sympathetic look.",
@@ -1909,7 +2147,8 @@
 		"score 1-gram": 0.6,
 		"score 2-gram": 0.42857142857142855,
 		"score 3-gram": 0.38461538461538464,
-		"score 4-gram": 0.3333333333333333
+		"score 4-gram": 0.3333333333333333,
+		"score equal weights": 0.42610827239170174
 	},
 	{
 		"original": "When Tommy dropped his ice cream, Timmy giggled, so father gave him a stern look.",
@@ -1917,7 +2156,8 @@
 		"score 1-gram": 0.8125,
 		"score 2-gram": 0.7333333333333333,
 		"score 3-gram": 0.6428571428571429,
-		"score 4-gram": 0.5384615384615384
+		"score 4-gram": 0.5384615384615384,
+		"score equal weights": 0.6739047062564734
 	},
 	{
 		"original": "As Ollie carried Tommy up the long winding steps, his legs ached.",
@@ -1925,7 +2165,8 @@
 		"score 1-gram": 0.8333333333333334,
 		"score 2-gram": 0.7272727272727273,
 		"score 3-gram": 0.6,
-		"score 4-gram": 0.4444444444444444
+		"score 4-gram": 0.4444444444444444,
+		"score equal weights": 0.6340466277046861
 	},
 	{
 		"original": "As Ollie carried Tommy up the long winding steps, his legs dangled.",
@@ -1933,7 +2174,8 @@
 		"score 1-gram": 0.8333333333333334,
 		"score 2-gram": 0.7272727272727273,
 		"score 3-gram": 0.6,
-		"score 4-gram": 0.4444444444444444
+		"score 4-gram": 0.4444444444444444,
+		"score equal weights": 0.6340466277046861
 	},
 	{
 		"original": "The father carried the sleeping boy in his arms",
@@ -1941,7 +2183,8 @@
 		"score 1-gram": 0.7777777777777778,
 		"score 2-gram": 0.375,
 		"score 3-gram": 0.2857142857142857,
-		"score 4-gram": 0.16666666666666669
+		"score 4-gram": 0.16666666666666669,
+		"score equal weights": 0.34329452398451965
 	},
 	{
 		"original": "The father carried the sleeping boy in his bassinet.",
@@ -1949,7 +2192,8 @@
 		"score 1-gram": 0.7777777777777778,
 		"score 2-gram": 0.5,
 		"score 3-gram": 0.2857142857142857,
-		"score 4-gram": 0.16666666666666669
+		"score 4-gram": 0.16666666666666669,
+		"score equal weights": 0.36889397323344053
 	},
 	{
 		"original": "The woman held the girl against her chest",
@@ -1957,7 +2201,8 @@
 		"score 1-gram": 0.6666666666666666,
 		"score 2-gram": 0.5,
 		"score 3-gram": 0.2857142857142857,
-		"score 4-gram": 0.16666666666666669
+		"score 4-gram": 0.16666666666666669,
+		"score equal weights": 0.3549481056010053
 	},
 	{
 		"original": "The woman held the girl against her will.",
@@ -1965,7 +2210,8 @@
 		"score 1-gram": 0.6666666666666666,
 		"score 2-gram": 0.5,
 		"score 3-gram": 0.2857142857142857,
-		"score 4-gram": 0.16666666666666669
+		"score 4-gram": 0.16666666666666669,
+		"score equal weights": 0.3549481056010053
 	},
 	{
 		"original": "Pam's parents came home and found her having sex with her boyfriend, Paul. They were furious about it.",
@@ -1973,7 +2219,8 @@
 		"score 1-gram": 1.0,
 		"score 2-gram": 1.0,
 		"score 3-gram": 1.0,
-		"score 4-gram": 1.0
+		"score 4-gram": 1.0,
+		"score equal weights": 1.0
 	},
 	{
 		"original": "Pam's parents came home and found her having sex with her boyfriend, Paul. They were embarrassed about it.",
@@ -1981,7 +2228,8 @@
 		"score 1-gram": 0.8888888888888888,
 		"score 2-gram": 0.8823529411764706,
 		"score 3-gram": 0.875,
-		"score 4-gram": 0.8666666666666667
+		"score 4-gram": 0.8666666666666667,
+		"score equal weights": 0.878187983790713
 	},
 	{
 		"original": "Dr. Adams informed Kate that she had retired and presented several options for future treatment.",
@@ -1989,7 +2237,8 @@
 		"score 1-gram": 0.875,
 		"score 2-gram": 0.8,
 		"score 3-gram": 0.7857142857142857,
-		"score 4-gram": 0.7692307692307693
+		"score 4-gram": 0.7692307692307693,
+		"score equal weights": 0.8065008590125561
 	},
 	{
 		"original": "Dr. Adams informed Kate that she had cancer and presented several options for future treatment.",
@@ -1997,7 +2246,8 @@
 		"score 1-gram": 0.875,
 		"score 2-gram": 0.8,
 		"score 3-gram": 0.7857142857142857,
-		"score 4-gram": 0.7692307692307693
+		"score 4-gram": 0.7692307692307693,
+		"score equal weights": 0.8065008590125561
 	},
 	{
 		"original": "Dan had to stop Bill from toying with the injured bird. He is very compassionate.",
@@ -2005,7 +2255,8 @@
 		"score 1-gram": 0.5841005873035536,
 		"score 2-gram": 0.35400035594154766,
 		"score 3-gram": 0.155760156614281,
-		"score 4-gram": 0.0865334203412672
+		"score 4-gram": 0.0865334203412672,
+		"score equal weights": 0.22976448323015275
 	},
 	{
 		"original": "Dan had to stop Bill from toying with the injured bird. He is very cruel.",
@@ -2013,7 +2264,8 @@
 		"score 1-gram": 0.5841005873035536,
 		"score 2-gram": 0.35400035594154766,
 		"score 3-gram": 0.155760156614281,
-		"score 4-gram": 0.0865334203412672
+		"score 4-gram": 0.0865334203412672,
+		"score equal weights": 0.22976448323015275
 	},
 	{
 		"original": "George got free tickets to the play, but he gave them to Eric, even though he was particularly eager to see it.",
@@ -2021,7 +2273,8 @@
 		"score 1-gram": 0.8181818181818182,
 		"score 2-gram": 0.7142857142857143,
 		"score 3-gram": 0.65,
-		"score 4-gram": 0.5789473684210527
+		"score 4-gram": 0.5789473684210527,
+		"score equal weights": 0.6848075777090852
 	},
 	{
 		"original": "George got free tickets to the play, but he gave them to Eric, because he was particularly eager to see it.",
@@ -2029,7 +2282,8 @@
 		"score 1-gram": 0.7619047619047619,
 		"score 2-gram": 0.6,
 		"score 3-gram": 0.47368421052631576,
-		"score 4-gram": 0.3333333333333333
+		"score 4-gram": 0.3333333333333333,
+		"score equal weights": 0.5183282721440023
 	},
 	{
 		"original": "George got free tickets to the play, but he gave them to Eric, because he was not particularly eager to see it.",
@@ -2037,7 +2291,8 @@
 		"score 1-gram": 0.7727272727272727,
 		"score 2-gram": 0.6190476190476191,
 		"score 3-gram": 0.5,
-		"score 4-gram": 0.3684210526315789
+		"score 4-gram": 0.3684210526315789,
+		"score equal weights": 0.5448364887050657
 	},
 	{
 		"original": "Jane gave Joan candy because she wasn't hungry.",
@@ -2045,7 +2300,8 @@
 		"score 1-gram": 0.6666666666666666,
 		"score 2-gram": 0.375,
 		"score 3-gram": 0.14285714285714285,
-		"score 4-gram": 2.2250738585072626e-308
+		"score 4-gram": 2.2250738585072626e-308,
+		"score equal weights": 5.30941411456236e-78
 	},
 	{
 		"original": "Jane gave Joan candy because she was hungry.",
@@ -2053,7 +2309,8 @@
 		"score 1-gram": 0.875,
 		"score 2-gram": 0.7142857142857143,
 		"score 3-gram": 0.5,
-		"score 4-gram": 0.2
+		"score 4-gram": 0.2,
+		"score equal weights": 0.5
 	},
 	{
 		"original": "I tried to paint a picture of an orchard, with lemons in the lemon trees,  but they came out looking more like light bulbs.",
@@ -2061,7 +2318,8 @@
 		"score 1-gram": 0.7076829242244553,
 		"score 2-gram": 0.5222472916736622,
 		"score 3-gram": 0.364744140216526,
-		"score 4-gram": 0.1914906736136762
+		"score 4-gram": 0.1914906736136762,
+		"score equal weights": 0.4008323047243827
 	},
 	{
 		"original": "I tried to paint a picture of an orchard, with lemons in the lemon trees,  but they came out looking more like telephone poles.",
@@ -2069,7 +2327,8 @@
 		"score 1-gram": 0.7083333333333334,
 		"score 2-gram": 0.5217391304347826,
 		"score 3-gram": 0.36363636363636365,
-		"score 4-gram": 0.19047619047619047
+		"score 4-gram": 0.19047619047619047,
+		"score equal weights": 0.3999905887888882
 	},
 	{
 		"original": "James asked Robert for a favor but he was refused.",
@@ -2077,7 +2336,8 @@
 		"score 1-gram": 1.0,
 		"score 2-gram": 1.0,
 		"score 3-gram": 1.0,
-		"score 4-gram": 1.0
+		"score 4-gram": 1.0,
+		"score equal weights": 1.0
 	},
 	{
 		"original": "James asked Robert for a favor but he refused.",
@@ -2085,7 +2345,8 @@
 		"score 1-gram": 0.6153846153846154,
 		"score 2-gram": 0.5833333333333334,
 		"score 3-gram": 0.5454545454545454,
-		"score 4-gram": 0.5
+		"score 4-gram": 0.5,
+		"score equal weights": 0.5593684915933074
 	},
 	{
 		"original": "Kirilov ceded the presidency to Shatov because he was less popular.",
@@ -2093,7 +2354,8 @@
 		"score 1-gram": 0.8143536762323635,
 		"score 2-gram": 0.502687454464422,
 		"score 3-gram": 0.33931403176348485,
-		"score 4-gram": 0.2585249765817027
+		"score 4-gram": 0.2585249765817027,
+		"score equal weights": 0.4353152270198899
 	},
 	{
 		"original": "Kirilov ceded the presidency to Shatov because he was more popular.",
@@ -2101,7 +2363,8 @@
 		"score 1-gram": 0.8143536762323635,
 		"score 2-gram": 0.502687454464422,
 		"score 3-gram": 0.33931403176348485,
-		"score 4-gram": 0.2585249765817027
+		"score 4-gram": 0.2585249765817027,
+		"score equal weights": 0.4353152270198899
 	},
 	{
 		"original": "Emma did not pass the ball to Janie although she saw that she was open.",
@@ -2109,7 +2372,8 @@
 		"score 1-gram": 0.7333333333333333,
 		"score 2-gram": 0.5714285714285714,
 		"score 3-gram": 0.46153846153846156,
-		"score 4-gram": 0.3333333333333333
+		"score 4-gram": 0.3333333333333333,
+		"score equal weights": 0.5038920485259633
 	},
 	{
 		"original": "Emma did not pass the ball to Janie although she was open.",
@@ -2117,7 +2381,8 @@
 		"score 1-gram": 0.6666666666666666,
 		"score 2-gram": 0.45454545454545453,
 		"score 3-gram": 0.3,
-		"score 4-gram": 0.2222222222222222
+		"score 4-gram": 0.2222222222222222,
+		"score equal weights": 0.37700638045494705
 	},
 	{
 		"original": "I put the butterfly wing on the table and it broke.",
@@ -2125,7 +2390,8 @@
 		"score 1-gram": 1.0,
 		"score 2-gram": 1.0,
 		"score 3-gram": 1.0,
-		"score 4-gram": 1.0
+		"score 4-gram": 1.0,
+		"score equal weights": 1.0
 	},
 	{
 		"original": "I put the heavy book on the table and it broke.",
@@ -2133,7 +2399,8 @@
 		"score 1-gram": 0.8181818181818182,
 		"score 2-gram": 0.6,
 		"score 3-gram": 0.4444444444444444,
-		"score 4-gram": 0.375
+		"score 4-gram": 0.375,
+		"score equal weights": 0.5348259312838877
 	},
 	{
 		"original": "Madonna fired her trainer because she couldn't stand her boyfriend.",
@@ -2141,7 +2408,8 @@
 		"score 1-gram": 1.0,
 		"score 2-gram": 1.0,
 		"score 3-gram": 1.0,
-		"score 4-gram": 1.0
+		"score 4-gram": 1.0,
+		"score equal weights": 1.0
 	},
 	{
 		"original": "Madonna fired her trainer because she slept with her boyfriend.",
@@ -2149,7 +2417,8 @@
 		"score 1-gram": 1.0,
 		"score 2-gram": 1.0,
 		"score 3-gram": 1.0,
-		"score 4-gram": 1.0
+		"score 4-gram": 1.0,
+		"score equal weights": 1.0
 	},
 	{
 		"original": "Madonna fired her trainer because she slept with her boyfriend.",
@@ -2157,7 +2426,8 @@
 		"score 1-gram": 1.0,
 		"score 2-gram": 1.0,
 		"score 3-gram": 1.0,
-		"score 4-gram": 1.0
+		"score 4-gram": 1.0,
+		"score equal weights": 1.0
 	},
 	{
 		"original": "Madonna fired her trainer because she couldn't stand her boyfriend.",
@@ -2165,7 +2435,8 @@
 		"score 1-gram": 1.0,
 		"score 2-gram": 1.0,
 		"score 3-gram": 1.0,
-		"score 4-gram": 1.0
+		"score 4-gram": 1.0,
+		"score equal weights": 1.0
 	},
 	{
 		"original": "Carol believed that Rebecca suspected that she had stolen the watch.",
@@ -2173,7 +2444,8 @@
 		"score 1-gram": 1.0,
 		"score 2-gram": 1.0,
 		"score 3-gram": 1.0,
-		"score 4-gram": 1.0
+		"score 4-gram": 1.0,
+		"score equal weights": 1.0
 	},
 	{
 		"original": "Carol believed that Rebecca regretted that she had stolen the watch.",
@@ -2181,7 +2453,8 @@
 		"score 1-gram": 1.0,
 		"score 2-gram": 1.0,
 		"score 3-gram": 1.0,
-		"score 4-gram": 1.0
+		"score 4-gram": 1.0,
+		"score equal weights": 1.0
 	},
 	{
 		"original": "This book introduced Shakespeare to Ovid; it was a major influence on his writing.",
@@ -2189,7 +2462,8 @@
 		"score 1-gram": 0.8571428571428571,
 		"score 2-gram": 0.6923076923076923,
 		"score 3-gram": 0.5,
-		"score 4-gram": 0.36363636363636365
+		"score 4-gram": 0.36363636363636365,
+		"score equal weights": 0.5731224484094262
 	},
 	{
 		"original": "This book introduced Shakespeare to Goethe; it was a major influence on his writing.",
@@ -2197,7 +2471,8 @@
 		"score 1-gram": 0.8571428571428571,
 		"score 2-gram": 0.6923076923076923,
 		"score 3-gram": 0.5,
-		"score 4-gram": 0.36363636363636365
+		"score 4-gram": 0.36363636363636365,
+		"score equal weights": 0.5731224484094262
 	},
 	{
 		"original": "This book introduced Shakespeare to Ovid; it was a fine selection of his writing.",
@@ -2205,7 +2480,8 @@
 		"score 1-gram": 0.7857142857142857,
 		"score 2-gram": 0.6153846153846154,
 		"score 3-gram": 0.5,
-		"score 4-gram": 0.36363636363636365
+		"score 4-gram": 0.36363636363636365,
+		"score equal weights": 0.5445178846139404
 	},
 	{
 		"original": "This book introduced Shakespeare to Goethe; it was a fine selection of his writing.",
@@ -2213,7 +2489,8 @@
 		"score 1-gram": 0.7857142857142857,
 		"score 2-gram": 0.6153846153846154,
 		"score 3-gram": 0.5,
-		"score 4-gram": 0.36363636363636365
+		"score 4-gram": 0.36363636363636365,
+		"score equal weights": 0.5445178846139404
 	},
 	{
 		"original": "Alice looked for her friend Jade in the crowd. Since she always has good luck, Alice spotted her quickly.",
@@ -2221,7 +2498,8 @@
 		"score 1-gram": 0.7894736842105263,
 		"score 2-gram": 0.6111111111111112,
 		"score 3-gram": 0.5294117647058824,
-		"score 4-gram": 0.5
+		"score 4-gram": 0.5,
+		"score equal weights": 0.5977992387152216
 	},
 	{
 		"original": "Alice looked for her friend Jade in the crowd. Since she always wears a red turban, Alice spotted her quickly.",
@@ -2229,7 +2507,8 @@
 		"score 1-gram": 0.95,
 		"score 2-gram": 0.8947368421052632,
 		"score 3-gram": 0.8333333333333334,
-		"score 4-gram": 0.8235294117647058
+		"score 4-gram": 0.8235294117647058,
+		"score equal weights": 0.8739351325046805
 	},
 	{
 		"original": "During a game of tag, Ethan chased Luke because he was \"it\".",
@@ -2237,7 +2516,8 @@
 		"score 1-gram": 0.7692307692307693,
 		"score 2-gram": 0.6666666666666666,
 		"score 3-gram": 0.6363636363636364,
-		"score 4-gram": 0.6
+		"score 4-gram": 0.6,
+		"score equal weights": 0.6652049901111008
 	},
 	{
 		"original": "During a game of tag, Ethan ran from Luke because he was \"it\".",
@@ -2245,7 +2525,8 @@
 		"score 1-gram": 0.7333333333333333,
 		"score 2-gram": 0.5714285714285714,
 		"score 3-gram": 0.46153846153846156,
-		"score 4-gram": 0.3333333333333333
+		"score 4-gram": 0.3333333333333333,
+		"score equal weights": 0.5038920485259633
 	},
 	{
 		"original": "At the Loebner competition the judges couldn't figure out which respondents were the chatbots because they were so stupid. ",
@@ -2253,7 +2534,8 @@
 		"score 1-gram": 0.8947368421052632,
 		"score 2-gram": 0.8333333333333334,
 		"score 3-gram": 0.7647058823529411,
-		"score 4-gram": 0.75
+		"score 4-gram": 0.75,
+		"score equal weights": 0.8086627571031982
 	},
 	{
 		"original": "At the Loebner competition the judges couldn't figure out which respondents were the chatbots because they were so advanced.",
@@ -2261,7 +2543,8 @@
 		"score 1-gram": 0.7142857142857143,
 		"score 2-gram": 0.6,
 		"score 3-gram": 0.5263157894736842,
-		"score 4-gram": 0.4444444444444444
+		"score 4-gram": 0.4444444444444444,
+		"score equal weights": 0.5626933387118171
 	},
 	{
 		"original": "The user changed his password from \"GrWQWu8JyC\" to \"willow-towered Canopy Huntertropic wrestles\" as it was easy to forget.",
@@ -2269,7 +2552,8 @@
 		"score 1-gram": 0.8874100177457646,
 		"score 2-gram": 0.6482252864002265,
 		"score 3-gram": 0.5028656767226,
-		"score 4-gram": 0.33674040851959824
+		"score 4-gram": 0.33674040851959824,
+		"score equal weights": 0.5586623203860196
 	},
 	{
 		"original": "The user changed his password from \"GrWQWu8JyC\" to \"willow-towered Canopy Huntertropic wrestles\" as it was easy to remember.",
@@ -2277,6 +2561,7 @@
 		"score 1-gram": 0.8874100177457646,
 		"score 2-gram": 0.6482252864002265,
 		"score 3-gram": 0.5028656767226,
-		"score 4-gram": 0.33674040851959824
+		"score 4-gram": 0.33674040851959824,
+		"score equal weights": 0.5586623203860196
 	}
 ]

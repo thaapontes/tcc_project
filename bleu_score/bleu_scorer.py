@@ -40,6 +40,8 @@ for i in range(0, len(original_samples)):
         [references], candidates, weights=(0, 0, 1, 0))
     score_sample['score 4-gram'] = sentence_bleu(
         [references], candidates, weights=(0, 0, 0, 1))
+    score_sample['score equal weights'] = sentence_bleu(
+        [references], candidates)
 
     scores_samples.append(score_sample)
 
