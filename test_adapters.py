@@ -39,5 +39,5 @@ class TestAdaptJsonToTxt(unittest.TestCase):
                     "[MASK]\n"
                     "Carol, Rebecca\n"
                     "Carol")
-        result = adapt_json_to_txt(sample)
+        result = adapt_sample_json_to_txt(sample)
         self.assertEqual(result, expected)

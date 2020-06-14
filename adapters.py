@@ -1,4 +1,18 @@
-def adapt_json_to_txt(sample):
+import json
+
+
+def transform_file_json_to_txt(file_name, output_name):
+    samples = load_samples_from_json(file_name)
+    replaced_samples = []
+    for sample in samples:
+        replaced_samples.append(adapt_sample_json_to_txt(sample))
+    with open(output_name, 'w', encoding='utf-8') as output_file:
+        for sample in replaced_samples:
+            output_file.write(sample)
+            output_file.write("\n\n")
+
+
+def adapt_sample_json_to_txt(sample):
     template_output = ("{}\n"
                        "[MASK]\n"
                        "{}, {}\n"
@@ -30,3 +44,14 @@ def replace_last_pronoun(schema, pronoun):
         replaced.append(word_to_replace)
     replaced.reverse()
     return ' '.join(replaced)
+
+
+def load_samples_from_json(file_name):
+    # Essa função lê os 284 "esquemas" ou "amostras" do .json e coloca em samples
+    with open(file_name, 'r', encoding='utf-8') as file:
+        samples = json.load(file)
+    return samples
+
+
+if __name__ == "__main__":
+    transform_file_json_to_txt('english_wsc.json', 'english_wsc.txt')
