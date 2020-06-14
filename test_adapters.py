@@ -1,5 +1,6 @@
 import unittest
-from adapters import replace_last_pronoun
+from adapters import replace_last_pronoun, adapt_json_to_txt
+
 
 class TestReplaceLastPronoun(unittest.TestCase):
 
@@ -17,5 +18,26 @@ class TestReplaceLastPronoun(unittest.TestCase):
                   'even though he was particularly interested in watching it.')
         expected = schema
         self.assertEqual(replace_last_pronoun(schema, pronoun), expected)
-    
-    
+
+
+class TestAdaptJsonToTxt(unittest.TestCase):
+
+    def setUp(self):
+        self.maxDiff = None
+
+    def test_function_works(self):
+        sample = {
+            "schema": "Carol believed that Rebecca suspected that she had stolen the watch.",
+            "snippet": "she had stolen the watch.",
+            "pronoun": "she",
+            "correct_answer": "A",
+            "substitution_a": "Carol",
+            "substitution_b": "Rebecca",
+            "translated": True
+        }
+        expected = ("Carol believed that Rebecca suspected that [MASK] had stolen the watch.\n"
+                    "[MASK]\n"
+                    "Carol, Rebecca\n"
+                    "Carol")
+        result = adapt_json_to_txt(sample)
+        self.assertEqual(result, expected)
