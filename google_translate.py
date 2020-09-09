@@ -76,6 +76,7 @@ def translate_text(text, target='en'):
 
 samples = load_samples_from_json('portuguese_wsc.json')
 
+
 translated_samples = []
 i = 0
 for sample in samples:

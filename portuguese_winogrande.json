@@ -1,0 +1,1122 @@
+[
+  {
+    "qID": "3QHITW7OYO7Q6B6ISU2UMJB84ZLAQE-2",
+    "sentence": "Ian se ofereceu para comer o menudo de Dennis depois de já ter comido uma tigela porque _ desprezava comer intestino.",
+    "option1": "Ian",
+    "option2": "Dennis",
+    "answer": "2"
+  },
+  {
+    "qID": "3QHITW7OYO7Q6B6ISU2UMJB84ZLAQE-1",
+    "sentence": "Ian se ofereceu para comer o menudo de Dennis depois de já ter uma tigela porque _ gostava de comer intestino.",
+    "option1": "Ian",
+    "option2": "Dennis",
+    "answer": "1"
+  },
+  {
+    "qID": "3XWUWJ18TLO2DDRXF83QWLKRJ29UU4-1",
+    "sentence": "Ele nunca vem na minha casa, mas eu sempre vou na casa dele porque o _ é menor.",
+    "option1": "casa",
+    "option2": "casa",
+    "answer": "1"
+  },
+  {
+    "qID": "3XWUWJ18TLO2DDRXF83QWLKRJ29UU4-2",
+    "sentence": "Ele nunca vem na minha casa, mas eu sempre vou na casa dele porque a _ é maior.",
+    "option1": "casa",
+    "option2": "casa",
+    "answer": "2"
+  },
+  {
+    "qID": "3D5G8J4N5CI2K40F4RZLF9OG2CKVTH-2",
+    "sentence": "Kyle não usa polainas para dormir, enquanto Logan quase sempre usa. _ tem maior probabilidade de viver em um clima mais frio.",
+    "option1": "Kyle",
+    "option2": "Logan",
+    "answer": "2"
+  },
+  {
+    "qID": "3D5G8J4N5CI2K40F4RZLF9OG2CKVTH-1",
+    "sentence": "Kyle não usa polainas para dormir, enquanto Logan quase sempre usa. _ tem maior probabilidade de viver em um clima mais quente.",
+    "option1": "Kyle",
+    "option2": "Logan",
+    "answer": "1"
+  },
+  {
+    "qID": "3DW3BNF1GHG4SV9KHVCQWF4L0K98VE-2",
+    "sentence": "O GPS e o mapa me ajudaram a navegar para casa. Eu me perdi quando o _ virou de cabeça para baixo.",
+    "option1": "GPS",
+    "option2": "mapa",
+    "answer": "2"
+  },
+  {
+    "qID": "3DW3BNF1GHG4SV9KHVCQWF4L0K98VE-1",
+    "sentence": "O GPS e o mapa me ajudaram a navegar para casa. Eu me perdi quando o _ foi desligado.",
+    "option1": "GPS",
+    "option2": "mapa",
+    "answer": "1"
+  },
+  {
+    "qID": "3DTJ4WT8BFTH45NSFTZT1T1BND3ZEV-2",
+    "sentence": "Emily olhou para cima e viu Patricia correndo por cima, já que estava na rampa.",
+    "option1": "Emily",
+    "option2": "Patricia",
+    "answer": "2"
+  },
+  {
+    "qID": "3DTJ4WT8BFTH45NSFTZT1T1BND3ZEV-1",
+    "sentence": "Emily olhou para cima e viu Patricia correndo por cima, já que estava sob a rampa.",
+    "option1": "Emily",
+    "option2": "Patricia",
+    "answer": "1"
+  },
+  {
+    "qID": "304QEQWKZRY6EBUR5DPX06S39IH0OJ-2",
+    "sentence": "Os trabalhadores da tesouraria tiraram as barras de ouro do carrinho e empilharam-nas no cofre até o vazio.",
+    "option1": "seguro",
+    "option2": "carrinho",
+    "answer": "2"
+  },
+  {
+    "qID": "304QEQWKZRY6EBUR5DPX06S39IH0OJ-1",
+    "sentence": "Os trabalhadores da tesouraria tiraram as barras de ouro do carrinho e empilharam-nas no cofre até encher.",
+    "option1": "seguro",
+    "option2": "carrinho",
+    "answer": "1"
+  },
+  {
+    "qID": "36FFXPMSTB2HPB0N3LWI6YRLWWHHOX-1",
+    "sentence": "Ele achou que tinha tempo de pegar a rota panorâmica até a loja, mas o _ estava em construção.",
+    "option1": "rota",
+    "option2": "loja",
+    "answer": "1"
+  },
+  {
+    "qID": "36FFXPMSTB2HPB0N3LWI6YRLWWHHOX-2",
+    "sentence": "Ele achou que tinha tempo de pegar o caminho panorâmico até a loja, mas o _ fechou cedo.",
+    "option1": "rota",
+    "option2": "loja",
+    "answer": "2"
+  },
+  {
+    "qID": "37SOB9Z0SUBUPIQRB8ROANMHJ463L8-2",
+    "sentence": "Ela se lembrou de como é irritante tirar o pó da cadeira de madeira, então ela comprou uma mesa de plástico. Limpar o _ é rápido.",
+    "option1": "cadeira",
+    "option2": "tabela",
+    "answer": "2"
+  },
+  {
+    "qID": "37SOB9Z0SUBUPIQRB8ROANMHJ463L8-1",
+    "sentence": "Ela se lembrou de como é irritante tirar o pó da cadeira de madeira, então ela comprou uma mesa de plástico. Limpar o _ é demorado.",
+    "option1": "cadeira",
+    "option2": "tabela",
+    "answer": "1"
+  },
+  {
+    "qID": "3D1UCPY6GINZAB68HJIK5I0BYMV83E-2",
+    "sentence": "Para superar o preconceito comportamental, precisamos nos concentrar mais na mudança das ações conscientes em vez das ações inconscientes, porque as ações _ são voluntárias.",
+    "option1": "inconsciente",
+    "option2": "consciente",
+    "answer": "2"
+  },
+  {
+    "qID": "3D1UCPY6GINZAB68HJIK5I0BYMV83E-1",
+    "sentence": "Para superar o preconceito comportamental, precisamos nos concentrar mais na mudança das ações conscientes em vez das ações inconscientes, porque as ações _ são involuntárias.",
+    "option1": "inconsciente",
+    "option2": "consciente",
+    "answer": "1"
+  },
+  {
+    "qID": "3R5LWXWHR2MQJOJ4K61W4B6CS5OGXO-2",
+    "sentence": "Megan tem muito menos dinheiro do que Jessica porque _ acabou de comprar o bilhete de loteria premiado.",
+    "option1": "Megan",
+    "option2": "Jessica",
+    "answer": "2"
+  },
+  {
+    "qID": "3R5LWXWHR2MQJOJ4K61W4B6CS5OGXO-1",
+    "sentence": "Megan tem muito mais dinheiro do que Jessica porque _ acabou de comprar o bilhete de loteria premiado.",
+    "option1": "Megan",
+    "option2": "Jessica",
+    "answer": "1"
+  },
+  {
+    "qID": "3NRZ1LDP7W4677DB493437C7D3WZP2-2",
+    "sentence": "Peguei um saco de amendoins e passas para um lanche. Eu queria um lanche mais doce, então guardei o _ por enquanto.",
+    "option1": "passas de uva",
+    "option2": "amendoim",
+    "answer": "2"
+  },
+  {
+    "qID": "3NRZ1LDP7W4677DB493437C7D3WZP2-1",
+    "sentence": "Peguei um saco de amendoins e passas para um lanche. Eu queria um lanche mais doce, então comi - por enquanto.",
+    "option1": "passas de uva",
+    "option2": "amendoim",
+    "answer": "1"
+  },
+  {
+    "qID": "3X55NP42EOE5ME6IJ28VZ67STRW3P5-1",
+    "sentence": "Craig realmente adora limpar o tempo todo, mas Derrick não porque _ é muito limpo.",
+    "option1": "Craig",
+    "option2": "Torre",
+    "answer": "1"
+  },
+  {
+    "qID": "3X55NP42EOE5ME6IJ28VZ67STRW3P5-2",
+    "sentence": "Craig realmente adora limpar o tempo todo, mas Derrick não porque _ é muito desarrumado.",
+    "option1": "Craig",
+    "option2": "Torre",
+    "answer": "2"
+  },
+  {
+    "qID": "3JHB4BPSFMNRVHVKKM0UIMOWRR29QT-1",
+    "sentence": "Dennis deu seu martelo a Robert para que ele pudesse martelar os pregos. _ tinha muitos martelos.",
+    "option1": "Dennis",
+    "option2": "Robert",
+    "answer": "1"
+  },
+  {
+    "qID": "3JHB4BPSFMNRVHVKKM0UIMOWRR29QT-2",
+    "sentence": "Dennis deu seu martelo a Robert para que ele pudesse martelar os pregos. _ não tinha martelos.",
+    "option1": "Dennis",
+    "option2": "Robert",
+    "answer": "2"
+  },
+  {
+    "qID": "3DGDV62G7O7G1WAZF2UQGW20SY82PG-2",
+    "sentence": "A festa foi mais interessante e edificante do que o funeral porque o _ foi rígido.",
+    "option1": "festa",
+    "option2": "velório",
+    "answer": "2"
+  },
+  {
+    "qID": "3DGDV62G7O7G1WAZF2UQGW20SY82PG-1",
+    "sentence": "A festa foi mais interessante e edificante do que o funeral porque o _ foi flexível.",
+    "option1": "festa",
+    "option2": "velório",
+    "answer": "1"
+  },
+  {
+    "qID": "3VW0145YLYAAMPBUU78QY9UMP3VMJ1-2",
+    "sentence": "Os gansos preferem nidificar nos campos em vez de nas florestas porque os predadores estão mais escondidos.",
+    "option1": "Campos",
+    "option2": "florestas",
+    "answer": "2"
+  },
+  {
+    "qID": "3VW0145YLYAAMPBUU78QY9UMP3VMJ1-1",
+    "sentence": "Os gansos preferem nidificar nos campos em vez das florestas porque os predadores são muito visíveis.",
+    "option1": "Campos",
+    "option2": "florestas",
+    "answer": "1"
+  },
+  {
+    "qID": "3IWA71V4TKUOMVUY8TSASKTOZ3UX63-2",
+    "sentence": "A planta ocupava muito espaço na urna, porque o _ era pequeno.",
+    "option1": "plantar",
+    "option2": "urna",
+    "answer": "2"
+  },
+  {
+    "qID": "3IWA71V4TKUOMVUY8TSASKTOZ3UX63-1",
+    "sentence": "A planta ocupava muito espaço na urna, pois o _ era grande.",
+    "option1": "plantar",
+    "option2": "urna",
+    "answer": "1"
+  },
+  {
+    "qID": "3M7OI89LVYMLP8KWXZKNM9K59J76CX-1",
+    "sentence": "Instalei um novo galpão de pássaros do lado de fora, acima do solo, mas tive que sustentá-lo mais alto, longe do meu gato, já que o _ estava muito baixo.",
+    "option1": "Casa de passarinho",
+    "option2": "terra",
+    "answer": "1"
+  },
+  {
+    "qID": "3M7OI89LVYMLP8KWXZKNM9K59J76CX-2",
+    "sentence": "Eu instalei uma nova casa de pássaros do lado de fora, acima do solo, mas tive que sustentá-la mais longe do meu gato, pois o _ estava muito alto.",
+    "option1": "Casa de passarinho",
+    "option2": "terra",
+    "answer": "2"
+  },
+  {
+    "qID": "3INZSNUD80OICJS8V2IAQPTPKLFD95-2",
+    "sentence": "Prefiro spa à piscina e acho que a água fria da piscina não é relaxante no final do dia.",
+    "option1": "spa",
+    "option2": "piscina",
+    "answer": "2"
+  },
+  {
+    "qID": "3INZSNUD80OICJS8V2IAQPTPKLFD95-1",
+    "sentence": "Prefiro spa à piscina e acho a água quente no _ relaxante no final do dia.",
+    "option1": "spa",
+    "option2": "piscina",
+    "answer": "1"
+  },
+  {
+    "qID": "3B9J25CZ27R56VH0OAZQFC45F2ESCA-2",
+    "sentence": "Megan disse que seria libertador sair sem maquiagem como Elena faz. _ Nunca usava maquiagem quando saía de casa.",
+    "option1": "Megan",
+    "option2": "Elena",
+    "answer": "2"
+  },
+  {
+    "qID": "3B9J25CZ27R56VH0OAZQFC45F2ESCA-1",
+    "sentence": "Megan disse que seria libertador sair sem maquiagem como Elena faz. _ sempre usava maquiagem quando saía de casa.",
+    "option1": "Megan",
+    "option2": "Elena",
+    "answer": "1"
+  },
+  {
+    "qID": "38G0E1M85OJHKHF44WPVK5AIL6SUV4-1",
+    "sentence": "Donald era mais rico do que Leslie porque as empresas haviam encontrado petróleo na propriedade de _.",
+    "option1": "Donald",
+    "option2": "Leslie",
+    "answer": "1"
+  },
+  {
+    "qID": "38G0E1M85OJHKHF44WPVK5AIL6SUV4-2",
+    "sentence": "Donald era mais pobre do que Leslie porque as empresas encontraram petróleo na propriedade de _.",
+    "option1": "Donald",
+    "option2": "Leslie",
+    "answer": "2"
+  },
+  {
+    "qID": "3THR0FZ95R7JB7JDU6BGYQKRCK0OLW-2",
+    "sentence": "Sentindo uma corrente de ar, William pediu a Neil que fechasse a porta da frente porque estava mais perto.",
+    "option1": "William",
+    "option2": "Neil",
+    "answer": "2"
+  },
+  {
+    "qID": "3THR0FZ95R7JB7JDU6BGYQKRCK0OLW-1",
+    "sentence": "Sentindo uma corrente de ar, William pediu a Neil que fechasse a porta da frente porque estava mais longe.",
+    "option1": "William",
+    "option2": "Neil",
+    "answer": "1"
+  },
+  {
+    "qID": "3SV8KD29L4Q5WGGVRHYW7QQ8EEZZKB-2",
+    "sentence": "Lindsey adorava o sabor de pato, mas Megan gostava mais de frango. _ Pedi o frango kung pao para o jantar.",
+    "option1": "Lindsey",
+    "option2": "Megan",
+    "answer": "2"
+  },
+  {
+    "qID": "3SV8KD29L4Q5WGGVRHYW7QQ8EEZZKB-1",
+    "sentence": "Lindsey adorava o sabor de pato, mas Megan gostava mais de frango. _ Pedi o pato laqueado para o jantar.",
+    "option1": "Lindsey",
+    "option2": "Megan",
+    "answer": "1"
+  },
+  {
+    "qID": "3RSBJ6YZEE4XBF9H8V8I3DF7F0UFOM-2",
+    "sentence": "Elena pegaria seu estoque no fundo da loja para Megan vender todas as vezes porque _ era uma cliente fiel.",
+    "option1": "Elena",
+    "option2": "Megan",
+    "answer": "2"
+  },
+  {
+    "qID": "3RSBJ6YZEE4XBF9H8V8I3DF7F0UFOM-1",
+    "sentence": "Elena pegaria seu estoque nos fundos da loja para Megan vender todas as vezes porque _ era uma pessoa de negócios.",
+    "option1": "Elena",
+    "option2": "Megan",
+    "answer": "1"
+  },
+  {
+    "qID": "3TCFMTM8HEMDK4RXU0J0F0K2KZI21L-2",
+    "sentence": "Kenneth perguntou a Dennis a que horas seria o baile, mas ele havia esquecido.",
+    "option1": "Kenneth",
+    "option2": "Dennis",
+    "answer": "2"
+  },
+  {
+    "qID": "3TCFMTM8HEMDK4RXU0J0F0K2KZI21L-1",
+    "sentence": "Kenneth perguntou a Dennis a que horas seria o baile, porque ele havia esquecido.",
+    "option1": "Kenneth",
+    "option2": "Dennis",
+    "answer": "1"
+  },
+  {
+    "qID": "3S4TINXCC217YYX13TMMKNON1TXBOG-1",
+    "sentence": "Eric estava ensinando todos os trechos adequados para Neil, porque _ os estava usando para receber o pagamento.",
+    "option1": "Eric",
+    "option2": "Neil",
+    "answer": "1"
+  },
+  {
+    "qID": "3S4TINXCC217YYX13TMMKNON1TXBOG-2",
+    "sentence": "Eric estava ensinando todos os alongamentos adequados para Neil, porque _ os estava usando para entrar em forma.",
+    "option1": "Eric",
+    "option2": "Neil",
+    "answer": "2"
+  },
+  {
+    "qID": "36MUZ9VAE8GE14IWNBAWA1I8ZL8DE5-2",
+    "sentence": "Na hora de comprar uma casa, Patricia não tem tanto dinheiro para gastar quanto Tanya, então _ compra uma casa de 5 quartos.",
+    "option1": "Patricia",
+    "option2": "Pergunte",
+    "answer": "2"
+  },
+  {
+    "qID": "36MUZ9VAE8GE14IWNBAWA1I8ZL8DE5-1",
+    "sentence": "Ao comprar uma casa, Patricia não tem tanto dinheiro para gastar quanto Tanya, então _ compra uma casa de 1 quarto.",
+    "option1": "Patricia",
+    "option2": "Pergunte",
+    "answer": "1"
+  },
+  {
+    "qID": "3E9ZFLPWOYQPLQQSQWPZXPVKJR3IXG-2",
+    "sentence": "Eu queria comprar uma pinça pequena para caber na minha pulseira, mas ainda não coube. Os _ eram muito pequenos.",
+    "option1": "pinça",
+    "option2": "pulseira",
+    "answer": "2"
+  },
+  {
+    "qID": "3E9ZFLPWOYQPLQQSQWPZXPVKJR3IXG-1",
+    "sentence": "Eu queria comprar uma pinça pequena para caber na minha pulseira, mas ainda não coube. Os _ eram muito grandes.",
+    "option1": "pinça",
+    "option2": "pulseira",
+    "answer": "1"
+  },
+  {
+    "qID": "3PCPFX4U40OL22NQ3AOM0KMZ1FFFQD-1",
+    "sentence": "Lidar com emergências nunca foi muito difícil para Kevin, mas era para Nelson porque _ conseguia manter a calma sob pressão.",
+    "option1": "Kevin",
+    "option2": "Nelson",
+    "answer": "1"
+  },
+  {
+    "qID": "3PCPFX4U40OL22NQ3AOM0KMZ1FFFQD-2",
+    "sentence": "Lidar com emergências nunca foi muito difícil para Kevin, mas era para Nelson porque _ não conseguia manter a calma sob pressão.",
+    "option1": "Kevin",
+    "option2": "Nelson",
+    "answer": "2"
+  },
+  {
+    "qID": "3P4C70TRMTVVJU2F6NY8THBPLKALGF-1",
+    "sentence": "Emily perguntou a sua irmã Sarah se ela precisava de absorventes internos ou absorventes da loja, embora não precisasse porque ela passou a usar copos menstruais.",
+    "option1": "Emily",
+    "option2": "Sarah",
+    "answer": "1"
+  },
+  {
+    "qID": "3P4C70TRMTVVJU2F6NY8THBPLKALGF-2",
+    "sentence": "Emily perguntou a sua irmã Sarah se ela precisava de absorventes internos ou absorventes da loja, mas não porque ela passou a usar copos menstruais.",
+    "option1": "Emily",
+    "option2": "Sarah",
+    "answer": "2"
+  },
+  {
+    "qID": "3R6RZGK0XHQY1QZ9EXMKNQGVHU3YV6-2",
+    "sentence": "Elena teve um terrível acesso de tosse por causa do pólen, ao contrário de Tanya, já que era imune a alergias.",
+    "option1": "Elena",
+    "option2": "Pergunte",
+    "answer": "2"
+  },
+  {
+    "qID": "3R6RZGK0XHQY1QZ9EXMKNQGVHU3YV6-1",
+    "sentence": "Elena teve um terrível acesso de tosse por causa do pólen, ao contrário de Tanya, já que era suscetível a alergias.",
+    "option1": "Elena",
+    "option2": "Pergunte",
+    "answer": "1"
+  },
+  {
+    "qID": "3HJ1EVZS2OHQYRMXWUCK4177UA4R37-1",
+    "sentence": "Rebecca levava Amy para ir trabalhar com a carona todos os dias, então _ pediu dinheiro para gasolina.",
+    "option1": "Rebecca",
+    "option2": "Amy",
+    "answer": "1"
+  },
+  {
+    "qID": "3HJ1EVZS2OHQYRMXWUCK4177UA4R37-2",
+    "sentence": "Rebecca levava Amy para a carona no trabalho todos os dias, então _ ofereceu dinheiro para gasolina.",
+    "option1": "Rebecca",
+    "option2": "Amy",
+    "answer": "2"
+  },
+  {
+    "qID": "3BDORL6HKKBEBRIGPNNLX4B158XCRH-2",
+    "sentence": "Jennifer discretamente admitiu para Erin que ela não sabia como aplicar sombra nos olhos. _ foi reconfortante.",
+    "option1": "Jennifer",
+    "option2": "Erin",
+    "answer": "2"
+  },
+  {
+    "qID": "3BDORL6HKKBEBRIGPNNLX4B158XCRH-1",
+    "sentence": "Jennifer discretamente admitiu para Erin que ela não sabia como aplicar sombra nos olhos. _ estava sem graça.",
+    "option1": "Jennifer",
+    "option2": "Erin",
+    "answer": "1"
+  },
+  {
+    "qID": "34D9ZRXCYT8HDGK24W3Z9HEIG7ISAG-1",
+    "sentence": "Os funcionários deram uma festa e beberam tanto álcool que não puderam ir para o trabalho no dia seguinte. O _ estava alto.",
+    "option1": "festa",
+    "option2": "álcool",
+    "answer": "1"
+  },
+  {
+    "qID": "34D9ZRXCYT8HDGK24W3Z9HEIG7ISAG-2",
+    "sentence": "Os funcionários deram uma festa e beberam tanto álcool que não puderam ir para o trabalho no dia seguinte. O _ foi copioso.",
+    "option1": "festa",
+    "option2": "álcool",
+    "answer": "2"
+  },
+  {
+    "qID": "39WSF6KUV2JQBCAETMCCTX6ZAD1OEF-2",
+    "sentence": "Uma vez na Polônia, Dennis gostou mais da viagem do que Jason porque tinha um conhecimento superficial da língua polonesa.",
+    "option1": "Dennis",
+    "option2": "Jason",
+    "answer": "2"
+  },
+  {
+    "qID": "39WSF6KUV2JQBCAETMCCTX6ZAD1OEF-1",
+    "sentence": "Uma vez na Polônia, Dennis gostou da viagem mais do que Jason porque _ tinha um conhecimento mais profundo da língua polonesa.",
+    "option1": "Dennis",
+    "option2": "Jason",
+    "answer": "1"
+  },
+  {
+    "qID": "3CMV9YRYP5F5AWSGETJBQU35DCRLJJ-1",
+    "sentence": "A casa que Benjamin projetou para Joseph era linda, então _ usei-a em seu portfólio.",
+    "option1": "Benjamin",
+    "option2": "Joseph",
+    "answer": "1"
+  },
+  {
+    "qID": "3CMV9YRYP5F5AWSGETJBQU35DCRLJJ-2",
+    "sentence": "A casa projetada para Benjamin por Joseph era linda, então _ usei-a em seu portfólio.",
+    "option1": "Benjamin",
+    "option2": "Joseph",
+    "answer": "2"
+  },
+  {
+    "qID": "3YLTXLH3DF4KGMDHYNXX3082HG2HPN-2",
+    "sentence": "John despejou toda a tigela de peixe na panela quente no fogão até que a tigela estivesse cheia.",
+    "option1": "tigela",
+    "option2": "panela",
+    "answer": "2"
+  },
+  {
+    "qID": "3YLTXLH3DF4KGMDHYNXX3082HG2HPN-1",
+    "sentence": "John despejou toda a tigela de peixe na panela quente no fogão até que a tigela estivesse vazia.",
+    "option1": "tigela",
+    "option2": "panela",
+    "answer": "1"
+  },
+  {
+    "qID": "3L1EFR8WWVJU4S5B66P06NKJLV1F9S-2",
+    "sentence": "Sue queria praticar meditação, então ela foi para a academia com sua classe, mas o _ estava muito ocupado.",
+    "option1": "classe",
+    "option2": "Academia",
+    "answer": "2"
+  },
+  {
+    "qID": "3L1EFR8WWVJU4S5B66P06NKJLV1F9S-1",
+    "sentence": "Sue queria praticar meditação, então ela foi para a academia com sua classe, mas já era tarde demais.",
+    "option1": "classe",
+    "option2": "Academia",
+    "answer": "1"
+  },
+  {
+    "qID": "3MDKGGG61QL2BPM7JLFDBJK9SLJ6TJ-2",
+    "sentence": "Natalie acha que as esmeraldas são joias lindas, mas Betty não. _ comprei um colar com um grande diamante.",
+    "option1": "Natalie",
+    "option2": "Betty",
+    "answer": "2"
+  },
+  {
+    "qID": "3MDKGGG61QL2BPM7JLFDBJK9SLJ6TJ-1",
+    "sentence": "Natalie acha que as esmeraldas são joias lindas, mas Betty não. _ comprei um colar com uma grande esmeralda.",
+    "option1": "Natalie",
+    "option2": "Betty",
+    "answer": "1"
+  },
+  {
+    "qID": "3XEIP58NL21VABXKWFMXEORVWA4ZLI-1",
+    "sentence": "Aaron pendurou seu rifle de caça sobre a lareira depois que a viagem mais recente acabou com Benjamin dando o tiro fatal. _ estava feliz por ele.",
+    "option1": "Aaron",
+    "option2": "Benjamin",
+    "answer": "1"
+  },
+  {
+    "qID": "3XEIP58NL21VABXKWFMXEORVWA4ZLI-2",
+    "sentence": "Aaron pendurou seu rifle de caça sobre a lareira depois que a viagem mais recente acabou com Benjamin dando o tiro fatal. _ estava feliz por si mesmo.",
+    "option1": "Aaron",
+    "option2": "Benjamin",
+    "answer": "2"
+  },
+  {
+    "qID": "3K3G488TR26T05U1XYBDE8VMH5FQ5S-2",
+    "sentence": "Kevin é muito mais versátil fisicamente do que Nick, porque _ é um atleta machucado na cama.",
+    "option1": "Kevin",
+    "option2": "usuario",
+    "answer": "2"
+  },
+  {
+    "qID": "3K3G488TR26T05U1XYBDE8VMH5FQ5S-1",
+    "sentence": "Kevin é muito mais versátil fisicamente do que Nick, porque _ é um atleta experiente em treinamento.",
+    "option1": "Kevin",
+    "option2": "usuario",
+    "answer": "1"
+  },
+  {
+    "qID": "3DQYSJDTYL9D5LO6UDZ8CAXSMH5XES-1",
+    "sentence": "Adam colocou apenas roupas para lavar à mão na máquina de lavar, mas Aaron lavou-as à mão porque _ era preguiçoso.",
+    "option1": "Adão",
+    "option2": "Aaron",
+    "answer": "1"
+  },
+  {
+    "qID": "3DQYSJDTYL9D5LO6UDZ8CAXSMH5XES-2",
+    "sentence": "Adam colocou apenas roupas para lavar à mão na máquina de lavar, mas Aaron as lavou à mão como _ era consciencioso.",
+    "option1": "Adão",
+    "option2": "Aaron",
+    "answer": "2"
+  },
+  {
+    "qID": "3QGHA0EA0JY09I7WAH1W9JD0AKWWBC-2",
+    "sentence": "Kyle adora o sabor de damasco, mas Matthew gosta mais de ameixas. _ mal podia esperar a temporada da ameixa.",
+    "option1": "Kyle",
+    "option2": "Mateus",
+    "answer": "2"
+  },
+  {
+    "qID": "3QGHA0EA0JY09I7WAH1W9JD0AKWWBC-1",
+    "sentence": "Kyle adora o sabor de damasco, mas Matthew gosta mais de ameixas. _ mal podia esperar a temporada de damasco.",
+    "option1": "Kyle",
+    "option2": "Mateus",
+    "answer": "1"
+  },
+  {
+    "qID": "3RTFSSG7T84CMRT81UQQNM95RWELWX-2",
+    "sentence": "Derrick não conseguia se concentrar no trabalho, ao contrário de Justin, porque tinha um trabalho divertido.",
+    "option1": "Torre",
+    "option2": "Justin",
+    "answer": "2"
+  },
+  {
+    "qID": "3RTFSSG7T84CMRT81UQQNM95RWELWX-1",
+    "sentence": "Derrick não conseguia se concentrar no trabalho, ao contrário de Justin, porque tinha um trabalho chato.",
+    "option1": "Torre",
+    "option2": "Justin",
+    "answer": "1"
+  },
+  {
+    "qID": "3Z33IC0JC0K460SUMNI4WBZWKULV9S-2",
+    "sentence": "Avery estava debatendo em aprender alemão em vez de latim, porque o _ era mais recente.",
+    "option1": "Latina",
+    "option2": "alemão",
+    "answer": "2"
+  },
+  {
+    "qID": "3Z33IC0JC0K460SUMNI4WBZWKULV9S-1",
+    "sentence": "Avery estava debatendo em aprender alemão em vez de latim, porque o _ era velho.",
+    "option1": "Latina",
+    "option2": "alemão",
+    "answer": "1"
+  },
+  {
+    "qID": "31JUPBOORN21WQXQ3RAK966J43ML8G-2",
+    "sentence": "Kayla namorou muito mais pessoas ao mesmo tempo do que Betty, porque estava em um relacionamento aberto.",
+    "option1": "Kayla",
+    "option2": "Betty",
+    "answer": "2"
+  },
+  {
+    "qID": "31JUPBOORN21WQXQ3RAK966J43ML8G-1",
+    "sentence": "Kayla namorou muito mais pessoas ao mesmo tempo do que Betty, porque estava em um relacionamento exclusivo.",
+    "option1": "Kayla",
+    "option2": "Betty",
+    "answer": "1"
+  },
+  {
+    "qID": "3WKGUBL7SZK0DPAOROK7SUQE73EL4A-1",
+    "sentence": "Steven orgulhosamente mostrou a Michael as mangas que ele mesmo cultivou durante todo o verão. _ é trabalhador.",
+    "option1": "Steven",
+    "option2": "Michael",
+    "answer": "1"
+  },
+  {
+    "qID": "3WKGUBL7SZK0DPAOROK7SUQE73EL4A-2",
+    "sentence": "Steven orgulhosamente mostrou a Michael as mangas que ele mesmo cultivou durante todo o verão. _ está pasmo.",
+    "option1": "Steven",
+    "option2": "Michael",
+    "answer": "2"
+  },
+  {
+    "qID": "3QGTX7BCHRGH8MUZ4S6QXZVYAK4Z5U-1",
+    "sentence": "A carta que Joel escreveu está sendo lida por Adam, então _ é o escritor.",
+    "option1": "Joel",
+    "option2": "Adão",
+    "answer": "1"
+  },
+  {
+    "qID": "3QGTX7BCHRGH8MUZ4S6QXZVYAK4Z5U-2",
+    "sentence": "A carta que Joel escreveu está sendo lida por Adam, então _ é o editor.",
+    "option1": "Joel",
+    "option2": "Adão",
+    "answer": "2"
+  },
+  {
+    "qID": "3P4ZBJFX2XH5GOIJZHZSK7STICEFW3-1",
+    "sentence": "Kyle ficava mais confortável falando na frente de grandes grupos do que Nick, porque tinha feito cursos de oratória na faculdade.",
+    "option1": "Kyle",
+    "option2": "usuario",
+    "answer": "1"
+  },
+  {
+    "qID": "3P4ZBJFX2XH5GOIJZHZSK7STICEFW3-2",
+    "sentence": "Kyle ficava mais à vontade para falar na frente de grandes grupos do que Nick, porque não conseguia fazer cursos de oratória na faculdade.",
+    "option1": "Kyle",
+    "option2": "usuario",
+    "answer": "2"
+  },
+  {
+    "qID": "34OWYT6U3WFZKU8UNGJLHM92CQ3I9S-2",
+    "sentence": "Na lagoa Emily nadou nua enquanto Felicia optou por um maiô de corpo inteiro. _ estava muito hesitante em mostrar seu corpo.",
+    "option1": "Emily",
+    "option2": "Felicia",
+    "answer": "2"
+  },
+  {
+    "qID": "34OWYT6U3WFZKU8UNGJLHM92CQ3I9S-1",
+    "sentence": "Na lagoa Emily nadou nua enquanto Felicia optou por um maiô de corpo inteiro. _ Fui muito livre em mostrar o corpo.",
+    "option1": "Emily",
+    "option2": "Felicia",
+    "answer": "1"
+  },
+  {
+    "qID": "33K3E8REWWTWWKEFHAD8K016GUUX8H-2",
+    "sentence": "O relógio de Sarah Jane quebrou quando o livro o atingiu, pois o _ era muito forte.",
+    "option1": "ver",
+    "option2": "livro",
+    "answer": "2"
+  },
+  {
+    "qID": "33K3E8REWWTWWKEFHAD8K016GUUX8H-1",
+    "sentence": "O relógio de Sarah Jane quebrou quando o livro o atingiu, pois o _ estava muito fraco.",
+    "option1": "ver",
+    "option2": "livro",
+    "answer": "1"
+  },
+  {
+    "qID": "3WPCIUYH1A61WY1MT8NRHPU19DUTDY-1",
+    "sentence": "Joseph precisava ter as unhas bem cuidadas para trabalhar, mas Kevin não, porque _ trabalhava em um banco.",
+    "option1": "Joseph",
+    "option2": "Kevin",
+    "answer": "1"
+  },
+  {
+    "qID": "3WPCIUYH1A61WY1MT8NRHPU19DUTDY-2",
+    "sentence": "Joseph precisava ter unhas bem cuidadas para trabalhar, mas Kevin não, porque trabalhava em uma fazenda.",
+    "option1": "Joseph",
+    "option2": "Kevin",
+    "answer": "2"
+  },
+  {
+    "qID": "3XAOZ9UYR1596CSPG9L13G6DTFDQ10-2",
+    "sentence": "Enquanto jogava golfe, Dennis caiu na lama, mas Christopher manteve o equilíbrio porque usava sapatos com cravos.",
+    "option1": "Dennis",
+    "option2": "Christopher",
+    "answer": "2"
+  },
+  {
+    "qID": "3XAOZ9UYR1596CSPG9L13G6DTFDQ10-1",
+    "sentence": "Enquanto jogava golfe, Dennis caiu na lama, mas Christopher manteve o equilíbrio, porque estava calçado com sapatos escorregadios.",
+    "option1": "Dennis",
+    "option2": "Christopher",
+    "answer": "1"
+  },
+  {
+    "qID": "3G9UA71JVX86VB3EAZI17PL5KCMJ7G-2",
+    "sentence": "Eu não conseguia controlar a umidade como controlava a chuva, porque o _ estava entrando em um ponto.",
+    "option1": "umidade",
+    "option2": "chuva",
+    "answer": "2"
+  },
+  {
+    "qID": "3G9UA71JVX86VB3EAZI17PL5KCMJ7G-1",
+    "sentence": "Eu não conseguia controlar a umidade como controlava a chuva, porque o _ estava entrando em todos os lugares.",
+    "option1": "umidade",
+    "option2": "chuva",
+    "answer": "1"
+  },
+  {
+    "qID": "3R6RZGK0XHQY1QZ9EXMKNQGWJ4SVYG-1",
+    "sentence": "Leslie ficou fascinada em colecionar sapatos novos em comparação com Derrick, porque _ amava as tendências da moda.",
+    "option1": "Leslie",
+    "option2": "Torre",
+    "answer": "1"
+  },
+  {
+    "qID": "3R6RZGK0XHQY1QZ9EXMKNQGWJ4SVYG-2",
+    "sentence": "Leslie ficou fascinada em colecionar sapatos novos em comparação com Derrick, porque _ odiava tendências da moda.",
+    "option1": "Leslie",
+    "option2": "Torre",
+    "answer": "2"
+  },
+  {
+    "qID": "3SU800BH886PF9JNIXVLEIBA4ORQU4-2",
+    "sentence": "Jessica achava que Sandstorm era a melhor música já escrita, mas Patricia odiava. _ comprei um ingresso para o show de jazz.",
+    "option1": "Jessica",
+    "option2": "Patricia",
+    "answer": "2"
+  },
+  {
+    "qID": "3SU800BH886PF9JNIXVLEIBA4ORQU4-1",
+    "sentence": "Jessica achava que Sandstorm era a melhor música já escrita, mas Patricia odiava. _ comprei um ingresso para a rave Darude.",
+    "option1": "Jessica",
+    "option2": "Patricia",
+    "answer": "1"
+  },
+  {
+    "qID": "3EHVO81VN5JHZUUFDLM724Q4E0O1HV-2",
+    "sentence": "Bill derramou toda a tigela de salgadinho de queijo em sua boca até que o _ estivesse vazio.",
+    "option1": "boca",
+    "option2": "tigela",
+    "answer": "2"
+  },
+  {
+    "qID": "3EHVO81VN5JHZUUFDLM724Q4E0O1HV-1",
+    "sentence": "Bill derramou toda a tigela de salgadinho de queijo em sua boca até que ela estivesse cheia.",
+    "option1": "boca",
+    "option2": "tigela",
+    "answer": "1"
+  },
+  {
+    "qID": "3126F2F5F818WCMF8MPRIXBPP0LEPF-2",
+    "sentence": "Ben jogava futebol e boliche todas as semanas. No entanto, foi fácil para ele jogar porque machucou o braço.",
+    "option1": "boliche",
+    "option2": "futebol",
+    "answer": "2"
+  },
+  {
+    "qID": "3126F2F5F818WCMF8MPRIXBPP0LEPF-1",
+    "sentence": "Ben jogava futebol e boliche todas as semanas. No entanto, era difícil para ele jogar porque machucou o braço.",
+    "option1": "boliche",
+    "option2": "futebol",
+    "answer": "1"
+  },
+  {
+    "qID": "3J94SKDEKINZBWQWSC5TE9ONT9BD5S-1",
+    "sentence": "Nick tinha um cachorro maior do que Craig porque alimentava o cachorro com muito mais comida.",
+    "option1": "usuario",
+    "option2": "Craig",
+    "answer": "1"
+  },
+  {
+    "qID": "3J94SKDEKINZBWQWSC5TE9ONT9BD5S-2",
+    "sentence": "Nick tinha um cachorro menor do que Craig porque alimentava o cachorro com muito mais comida.",
+    "option1": "usuario",
+    "option2": "Craig",
+    "answer": "2"
+  },
+  {
+    "qID": "33CLA8O0MI9LE32QGPDM5AW4X5DRFU-1",
+    "sentence": "Havia mais sombra no quintal de Christine do que no quintal de Victoria porque havia mais plantas.",
+    "option1": "Christine",
+    "option2": "Victoria",
+    "answer": "1"
+  },
+  {
+    "qID": "33CLA8O0MI9LE32QGPDM5AW4X5DRFU-2",
+    "sentence": "Havia mais sombra no quintal de Christine do que no quintal de Victoria porque havia menos plantas.",
+    "option1": "Christine",
+    "option2": "Victoria",
+    "answer": "2"
+  },
+  {
+    "qID": "3OND0WXMHYTVDKNY97TM1MX6R3AHE7-2",
+    "sentence": "Kyle adora chocolate e doces e Steven adora picles e limões. _ adora alimentos azedos.",
+    "option1": "Kyle",
+    "option2": "Steven",
+    "answer": "2"
+  },
+  {
+    "qID": "3OND0WXMHYTVDKNY97TM1MX6R3AHE7-1",
+    "sentence": "Kyle adora chocolate e doces e Steven adora picles e limões. _ adora comidas doces.",
+    "option1": "Kyle",
+    "option2": "Steven",
+    "answer": "1"
+  },
+  {
+    "qID": "3MA5N0ATTC912LBQGUEP8MWQ2XXKWJ-2",
+    "sentence": "Como Benjamin comia sobremesas não saudáveis com muito mais frequência do que Brett, tinha grande força de vontade.",
+    "option1": "Benjamin",
+    "option2": "Brett",
+    "answer": "2"
+  },
+  {
+    "qID": "3MA5N0ATTC912LBQGUEP8MWQ2XXKWJ-1",
+    "sentence": "Como Benjamin comia sobremesas pouco saudáveis com muito mais frequência do que Brett, tinha pouca força de vontade.",
+    "option1": "Benjamin",
+    "option2": "Brett",
+    "answer": "1"
+  },
+  {
+    "qID": "3QHITW7OYO7Q6B6ISU2UMJB89I2AQ2-1",
+    "sentence": "Eric convidou Michael em um encontro para ir ao cinema na sexta à noite porque estava muito confiante.",
+    "option1": "Eric",
+    "option2": "Michael",
+    "answer": "1"
+  },
+  {
+    "qID": "3QHITW7OYO7Q6B6ISU2UMJB89I2AQ2-2",
+    "sentence": "Eric convidou Michael em um encontro para ir ao cinema na sexta à noite porque _ era muito atraente.",
+    "option1": "Eric",
+    "option2": "Michael",
+    "answer": "2"
+  },
+  {
+    "qID": "3M4KL7H8KVL125AYH2V35D1E5OH167-2",
+    "sentence": "Amy odiava o cheiro de alvejante, mas Kayla o usava o tempo todo para limpar, então _ tenta usar menos.",
+    "option1": "Amy",
+    "option2": "Kayla",
+    "answer": "2"
+  },
+  {
+    "qID": "3M4KL7H8KVL125AYH2V35D1E5OH167-1",
+    "sentence": "Amy odiava o cheiro de alvejante, mas Kayla o usava o tempo todo para limpar - sempre sai de casa.",
+    "option1": "Amy",
+    "option2": "Kayla",
+    "answer": "1"
+  },
+  {
+    "qID": "3R5OYNIC2C7ALV4CYHEMHJBQSB1PTB-2",
+    "sentence": "Eric olhou para Neil em estado de choque e começou a reagir violentamente porque mentiu para ele.",
+    "option1": "Eric",
+    "option2": "Neil",
+    "answer": "2"
+  },
+  {
+    "qID": "3R5OYNIC2C7ALV4CYHEMHJBQSB1PTB-1",
+    "sentence": "Eric olhou para Neil em estado de choque e começou a reagir violentamente porque se sentiu traído.",
+    "option1": "Eric",
+    "option2": "Neil",
+    "answer": "1"
+  },
+  {
+    "qID": "3PN6H8C9R4OWH22DN8WAMK49Q47DAW-2",
+    "sentence": "Matthew fez questão de usar óleo lubrificante ao expandir seu piercing, ao contrário de Jeffrey, então a dolorosa experiência de _ fez muito sentido.",
+    "option1": "Mateus",
+    "option2": "Jeffrey",
+    "answer": "2"
+  },
+  {
+    "qID": "3PN6H8C9R4OWH22DN8WAMK49Q47DAW-1",
+    "sentence": "Matthew fez questão de usar um óleo lubrificante ao expandir seu piercing, ao contrário de Jeffrey, então a experiência agradável de _ fez muito sentido.",
+    "option1": "Mateus",
+    "option2": "Jeffrey",
+    "answer": "1"
+  },
+  {
+    "qID": "3XWUWJ18TN4H72Q4Z6FQOJ8Z7XHUU9-2",
+    "sentence": "Samantha trouxe um cartão de melhora ao hospital, mas Emily esqueceu porque estava preocupada.",
+    "option1": "Samantha",
+    "option2": "Emily",
+    "answer": "2"
+  },
+  {
+    "qID": "3XWUWJ18TN4H72Q4Z6FQOJ8Z7XHUU9-1",
+    "sentence": "Samantha trouxe um cartão de melhora ao hospital, mas Emily esqueceu porque estava pensativa.",
+    "option1": "Samantha",
+    "option2": "Emily",
+    "answer": "1"
+  },
+  {
+    "qID": "3ZXNP4Z39TZCQ1REDKUEN4YXNY17L9-2",
+    "sentence": "Jessica tirou as luvas e as deu para Katrina porque as mãos estavam frias.",
+    "option1": "Jessica",
+    "option2": "Katrina",
+    "answer": "2"
+  },
+  {
+    "qID": "3ZXNP4Z39TZCQ1REDKUEN4YXNY17L9-1",
+    "sentence": "Jessica tirou as luvas e as deu para Katrina porque as mãos dela estavam quentes.",
+    "option1": "Jessica",
+    "option2": "Katrina",
+    "answer": "1"
+  },
+  {
+    "qID": "306W7JMRYYWPJHBECELQV3AESDU8BA-2",
+    "sentence": "O processo levou a empresa à falência, fazendo com que Megan fosse dispensada do cargo enquanto Mary era promovida. _ sentiu-se aliviado e exultante.",
+    "option1": "Megan",
+    "option2": "Maria",
+    "answer": "2"
+  },
+  {
+    "qID": "306W7JMRYYWPJHBECELQV3AESDU8BA-1",
+    "sentence": "O processo levou a empresa à falência, fazendo com que Megan fosse dispensada do cargo enquanto Mary era promovida. _ senti-me deprimido e sem esperança.",
+    "option1": "Megan",
+    "option2": "Maria",
+    "answer": "1"
+  },
+  {
+    "qID": "3YZ7A3YHR77K7A8L90CI16YWOEW5S8-1",
+    "sentence": "A certificação de John era menos importante que o diploma de Jim porque o aluno era de uma universidade menor.",
+    "option1": "certificação",
+    "option2": "grau",
+    "answer": "1"
+  },
+  {
+    "qID": "3YZ7A3YHR77K7A8L90CI16YWOEW5S8-2",
+    "sentence": "A certificação de John era menos importante que o diploma de Jim porque o curso era de uma grande universidade.",
+    "option1": "certificação",
+    "option2": "grau",
+    "answer": "2"
+  },
+  {
+    "qID": "3ZG552ORAOI80562LCFPEMFR4LT2VU-2",
+    "sentence": "Eles optaram por não ir ao baile, mas sim ao filme, o _ parecia um destino adequado para seu encontro.",
+    "option1": "dança",
+    "option2": "filme",
+    "answer": "2"
+  },
+  {
+    "qID": "3ZG552ORAOI80562LCFPEMFR4LT2VU-1",
+    "sentence": "Eles optaram por não ir ao baile, mas sim ao filme, o _ parecia um destino inapropriado para seu encontro.",
+    "option1": "dança",
+    "option2": "filme",
+    "answer": "1"
+  },
+  {
+    "qID": "3D0LPO3EADD3B6QCDL06SYMNLVWOY8-1",
+    "sentence": "O termostato mostrou que estava vinte graus mais frio lá embaixo do que no andar de cima, então Byron ficou no banheiro porque estava com calor.",
+    "option1": "andar de baixo",
+    "option2": "andar de cima",
+    "answer": "1"
+  },
+  {
+    "qID": "3D0LPO3EADD3B6QCDL06SYMNLVWOY8-2",
+    "sentence": "O termostato mostrou que estava vinte graus mais frio lá embaixo do que no andar de cima, então Byron ficou no banheiro porque estava com frio.",
+    "option1": "andar de baixo",
+    "option2": "andar de cima",
+    "answer": "2"
+  },
+  {
+    "qID": "3NZ1E5QA61FLQORJYEQNBHOVJVI5BM-1",
+    "sentence": "Michael queria levar Craig para a água em seu novo barco. _ disse que seria divertido mostrar a ele as cordas.",
+    "option1": "Michael",
+    "option2": "Craig",
+    "answer": "1"
+  },
+  {
+    "qID": "3NZ1E5QA61FLQORJYEQNBHOVJVI5BM-2",
+    "sentence": "Michael queria levar Craig para a água em seu novo barco. _ disse que ficaria confuso ver como o barco funciona.",
+    "option1": "Michael",
+    "option2": "Craig",
+    "answer": "2"
+  },
+  {
+    "qID": "3LAZVA75NIPYGWYY02HBRWXADAS2O8-2",
+    "sentence": "Venha aqui e dê uma olhada no meu couro cabeludo hoje Natalie disse a Katrina, _ odeia dar sua opinião.",
+    "option1": "Natalie",
+    "option2": "Katrina",
+    "answer": "2"
+  },
+  {
+    "qID": "3LAZVA75NIPYGWYY02HBRWXADAS2O8-1",
+    "sentence": "Venha aqui e dê uma olhada no meu couro cabeludo hoje Natalie disse a Katrina, _ precisa de uma segunda opinião.",
+    "option1": "Natalie",
+    "option2": "Katrina",
+    "answer": "1"
+  },
+  {
+    "qID": "3421H3BM9CVA9UR7PWGLLLCBE2HJ9Y-1",
+    "sentence": "O sushi apodrecia no balcão a menos que fosse colocado no refrigerador, pois o _ o expôs à contaminação.",
+    "option1": "contador",
+    "option2": "resfriador",
+    "answer": "1"
+  },
+  {
+    "qID": "3421H3BM9CVA9UR7PWGLLLCBE2HJ9Y-2",
+    "sentence": "O sushi apodrecia no balcão a menos que fosse colocado no refrigerador, pois o _ o protegia de contaminação.",
+    "option1": "contador",
+    "option2": "resfriador",
+    "answer": "2"
+  },
+  {
+    "qID": "3WRBLBQ2GTMIMYDTHUCPVXJ2JTP0GS-1",
+    "sentence": "O contrato não pôde ser redigido na empresa durante aquele dia porque o _ era muito pequeno para se preocupar.",
+    "option1": "contrato",
+    "option2": "o negócio",
+    "answer": "1"
+  },
+  {
+    "qID": "3WRBLBQ2GTMIMYDTHUCPVXJ2JTP0GS-2",
+    "sentence": "O contrato não pôde ser redigido na empresa durante aquele dia porque o _ era muito grande para se preocupar com ele.",
+    "option1": "contrato",
+    "option2": "o negócio",
+    "answer": "2"
+  },
+  {
+    "qID": "3I7KR83SNCR5KEXP7HGXM0COUXGK9A-1",
+    "sentence": "Laura sempre teve mais motivação na vida e na conquista de objetivos do que Katrina, já que estava otimista.",
+    "option1": "Laura",
+    "option2": "Katrina",
+    "answer": "1"
+  },
+  {
+    "qID": "3I7KR83SNCR5KEXP7HGXM0COUXGK9A-2",
+    "sentence": "Laura sempre teve mais motivação na vida e na conquista de objetivos do que Katrina, pois _ era preguiçosa.",
+    "option1": "Laura",
+    "option2": "Katrina",
+    "answer": "2"
+  },
+  {
+    "qID": "3MZ3TAMYTLL5OU4GHXJ7879WIBGRIT-2",
+    "sentence": "Ben teve que parar de comer chocolates ou nozes. Ele optou por parar de comer os _ porque eles eram saborosos.",
+    "option1": "chocolates",
+    "option2": "nozes",
+    "answer": "2"
+  },
+  {
+    "qID": "3MZ3TAMYTLL5OU4GHXJ7879WIBGRIT-1",
+    "sentence": "Ben teve que parar de comer chocolates ou nozes. Ele optou por parar de comer porque eram doces.",
+    "option1": "chocolates",
+    "option2": "nozes",
+    "answer": "1"
+  },
+  {
+    "qID": "3909MD9T21VBZOWSEH5MY1LUCSHFE2-1",
+    "sentence": "James estava procurando se havia espaço para colocar o livro na estante. O _ é pequeno.",
+    "option1": "espaço",
+    "option2": "livro",
+    "answer": "1"
+  },
+  {
+    "qID": "3909MD9T21VBZOWSEH5MY1LUCSHFE2-2",
+    "sentence": "James estava procurando se havia espaço para colocar o livro na estante. O _ é grande.",
+    "option1": "espaço",
+    "option2": "livro",
+    "answer": "2"
+  },
+  {
+    "qID": "3SNR5F7R947V9FYIFPB71YYMSK9EIS-1",
+    "sentence": "James estava escrevendo um poema em seu bloco de notas quando a tinta acabou. O _ é um longo.",
+    "option1": "poema",
+    "option2": "tinta",
+    "answer": "1"
+  },
+  {
+    "qID": "3SNR5F7R947V9FYIFPB71YYMSK9EIS-2",
+    "sentence": "James estava escrevendo um poema em seu bloco de notas quando a tinta acabou. O _ é um baixo.",
+    "option1": "poema",
+    "option2": "tinta",
+    "answer": "2"
+  },
+  {
+    "qID": "34F34TZU7WXKFL71KPP6J0GOJZ2J2X-2",
+    "sentence": "O casal bebeu vinho em copos em vez de canecas, porque estavam limpos.",
+    "option1": "canecas",
+    "option2": "óculos",
+    "answer": "2"
+  },
+  {
+    "qID": "34F34TZU7WXKFL71KPP6J0GOJZ2J2X-1",
+    "sentence": "O casal bebeu vinho em copos em vez de canecas, porque estavam sujos.",
+    "option1": "canecas",
+    "option2": "óculos",
+    "answer": "1"
+  }
+]
