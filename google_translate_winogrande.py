@@ -24,15 +24,18 @@ def load_samples_from_jsonl(file_name):
 def translate_batches(sample):
     # Essa função faz a tradução de um esquema/amostravdo WINOGRANDE
 
+    sample_replaced = sample['sentence'].replace('_', '[_]')
+    
     portuguese_winogrande = {}
     portuguese_winogrande['qID'] = sample['qID']
-    portuguese_winogrande['sentence'] = translate_text_to_portuguese(sample['sentence'])
+    portuguese_winogrande['sentence'] = translate_text_to_portuguese(sample_replaced)
     portuguese_winogrande['option1'] = translate_text_to_portuguese(sample['option1'])
     portuguese_winogrande['option2'] = translate_text_to_portuguese(sample['option2'])
     portuguese_winogrande['answer'] = sample['answer']
-    print(sample['sentence'])
+    portuguese_winogrande['sentence'] = portuguese_winogrande['sentence'].replace('[_]','[MASK]')
+    print(portuguese_winogrande['sentence'])
     return portuguese_winogrande
-
+    
 
 def translate_text_to_portuguese(text, target='pt'):
     """
@@ -55,14 +58,9 @@ def main():
     with Pool(5) as p:
        portuguese_winogrande_one = p.map(translate_batches, batch_one_winogrande)
 
-    #for sample in batch_one_winogrande:
-        #print(sample['sentence'])
-        #portuguese_winogrande_one.append(translate_batches(sample))
 
     create_translated_json('portuguese_winogrande.json', portuguese_winogrande_one)
 
 
 if __name__ == "__main__":
     main()
-    
-
