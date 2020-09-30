@@ -52,14 +52,16 @@ def translate_text_to_portuguese(text, target='pt'):
 
 def main():
 
-    batch_one_winogrande = load_samples_from_jsonl('train_xs.jsonl')
-
+    #batch_one_winogrande = load_samples_from_jsonl('train_xs.jsonl')
+    batch_two_winogrande = load_samples_from_jsonl('train_s.jsonl')
 
     with Pool(5) as p:
-       portuguese_winogrande_one = p.map(translate_batches, batch_one_winogrande)
+       #portuguese_winogrande_one = p.map(translate_batches, batch_one_winogrande)
+       portuguese_winogrande_two = p.map(translate_batches, batch_two_winogrande)
 
 
-    create_translated_json('portuguese_winogrande.json', portuguese_winogrande_one)
+    #create_translated_json('portuguese_winogrande.json', portuguese_winogrande_one)
+    create_translated_json('portuguese_winogrande_two.json', portuguese_winogrande_two)
 
 
 if __name__ == "__main__":

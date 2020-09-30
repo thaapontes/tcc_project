@@ -28,4 +28,5 @@ def adapt_sample_json_to_txt_winogrande(sample):
 
 
 if __name__ == "__main__":
-    transform_file_json_to_txt_winogrande("portuguese_winogrande.json", "batch_one_winogrande.txt")
+    #transform_file_json_to_txt_winogrande("portuguese_winogrande.json", "batch_one_winogrande.txt")
+    transform_file_json_to_txt_winogrande("portuguese_winogrande_two.json", "batch_two_winogrande.txt")

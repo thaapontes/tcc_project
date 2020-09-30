@@ -1,0 +1,3200 @@
+Ian se ofereceu para comer o menudo de Dennis depois de já ter comido uma tigela porque [MASK] desprezava comer intestino.
+[MASK]
+Ian, Dennis
+Dennis
+
+Ian se ofereceu para comer o menudo de Dennis depois de já ter comido uma tigela porque [MASK] gostava de comer intestino.
+[MASK]
+Ian, Dennis
+Ian
+
+Ele nunca vem na minha casa, mas eu sempre vou na casa dele porque o [MASK] é menor.
+[MASK]
+casa, casa
+casa
+
+Ele nunca vem na minha casa, mas eu sempre vou na casa dele porque o [MASK] é maior.
+[MASK]
+casa, casa
+casa
+
+Kyle não usa polainas para dormir, enquanto Logan quase sempre usa. [MASK] tem mais probabilidade de viver em um clima mais frio.
+[MASK]
+Kyle, Logan
+Logan
+
+Kyle não usa polainas para dormir, enquanto Logan quase sempre usa. [MASK] tem mais probabilidade de viver em um clima mais quente.
+[MASK]
+Kyle, Logan
+Kyle
+
+O GPS e o mapa me ajudaram a navegar para casa. Eu me perdi quando o [MASK] virou de cabeça para baixo.
+[MASK]
+GPS, mapa
+mapa
+
+O GPS e o mapa me ajudaram a navegar para casa. Eu me perdi quando o [MASK] foi desligado.
+[MASK]
+GPS, mapa
+GPS
+
+Emily olhou para cima e viu Patricia correndo por cima, enquanto [MASK] estava na rampa.
+[MASK]
+Emily, Patricia
+Patricia
+
+Emily olhou para cima e viu Patricia correndo por cima, pois [MASK] estava sob a rampa.
+[MASK]
+Emily, Patricia
+Emily
+
+Os trabalhadores da tesouraria tiraram as barras de ouro do carrinho e empilharam no cofre até que o [MASK] estivesse vazio.
+[MASK]
+seguro, carrinho
+carrinho
+
+Os trabalhadores da tesouraria tiraram as barras de ouro do carrinho e empilharam-nas no cofre até que o [MASK] estivesse cheio.
+[MASK]
+seguro, carrinho
+seguro
+
+Ele achou que tinha tempo de pegar a rota panorâmica até a loja, mas o [MASK] estava em construção.
+[MASK]
+rota, loja
+rota
+
+Ele achou que tinha tempo de pegar a rota panorâmica até a loja, mas o [MASK] foi fechado mais cedo.
+[MASK]
+rota, loja
+loja
+
+Ela se lembrou de como é irritante tirar o pó da cadeira de madeira, então ela comprou uma mesa de plástico. Limpar o [MASK] é rápido.
+[MASK]
+cadeira, mesa
+mesa
+
+Ela se lembrou de como é irritante tirar o pó da cadeira de madeira, então ela comprou uma mesa de plástico. Limpar o [MASK] é demorado.
+[MASK]
+cadeira, mesa
+cadeira
+
+Para superar o preconceito comportamental, precisamos nos concentrar mais na mudança das ações conscientes em vez das ações inconscientes, porque as ações [MASK] são voluntárias.
+[MASK]
+inconsciente, consciente
+consciente
+
+Para superar o preconceito comportamental, precisamos nos concentrar mais na mudança das ações conscientes em vez das ações inconscientes, porque as ações [MASK] são involuntárias.
+[MASK]
+inconsciente, consciente
+inconsciente
+
+Megan tem muito menos dinheiro do que Jéssica porque [MASK] acabou de comprar o bilhete de loteria vencedor.
+[MASK]
+Megan, Jessica
+Jessica
+
+Megan tem muito mais dinheiro do que Jéssica porque [MASK] acabou de comprar o bilhete de loteria vencedor.
+[MASK]
+Megan, Jessica
+Megan
+
+Peguei um saco de amendoins e passas para um lanche. Eu queria um lanche mais doce, então guardei o [MASK] por enquanto.
+[MASK]
+passas de uva, amendoim
+amendoim
+
+Peguei um saco de amendoins e passas para um lanche. Eu queria um lanche mais doce, então comi o [MASK] por enquanto.
+[MASK]
+passas de uva, amendoim
+passas de uva
+
+Craig realmente adora limpar o tempo todo, mas Derrick não porque [MASK] é muito limpo.
+[MASK]
+Craig, Torre
+Craig
+
+Craig realmente adora limpar o tempo todo, mas Derrick não porque [MASK] é muito desarrumado.
+[MASK]
+Craig, Torre
+Torre
+
+Dennis deu seu martelo a Robert para que ele pudesse martelar os pregos. [MASK] tinha muitos martelos.
+[MASK]
+Dennis, Robert
+Dennis
+
+Dennis deu seu martelo a Robert para que ele pudesse martelar os pregos. [MASK] não tinha martelos.
+[MASK]
+Dennis, Robert
+Robert
+
+A festa foi mais interessante e edificante do que o funeral porque o [MASK] foi rígido.
+[MASK]
+festa, funeral
+funeral
+
+A festa foi mais interessante e edificante do que o funeral porque o [MASK] foi flexível.
+[MASK]
+festa, funeral
+festa
+
+Os gansos preferem nidificar nos campos em vez de nas florestas porque nos [MASK] os predadores estão mais escondidos.
+[MASK]
+Campos, florestas
+florestas
+
+Os gansos preferem nidificar nos campos em vez das florestas porque nos [MASK] os predadores são muito visíveis.
+[MASK]
+Campos, florestas
+Campos
+
+A planta ocupava muito espaço na urna, pois o [MASK] era pequeno.
+[MASK]
+plantar, urna
+urna
+
+A planta ocupava muito espaço na urna, pois o [MASK] era grande.
+[MASK]
+plantar, urna
+plantar
+
+Eu instalei um novo galpão de pássaros do lado de fora, acima do solo, mas tive que sustentá-lo mais alto, longe do meu gato, porque o [MASK] estava muito baixo.
+[MASK]
+Casa de passarinho, terra
+Casa de passarinho
+
+Eu instalei um novo galpão de pássaros do lado de fora, acima do solo, mas tive que sustentá-lo mais alto, longe do meu gato, pois o [MASK] era muito alto.
+[MASK]
+Casa de passarinho, terra
+terra
+
+Prefiro spa à piscina e acho que a água fria do [MASK] não é relaxante no final do dia.
+[MASK]
+spa, piscina
+piscina
+
+Prefiro spa à piscina e acho a água quente no [MASK] relaxante no final do dia.
+[MASK]
+spa, piscina
+spa
+
+Megan disse que seria libertador sair sem maquiagem como Elena faz. [MASK] nunca usava maquiagem quando saía de casa.
+[MASK]
+Megan, Elena
+Elena
+
+Megan disse que seria libertador sair sem maquiagem como Elena faz. [MASK] sempre usava maquiagem quando saía de casa.
+[MASK]
+Megan, Elena
+Megan
+
+Donald era mais rico do que Leslie porque as empresas encontraram petróleo na propriedade de [MASK].
+[MASK]
+Donald, Leslie
+Donald
+
+Donald era mais pobre do que Leslie porque as empresas encontraram petróleo na propriedade de [MASK].
+[MASK]
+Donald, Leslie
+Leslie
+
+Sentindo uma corrente de ar, William pediu a Neil que fechasse a porta da frente porque [MASK] estava mais perto.
+[MASK]
+William, Neil
+Neil
+
+Sentindo uma corrente de ar, William pediu a Neil que fechasse a porta da frente porque [MASK] estava mais longe.
+[MASK]
+William, Neil
+William
+
+Lindsey adorava o sabor de pato, mas Megan gostava mais de frango. [MASK] pediu frango kung pao para o jantar.
+[MASK]
+Lindsey, Megan
+Megan
+
+Lindsey adorava o sabor de pato, mas Megan gostava mais de frango. [MASK] pediu o pato laqueado para o jantar.
+[MASK]
+Lindsey, Megan
+Lindsey
+
+Elena pegava seu estoque no fundo da loja para Megan vender todas as vezes, porque [MASK] era um cliente fiel.
+[MASK]
+Elena, Megan
+Megan
+
+Elena pegava seu estoque no fundo da loja para Megan vender todas as vezes, porque [MASK] era uma pessoa de negócios.
+[MASK]
+Elena, Megan
+Elena
+
+Kenneth perguntou a Dennis a que horas o baile estava acontecendo, mas [MASK] tinha esquecido.
+[MASK]
+Kenneth, Dennis
+Dennis
+
+Kenneth perguntou a Dennis a que horas o baile estava acontecendo, porque [MASK] havia esquecido.
+[MASK]
+Kenneth, Dennis
+Kenneth
+
+Eric estava ensinando todos os trechos adequados para Neil, porque [MASK] os estava usando para receber o pagamento.
+[MASK]
+Eric, Neil
+Eric
+
+Eric estava ensinando todos os alongamentos adequados para Neil, porque [MASK] os estava usando para entrar em forma.
+[MASK]
+Eric, Neil
+Neil
+
+Ao comprar uma casa, Patricia não tem tanto dinheiro para gastar quanto Tanya, então [MASK] compra uma casa de 5 quartos.
+[MASK]
+Patricia, Pergunte
+Pergunte
+
+Ao comprar uma casa, Patricia não tem tanto dinheiro para gastar quanto Tanya, então [MASK] compra uma casa de 1 quarto.
+[MASK]
+Patricia, Pergunte
+Patricia
+
+Eu queria comprar uma pinça pequena para caber na minha pulseira, mas ainda não coube. Os [MASK] eram muito pequenos.
+[MASK]
+pinça, pulseira
+pulseira
+
+Eu queria comprar uma pinça pequena para caber na minha pulseira, mas ainda não coube. Os [MASK] eram muito grandes.
+[MASK]
+pinça, pulseira
+pinça
+
+Lidar com emergências nunca foi muito difícil para Kevin, mas era para Nelson porque [MASK] conseguia manter a calma sob pressão.
+[MASK]
+Kevin, Nelson
+Kevin
+
+Lidar com emergências nunca foi muito difícil para Kevin, mas era para Nelson porque [MASK] não conseguia manter a calma sob pressão.
+[MASK]
+Kevin, Nelson
+Nelson
+
+Emily perguntou a sua irmã Sarah se ela precisava de algum absorvente interno ou absorvente da loja, embora [MASK] não precisasse porque ela havia mudado para o uso de copos menstruais.
+[MASK]
+Emily, Sarah
+Emily
+
+Emily perguntou a sua irmã Sarah se ela precisava de absorventes internos ou absorventes da loja, mas [MASK] não, porque ela passou a usar copos menstruais.
+[MASK]
+Emily, Sarah
+Sarah
+
+Elena teve um terrível ataque de tosse por causa do pólen, ao contrário de Tanya, já que [MASK] era imune a alergias.
+[MASK]
+Elena, Pergunte
+Pergunte
+
+Elena teve um terrível ataque de tosse por causa do pólen, ao contrário de Tanya, já que [MASK] era suscetível a alergias.
+[MASK]
+Elena, Pergunte
+Elena
+
+Rebecca levava Amy para ir trabalhar com a carona todos os dias, então [MASK] pediu dinheiro para gasolina.
+[MASK]
+Rebecca, Amy
+Rebecca
+
+Rebecca levava Amy para ir trabalhar todos os dias, então [MASK] ofereceu dinheiro para gasolina.
+[MASK]
+Rebecca, Amy
+Amy
+
+Jennifer discretamente admitiu para Erin que ela não sabia como aplicar sombra nos olhos. [MASK] foi reconfortante.
+[MASK]
+Jennifer, Erin
+Erin
+
+Jennifer discretamente admitiu para Erin que ela não sabia como aplicar sombra nos olhos. [MASK] ficou sem graça.
+[MASK]
+Jennifer, Erin
+Jennifer
+
+Os funcionários deram uma festa e beberam tanto álcool que não puderam ir para o trabalho no dia seguinte. O [MASK] estava alto.
+[MASK]
+festa, álcool
+festa
+
+Os funcionários deram uma festa e beberam tanto álcool que não puderam ir para o trabalho no dia seguinte. O [MASK] foi copioso.
+[MASK]
+festa, álcool
+álcool
+
+Uma vez na Polônia, Dennis gostou da viagem mais do que Jason porque [MASK] tinha um conhecimento superficial da língua polonesa.
+[MASK]
+Dennis, Jason
+Jason
+
+Uma vez na Polônia, Dennis gostou da viagem mais do que Jason porque [MASK] tinha um conhecimento mais profundo da língua polonesa.
+[MASK]
+Dennis, Jason
+Dennis
+
+A casa que Benjamin projetou para Joseph era linda, então [MASK] a usou em seu portfólio.
+[MASK]
+Benjamin, Joseph
+Benjamin
+
+A casa projetada para Benjamin por Joseph era linda, então [MASK] a utilizou em seu portfólio.
+[MASK]
+Benjamin, Joseph
+Joseph
+
+John despejou toda a tigela de peixe na panela quente no fogão até que o [MASK] estivesse cheio.
+[MASK]
+tigela, panela
+panela
+
+John despejou a tigela inteira de peixe na panela quente no fogão até que o [MASK] estivesse vazio.
+[MASK]
+tigela, panela
+tigela
+
+Sue queria praticar meditação, então ela foi para a academia com sua classe, mas o [MASK] estava muito ocupado.
+[MASK]
+classe, Academia
+Academia
+
+Sue queria praticar meditação, então ela foi para a academia com sua classe, mas o [MASK] era tarde demais.
+[MASK]
+classe, Academia
+classe
+
+Natalie acha que as esmeraldas são belas joias, mas Betty não. [MASK] comprou um colar com um grande diamante.
+[MASK]
+Natalie, Betty
+Betty
+
+Natalie acha que as esmeraldas são belas joias, mas Betty não. [MASK] comprou um colar com uma grande esmeralda.
+[MASK]
+Natalie, Betty
+Natalie
+
+Aaron pendurou seu rifle de caça sobre a lareira depois que a viagem mais recente acabou com Benjamin dando o tiro fatal. [MASK] estava feliz por ele.
+[MASK]
+Aaron, Benjamin
+Aaron
+
+Aaron pendurou seu rifle de caça sobre a lareira depois que a viagem mais recente acabou com Benjamin dando o tiro fatal. [MASK] estava feliz por si mesmo.
+[MASK]
+Aaron, Benjamin
+Benjamin
+
+Kevin é muito mais versátil fisicamente do que Nick, porque [MASK] é um atleta machucado na cama.
+[MASK]
+Kevin, usuario
+usuario
+
+Kevin é muito mais versátil fisicamente do que Nick, porque [MASK] é um atleta experiente em treinamento.
+[MASK]
+Kevin, usuario
+Kevin
+
+Adam colocou apenas roupas para lavar à mão na máquina de lavar, mas Aaron lavou-as à mão porque [MASK] era preguiçoso.
+[MASK]
+Adão, Aaron
+Adão
+
+Adam colocou apenas roupas para lavar à mão na máquina de lavar, mas Aaron lavou-as à mão como [MASK] era consciencioso.
+[MASK]
+Adão, Aaron
+Aaron
+
+Kyle adora o sabor de damasco, mas Matthew gosta mais de ameixas. [MASK] mal podia esperar pela temporada da ameixa.
+[MASK]
+Kyle, Mateus
+Mateus
+
+Kyle adora o sabor de damasco, mas Matthew gosta mais de ameixas. [MASK] mal podia esperar pela temporada de damasco.
+[MASK]
+Kyle, Mateus
+Kyle
+
+Derrick não conseguia se concentrar no trabalho, ao contrário de Justin, porque [MASK] tinha um trabalho divertido.
+[MASK]
+Torre, Justin
+Justin
+
+Derrick não conseguia se concentrar no trabalho, ao contrário de Justin, porque [MASK] tinha um trabalho chato.
+[MASK]
+Torre, Justin
+Torre
+
+Avery estava debatendo em aprender alemão em vez de latim, porque o [MASK] era mais recente.
+[MASK]
+Latina, alemão
+alemão
+
+Avery estava debatendo em aprender alemão em vez de latim porque o [MASK] era velho.
+[MASK]
+Latina, alemão
+Latina
+
+Kayla namorou muito mais pessoas ao mesmo tempo do que Betty, porque [MASK] estava em um relacionamento aberto.
+[MASK]
+Kayla, Betty
+Betty
+
+Kayla namorou muito mais pessoas ao mesmo tempo do que Betty, porque [MASK] estava em um relacionamento exclusivo.
+[MASK]
+Kayla, Betty
+Kayla
+
+Steven orgulhosamente mostrou a Michael as mangas que ele mesmo cultivou durante todo o verão. [MASK] é trabalhador.
+[MASK]
+Steven, Michael
+Steven
+
+Steven orgulhosamente mostrou a Michael as mangas que ele mesmo cultivou durante todo o verão. [MASK] está surpreso.
+[MASK]
+Steven, Michael
+Michael
+
+A carta que Joel escreveu está sendo lida por Adam, então [MASK] é o escritor.
+[MASK]
+Joel, Adão
+Joel
+
+A carta que Joel escreveu está sendo lida por Adam, então [MASK] é o editor.
+[MASK]
+Joel, Adão
+Adão
+
+Kyle ficava mais confortável falando na frente de grandes grupos do que Nick, porque [MASK] tinha feito cursos de oratória na faculdade.
+[MASK]
+Kyle, usuario
+Kyle
+
+Kyle ficava mais confortável falando na frente de grandes grupos do que Nick, porque [MASK] não foi capaz de fazer cursos de oratória na faculdade.
+[MASK]
+Kyle, usuario
+usuario
+
+Na lagoa Emily nadou nua enquanto Felicia optou por um maiô de corpo inteiro. [MASK] estava muito hesitante em mostrar seu corpo.
+[MASK]
+Emily, Felicia
+Felicia
+
+Na lagoa Emily nadou nua enquanto Felicia optou por um maiô de corpo inteiro. [MASK] era muito livre em mostrar o corpo.
+[MASK]
+Emily, Felicia
+Emily
+
+O relógio de Sarah Jane quebrou quando o livro o atingiu, pois o [MASK] era muito forte.
+[MASK]
+ver, livro
+livro
+
+O relógio de Sarah Jane quebrou quando o livro o atingiu, pois o [MASK] estava muito fraco.
+[MASK]
+ver, livro
+ver
+
+Joseph precisava ter as unhas bem cuidadas para trabalhar, mas Kevin não, porque [MASK] trabalhava em um banco.
+[MASK]
+Joseph, Kevin
+Joseph
+
+Joseph precisava ter as unhas bem cuidadas para trabalhar, mas Kevin não, porque [MASK] trabalhava em uma fazenda.
+[MASK]
+Joseph, Kevin
+Kevin
+
+Enquanto jogava golfe, Dennis caiu na lama, mas Christopher manteve o equilíbrio porque [MASK] estava usando sapatos de cravos.
+[MASK]
+Dennis, Christopher
+Christopher
+
+Enquanto jogava golfe, Dennis caiu na lama, mas Christopher manteve o equilíbrio, porque [MASK] estava calçado com sapatos escorregadios.
+[MASK]
+Dennis, Christopher
+Dennis
+
+Eu não conseguia controlar a umidade como controlei a chuva, porque o [MASK] estava entrando em um ponto.
+[MASK]
+umidade, chuva
+chuva
+
+Eu não conseguia controlar a umidade como controlei a chuva, porque o [MASK] estava entrando em todos os lugares.
+[MASK]
+umidade, chuva
+umidade
+
+Leslie ficou fascinada em colecionar sapatos novos em comparação com Derrick, porque [MASK] amava as tendências da moda.
+[MASK]
+Leslie, Torre
+Leslie
+
+Leslie ficou fascinada em colecionar sapatos novos em comparação com Derrick, porque [MASK] odiava tendências da moda.
+[MASK]
+Leslie, Torre
+Torre
+
+Jessica achava que Sandstorm era a melhor música já escrita, mas Patricia odiava. [MASK] comprou um ingresso para o show de jazz.
+[MASK]
+Jessica, Patricia
+Patricia
+
+Jessica achava que Sandstorm era a melhor música já escrita, mas Patricia odiava. [MASK] comprou um ingresso para a rave Darude.
+[MASK]
+Jessica, Patricia
+Jessica
+
+Bill derramou toda a tigela de salgadinho de queijo em sua boca até que o [MASK] estava vazio.
+[MASK]
+boca, tigela
+tigela
+
+Bill derramou toda a tigela de salgadinho de queijo na boca até que o [MASK] estivesse cheio.
+[MASK]
+boca, tigela
+boca
+
+Ben jogava futebol e boliche todas as semanas. No entanto, foi fácil para ele jogar o jogo [MASK] porque machucou o braço.
+[MASK]
+boliche, futebol
+futebol
+
+Ben jogava futebol e boliche todas as semanas. No entanto, foi difícil para ele jogar o jogo [MASK] porque machucou o braço.
+[MASK]
+boliche, futebol
+boliche
+
+Nick tinha um cachorro maior do que Craig porque [MASK] alimentava seu cachorro com muito mais comida.
+[MASK]
+usuario, Craig
+usuario
+
+Nick tinha um cachorro menor do que Craig porque [MASK] alimentava seu cachorro com muito mais comida.
+[MASK]
+usuario, Craig
+Craig
+
+Havia mais sombra no quintal de Christine do que no quintal de Victoria porque [MASK] tinha mais plantas.
+[MASK]
+Christine, Victoria
+Christine
+
+Havia mais sombra no quintal de Christine do que no quintal de Victoria porque [MASK] tinha menos plantas.
+[MASK]
+Christine, Victoria
+Victoria
+
+Kyle adora chocolate e doces e Steven adora picles e limões. [MASK] adora alimentos azedos.
+[MASK]
+Kyle, Steven
+Steven
+
+Kyle adora chocolate e doces e Steven adora picles e limões. [MASK] adora comidas doces.
+[MASK]
+Kyle, Steven
+Kyle
+
+Como Benjamin comia sobremesas não saudáveis com muito mais frequência do que Brett, [MASK] tinha grande força de vontade.
+[MASK]
+Benjamin, Brett
+Brett
+
+Como Benjamin comia sobremesas não saudáveis com muito mais frequência do que Brett, [MASK] tinha pouca força de vontade.
+[MASK]
+Benjamin, Brett
+Benjamin
+
+Eric convidou Michael em um encontro para ir ao cinema na sexta à noite porque [MASK] estava muito confiante.
+[MASK]
+Eric, Michael
+Eric
+
+Eric convidou Michael em um encontro para ir ao cinema na sexta à noite porque [MASK] era muito atraente.
+[MASK]
+Eric, Michael
+Michael
+
+Amy odiava o cheiro de alvejante, mas Kayla o usava o tempo todo para limpar, então [MASK] tenta usá-lo menos.
+[MASK]
+Amy, Kayla
+Kayla
+
+Amy odiava o cheiro de água sanitária, mas Kayla o usava o tempo todo para limpar, então [MASK] sempre sai de casa.
+[MASK]
+Amy, Kayla
+Amy
+
+Eric olhou para Neil em estado de choque e começou a reagir violentamente porque [MASK] mentiu para ele.
+[MASK]
+Eric, Neil
+Neil
+
+Eric olhou para Neil em estado de choque e começou a reagir violentamente porque [MASK] se sentiu traído.
+[MASK]
+Eric, Neil
+Eric
+
+Matthew fez questão de usar um óleo lubrificante ao expandir seu piercing, ao contrário de Jeffrey, então a experiência dolorosa de [MASK] fez muito sentido.
+[MASK]
+Mateus, Jeffrey
+Jeffrey
+
+Matthew fez questão de usar um óleo lubrificante ao expandir seu piercing, ao contrário de Jeffrey, então a experiência agradável de [MASK] fez muito sentido.
+[MASK]
+Mateus, Jeffrey
+Mateus
+
+Samantha trouxe um cartão de melhora ao hospital, mas Emily esqueceu porque [MASK] estava preocupada.
+[MASK]
+Samantha, Emily
+Emily
+
+Samantha trouxe um cartão de melhora ao hospital, mas Emily esqueceu porque [MASK] estava pensativo.
+[MASK]
+Samantha, Emily
+Samantha
+
+Jessica tirou as luvas e as deu para Katrina porque as mãos de [MASK] estavam frias.
+[MASK]
+Jessica, Katrina
+Katrina
+
+Jessica tirou as luvas e as deu para Katrina porque as mãos de [MASK] estavam quentes.
+[MASK]
+Jessica, Katrina
+Jessica
+
+O processo levou a empresa à falência, fazendo com que Megan fosse dispensada de seu emprego enquanto Mary era promovida. [MASK] sentiu-se aliviado e exultante.
+[MASK]
+Megan, Maria
+Maria
+
+O processo levou a empresa à falência, fazendo com que Megan fosse dispensada de seu emprego enquanto Mary era promovida. [MASK] se sentia deprimido e sem esperança.
+[MASK]
+Megan, Maria
+Megan
+
+A certificação de John era menos importante que o diploma de Jim porque o [MASK] era de uma universidade menor.
+[MASK]
+certificação, grau
+certificação
+
+A certificação de John era menos importante que o diploma de Jim porque o [MASK] era de uma grande universidade.
+[MASK]
+certificação, grau
+grau
+
+Eles optaram por não ir ao baile, mas sim ao filme, o [MASK] parecia um destino adequado para seu encontro.
+[MASK]
+dança, filme
+filme
+
+Eles optaram por não ir ao baile, mas sim ao filme, o [MASK] parecia um destino inapropriado para seu encontro.
+[MASK]
+dança, filme
+dança
+
+O termostato mostrou que estava vinte graus mais frio no andar de baixo do que no andar de cima, então Byron ficou no [MASK] porque estava com calor.
+[MASK]
+andar de baixo, andar de cima
+andar de baixo
+
+O termostato mostrou que estava vinte graus mais frio no andar de baixo do que no andar de cima, então Byron permaneceu no [MASK] porque estava com frio.
+[MASK]
+andar de baixo, andar de cima
+andar de cima
+
+Michael queria levar Craig para a água em seu novo barco. [MASK] disse que seria divertido mostrar a ele como funciona.
+[MASK]
+Michael, Craig
+Michael
+
+Michael queria levar Craig para a água em seu novo barco. [MASK] disse que seria confuso ver como funciona o barco.
+[MASK]
+Michael, Craig
+Craig
+
+Venha aqui e dê uma olhada no meu couro cabeludo hoje, Natalie disse a Katrina, [MASK] odeia dar sua opinião.
+[MASK]
+Natalie, Katrina
+Katrina
+
+Venha aqui e dê uma olhada no meu couro cabeludo hoje. Natalie disse a Katrina, [MASK] precisa de uma segunda opinião.
+[MASK]
+Natalie, Katrina
+Natalie
+
+O sushi apodrecia no balcão a menos que fosse colocado no refrigerador, pois o [MASK] o expôs à contaminação.
+[MASK]
+contador, resfriador
+contador
+
+O sushi apodrecia no balcão a menos que fosse colocado na geladeira, pois o [MASK] o protegia de contaminação.
+[MASK]
+contador, resfriador
+resfriador
+
+O contrato não pôde ser redigido na empresa durante esse dia porque o [MASK] era muito pequeno para se preocupar.
+[MASK]
+contrato, o negócio
+contrato
+
+O contrato não pôde ser redigido na empresa durante esse dia porque o [MASK] era muito grande para se preocupar com ele.
+[MASK]
+contrato, o negócio
+o negócio
+
+Laura sempre teve mais motivação na vida e na conquista de objetivos do que Katrina, pois [MASK] estava otimista.
+[MASK]
+Laura, Katrina
+Laura
+
+Laura sempre teve mais motivação na vida e na conquista de objetivos do que Katrina, pois [MASK] era preguiçosa.
+[MASK]
+Laura, Katrina
+Katrina
+
+Ben teve que parar de comer chocolates ou nozes. Ele optou por parar de comer os [MASK] porque eram saborosos.
+[MASK]
+chocolates, nozes
+nozes
+
+Ben teve que parar de comer chocolates ou nozes. Ele optou por parar de comer os [MASK] porque eram doces.
+[MASK]
+chocolates, nozes
+chocolates
+
+James estava procurando se havia espaço para colocar o livro na estante. O [MASK] é pequeno.
+[MASK]
+espaço, livro
+espaço
+
+James estava procurando se havia espaço para colocar o livro na estante. O [MASK] é grande.
+[MASK]
+espaço, livro
+livro
+
+James estava escrevendo um poema em seu bloco de notas quando a tinta acabou. O [MASK] é um longo.
+[MASK]
+poema, tinta
+poema
+
+James estava escrevendo um poema em seu bloco de notas quando a tinta acabou. O [MASK] é um baixo.
+[MASK]
+poema, tinta
+tinta
+
+O casal bebeu vinho em copos em vez de canecas, porque os [MASK] estavam limpos.
+[MASK]
+canecas, óculos
+óculos
+
+O casal bebeu vinho em copos em vez de canecas, porque os [MASK] estavam sujos.
+[MASK]
+canecas, óculos
+canecas
+
+Dividir o doce era mais difícil do que dividir as maçãs porque toda criança queria o [MASK].
+[MASK]
+doce, maçãs
+doce
+
+Dividir o doce era mais difícil do que dividir as maçãs porque nenhuma criança queria o [MASK].
+[MASK]
+doce, maçãs
+maçãs
+
+Brian queria ser um assistente administrativo domiciliar e Kenneth não queria porque [MASK] gostava de ficar em casa.
+[MASK]
+Brian, Kenneth
+Brian
+
+Brian queria ser um assistente administrativo domiciliar e Kenneth não queria porque [MASK] não gostava de ficar em casa.
+[MASK]
+Brian, Kenneth
+Kenneth
+
+Brian tinha uma grande coleção de moedas que Kevin realmente admirava, então [MASK] pediu a ele algumas duplicatas.
+[MASK]
+Brian, Kevin
+Kevin
+
+Brian tinha uma grande coleção de moedas que Kevin realmente admirava, então [MASK] ofereceu a ele algumas duplicatas.
+[MASK]
+Brian, Kevin
+Brian
+
+William se esqueceu de todas as vezes em que Ian os salvou, apesar de como [MASK] geralmente era abnegado.
+[MASK]
+William, Ian
+Ian
+
+William se esqueceu de todas as vezes em que Ian os salvou, porque [MASK] geralmente era egocêntrico.
+[MASK]
+William, Ian
+William
+
+Katrina está sendo ensinada a falar coreano por Felicia, então [MASK] provavelmente nasceu na Coréia.
+[MASK]
+Katrina, Felicia
+Felicia
+
+Katrina está sendo ensinada a falar coreano por Felicia, então [MASK] provavelmente nasceu nos Estados Unidos.
+[MASK]
+Katrina, Felicia
+Katrina
+
+Jason negou o pedido de passaporte de Ian porque [MASK] não forneceu a papelada correta a tempo.
+[MASK]
+Jason, Ian
+Ian
+
+Jason negou o pedido de passaporte de Ian porque [MASK] não recebeu a papelada correta a tempo.
+[MASK]
+Jason, Ian
+Jason
+
+Eu queria uma combinação de aromas de baunilha e essência de árvore do chá, mas cheirava a baunilha porque a essência de [MASK] era muito fraca.
+[MASK]
+Baunilha, árvore do chá
+árvore do chá
+
+Eu queria uma combinação de aromas de baunilha com essência de árvore do chá, mas cheirava a baunilha porque a essência de [MASK] era muito forte.
+[MASK]
+Baunilha, árvore do chá
+Baunilha
+
+Prefiro jogar em um time de futebol do que ser um chutador em um time de futebol, já que a bola [MASK] é mais difícil de chutar.
+[MASK]
+futebol, pé
+pé
+
+Prefiro jogar em um time de futebol do que ser um chutador em um time de futebol, já que a bola [MASK] é mais fácil de chutar.
+[MASK]
+futebol, pé
+futebol
+
+Kyle achou que a temperatura estava muito alta, enquanto William achou que estava muito fria, então [MASK] abaixou o aquecimento.
+[MASK]
+Kyle, William
+Kyle
+
+Kyle achou que a temperatura estava muito quente, enquanto William achou que estava muito frio, então [MASK] aumentou o aquecimento.
+[MASK]
+Kyle, William
+William
+
+William queria um ovo no café da manhã, mas Kevin comeu o último, então [MASK] teve que dar cereal a eles.
+[MASK]
+William, Kevin
+Kevin
+
+William queria um ovo no café da manhã, mas Kevin comeu o último, então [MASK] teve que comer cereal.
+[MASK]
+William, Kevin
+William
+
+A mulher borrifou limpador no espelho, mas pulou a bancada porque o [MASK] estava limpo.
+[MASK]
+espelho, bancada
+bancada
+
+A mulher borrifou limpador no espelho, mas pulou a bancada porque o [MASK] estava sujo.
+[MASK]
+espelho, bancada
+espelho
+
+Justin escreveu um parágrafo em seu planejador todos os dias, ao contrário de Mateus porque [MASK] era desorganizado.
+[MASK]
+Justin, Mateus
+Mateus
+
+Justin escreveu um parágrafo em seu planejador todos os dias, ao contrário de Mateus porque [MASK] foi organizado.
+[MASK]
+Justin, Mateus
+Justin
+
+As crianças só conseguiam contar o número de bolas em uma jarra e não os feijões na outra, porque as [MASK] eram muito numerosas.
+[MASK]
+bolas, feijões
+feijões
+
+As crianças só conseguiam contar o número de bolinhas em uma jarra e não os feijões na outra, porque os [MASK] eram mais manejáveis.
+[MASK]
+bolas, feijões
+bolas
+
+Erin é conhecida como uma empresária, enquanto Victoria é apenas uma empregada porque [MASK] possui um negócio.
+[MASK]
+Erin, Victoria
+Erin
+
+Erin é conhecida como empreendedora, enquanto Victoria é apenas uma funcionária porque [MASK] ainda não possui um negócio.
+[MASK]
+Erin, Victoria
+Victoria
+
+Como [MASK] chegou ao trabalho mais tarde, Dennis almoçava antes de Adam na sala de descanso do trabalho.
+[MASK]
+Dennis, Adão
+Adão
+
+Já que [MASK] chegou ao trabalho antes, Dennis iria almoçar antes de Adam na sala de descanso do trabalho.
+[MASK]
+Dennis, Adão
+Dennis
+
+O estômago de Neil estava roncando, mas Samuel parecia bem, por estar com fome.
+[MASK]
+Neil, Samuel
+Neil
+
+O estômago de Neil roncava, mas Samuel parecia bem, devido a [MASK] estar saciado.
+[MASK]
+Neil, Samuel
+Samuel
+
+Depois que Logan contraiu a varicela de Joseph, [MASK] passou o dia mandando textos legais sobre isso.
+[MASK]
+Logan, Joseph
+Joseph
+
+Depois que Logan contraiu a varicela de Joseph, [MASK] passou o dia enviando textos maldosos sobre isso.
+[MASK]
+Logan, Joseph
+Logan
+
+O homem queria colocar a bagagem na casa, mas o [MASK] era muito pequeno.
+[MASK]
+casa, bagagem
+casa
+
+O homem queria colocar a bagagem na casa, mas o [MASK] era muito grande.
+[MASK]
+casa, bagagem
+bagagem
+
+A experiência foi totalmente inesquecível para Betty, mas não para Samantha, porque [MASK] a temia por meses.
+[MASK]
+Betty, Samantha
+Samantha
+
+A experiência foi totalmente inesquecível para Betty, mas não para Samantha, porque [MASK] a esperava há meses.
+[MASK]
+Betty, Samantha
+Betty
+
+Kyle comprou um novo telefone celular e mostrou a Leslie porque [MASK] estava feliz com o novo telefone.
+[MASK]
+Kyle, Leslie
+Kyle
+
+Kyle comprou um novo telefone celular e mostrou a Leslie, mas [MASK] estava chateado com o novo telefone.
+[MASK]
+Kyle, Leslie
+Leslie
+
+Quando alguém sente cãibras, pode tomar um banho quente ou usar uma almofada térmica, mas o [MASK] é mais um inconveniente.
+[MASK]
+banho, almofada de aquecimento
+banho
+
+Quando alguém tem cólicas, pode tomar um banho quente ou usar uma almofada térmica, mas o [MASK] é mais conveniente.
+[MASK]
+banho, almofada de aquecimento
+almofada de aquecimento
+
+Neil concordou em ajudar a lavar o cachorro grande de Adam e [MASK] estava muito ansioso para ajudar.
+[MASK]
+Neil, Adão
+Neil
+
+Neil concordou em ajudar a lavar o cachorro grande de Adam e [MASK] ficou muito grato pela ajuda.
+[MASK]
+Neil, Adão
+Adão
+
+O críquete é o passatempo favorito de Lindsey, enquanto Rachel nunca ouviu falar dele. [MASK] tem mais probabilidade de ser americano.
+[MASK]
+Lindsey, Rachel
+Rachel
+
+O críquete é o passatempo favorito de Lindsey, enquanto Rachel nunca ouviu falar dele. [MASK] é mais provável que seja britânico.
+[MASK]
+Lindsey, Rachel
+Lindsey
+
+Ficou claro que Jessica entendeu e se divertiu com o artigo de Monica porque [MASK] era a leitora.
+[MASK]
+Jessica, Monica
+Jessica
+
+Ficou claro que Jessica entendeu e se divertiu com o artigo de Monica porque [MASK] era a escritora.
+[MASK]
+Jessica, Monica
+Monica
+
+Em um esforço para controlar a tosse do canil, Emily enviou Maria para buscar o medicamento, mas [MASK] estava ocupada examinando os animais.
+[MASK]
+Emily, Maria
+Maria
+
+Em um esforço para controlar a tosse do canil, Emily mandou Maria buscar o medicamento porque [MASK] estava ocupada examinando os animais.
+[MASK]
+Emily, Maria
+Emily
+
+Jan derramou todo o copo de suco de limão nas bananas da tigela até que o [MASK] estivesse vazio.
+[MASK]
+copo, tigela
+copo
+
+Jan derramou todo o copo de suco de limão nas bananas da tigela até que o [MASK] estivesse cheio.
+[MASK]
+copo, tigela
+tigela
+
+A seguradora culpou Leslie, em vez de Logan, pelo acidente, já que [MASK] recebeu luz verde.
+[MASK]
+Leslie, Logan
+Logan
+
+A seguradora culpou Leslie, em vez de Logan, pelo acidente, já que [MASK] pisou no sinal vermelho.
+[MASK]
+Leslie, Logan
+Leslie
+
+O chef decidiu guardar a comida no recipiente, mas o [MASK] era muito grande.
+[MASK]
+Comida, recipiente
+Comida
+
+O chef decidiu guardar a comida no recipiente, mas o [MASK] era muito pequeno.
+[MASK]
+Comida, recipiente
+recipiente
+
+Minha irmã gostou mais de escrever no blog do que em seu diário, porque o [MASK] para todo mundo ver.
+[MASK]
+blog, Diário
+blog
+
+Minha irmã gostou mais de escrever no blog do que no diário, porque o [MASK] para ninguém ver.
+[MASK]
+blog, Diário
+Diário
+
+Derrick passou o verão inteiro deitado na praia quente, enquanto Jeffrey passou o verão dentro de casa, então o cabelo de [MASK] foi mais danificado pelo sol.
+[MASK]
+Torre, Jeffrey
+Torre
+
+Derrick passou o verão inteiro deitado na praia quente, enquanto Jeffrey passou o verão em casa, então o cabelo de [MASK] teve menos danos do sol.
+[MASK]
+Torre, Jeffrey
+Jeffrey
+
+Este menu foi muito eclético. Eles serviram de tudo, desde um hambúrguer de três camadas a sushi e omeletes. O [MASK] foi suculento.
+[MASK]
+hambúrguer, Sushi
+hambúrguer
+
+Este menu foi muito eclético. Eles serviram de tudo, desde um hambúrguer de três camadas a sushi e omeletes. O [MASK] estava cru.
+[MASK]
+hambúrguer, Sushi
+Sushi
+
+as estatísticas mostram que muitas mulheres em comparação com os homens nascem todos os dias, os [MASK] são poucos.
+[MASK]
+mulheres, machos
+machos
+
+as estatísticas mostram que muitas mulheres em comparação com os homens nascem todos os dias, os [MASK] são muitos.
+[MASK]
+mulheres, machos
+mulheres
+
+Robert decidiu comprar a casa de Neil, então [MASK] tinha muito mais dinheiro no banco depois.
+[MASK]
+Robert, Neil
+Neil
+
+Robert optou por comprar a casa de Neil, então [MASK] teve muito menos dinheiro no banco depois.
+[MASK]
+Robert, Neil
+Robert
+
+O exame médico para o braço quebrado foi mais longo do que o exame do coração porque o [MASK] era um problema sério.
+[MASK]
+coração, braço
+braço
+
+O exame médico para o braço quebrado foi mais curto do que o exame do coração porque o [MASK] era um problema sério.
+[MASK]
+coração, braço
+coração
+
+Ao se abrir sobre suas paixões, Kenneth suspirou para Jeffrey porque [MASK] esqueceu quem era sua paixão.
+[MASK]
+Kenneth, Jeffrey
+Jeffrey
+
+Ao se abrir sobre suas paixões, Kenneth riu de Jeffrey porque [MASK] se lembrou de quem era sua paixão.
+[MASK]
+Kenneth, Jeffrey
+Kenneth
+
+Jack amava matemática e não gostava de ciências sociais, então, ao decidir fazer sociologia ou matemática naquele semestre, o conselheiro entrou no [MASK] porque Jack era receptivo a isso.
+[MASK]
+matemática, sociologia
+matemática
+
+Jack amava matemática e não gostava de ciências sociais, então, ao decidir fazer sociologia ou matemática naquele semestre, o conselheiro excluiu o [MASK] porque Jack era resistente a ele.
+[MASK]
+matemática, sociologia
+sociologia
+
+Christopher queria ser um especialista, mas não Adam porque [MASK] tinha interesse em um número limitado de assuntos.
+[MASK]
+Christopher, Adão
+Christopher
+
+Christopher queria ser um especialista, mas não Adam porque [MASK] tinha interesse em vários assuntos.
+[MASK]
+Christopher, Adão
+Adão
+
+Megan aproveitou o verão, enquanto Felicia não. [MASK] passou muito tempo dentro de casa.
+[MASK]
+Megan, Felicia
+Felicia
+
+Megan aproveitou o verão, enquanto Felicia não. [MASK] passou muito tempo na praia.
+[MASK]
+Megan, Felicia
+Megan
+
+John não conseguiu remover o papel de parede preso à parede com cola sem que ele se rasgasse. O [MASK] é fraco.
+[MASK]
+cola, papel de parede
+papel de parede
+
+John não conseguiu remover o papel de parede preso à parede com cola sem que ele se rasgasse. O [MASK] é forte.
+[MASK]
+cola, papel de parede
+cola
+
+O conselheiro tratou a criança que sofreu abuso dando-lhe um ursinho em vez de um cobertor porque o [MASK] era enfadonho.
+[MASK]
+Urso de pelúcia, cobertor
+cobertor
+
+O conselheiro tratou a criança que sofreu abuso dando-lhe um ursinho em vez de um cobertor porque o [MASK] era reconfortante.
+[MASK]
+Urso de pelúcia, cobertor
+Urso de pelúcia
+
+John cuidou da panela enquanto ela era transportada na caixa, mas eventualmente ela quebrou. O [MASK] é difícil.
+[MASK]
+pode, caixa
+caixa
+
+John cuidou da panela enquanto ela era transportada na caixa, mas eventualmente ela quebrou. O [MASK] é frágil.
+[MASK]
+pode, caixa
+pode
+
+Donald ofereceu a Leslie seu último chiclete de menta, pois [MASK] já tinha um hálito de hortelã.
+[MASK]
+Donald, Leslie
+Donald
+
+Donald ofereceu a Leslie seu último chiclete de menta para Leslie, pois [MASK] já estava com um hálito fedorento.
+[MASK]
+Donald, Leslie
+Leslie
+
+Depois que Samuel ganhou o concurso de geleia de cereja, Kyle ainda acreditava que eles deveriam ter ganhado, já que [MASK] adoçado com adoçante de baixa caloria e os juízes escolheram o gosto.
+[MASK]
+Samuel, Kyle
+Kyle
+
+Depois que Samuel ganhou o concurso de geleia de cereja, Kyle ainda acreditava que eles deveriam ter vencido, já que [MASK] adoçado com adoçante de alto teor calórico e os juízes decidiram pelo gosto.
+[MASK]
+Samuel, Kyle
+Samuel
+
+Felicia parecia triste e desapontada depois de perguntar a Christine se recusou a ser sua namorada porque [MASK] gostava dela.
+[MASK]
+Felicia, Christine
+Felicia
+
+Felicia parecia triste e desapontada depois de perguntar a Christine se recusou a ser sua namorada porque [MASK] ela não era lésbica.
+[MASK]
+Felicia, Christine
+Christine
+
+Matthew quer vender ingressos para o jogo de futebol de Kevin porque [MASK] precisa do dinheiro.
+[MASK]
+Mateus, Kevin
+Mateus
+
+Matthew quer vender a Kevin ingressos para o jogo de futebol, mas [MASK] não tem dinheiro.
+[MASK]
+Mateus, Kevin
+Kevin
+
+Elena disse a Natalie para colocar o capuz de sua jaqueta porque [MASK] provavelmente esfriaria.
+[MASK]
+Elena, Natalie
+Natalie
+
+Elena disse a Natalie para colocar o capuz de sua jaqueta porque [MASK] não queria que ela ficasse com frio.
+[MASK]
+Elena, Natalie
+Elena
+
+Lawrence fez uma tigela na loja de cerâmica e Randy acidentalmente a quebrou. [MASK] resolveu fazer outro.
+[MASK]
+Lawrence, Randy
+Lawrence
+
+Lawrence fez uma tigela na loja de cerâmica e Randy acidentalmente a quebrou. [MASK] se ofereceu para fazer outro.
+[MASK]
+Lawrence, Randy
+Randy
+
+O nódulo na cabeça precisava de medicamento aplicado em sua área porque o [MASK] estava inchado.
+[MASK]
+nó, medicamento
+nó
+
+O nó na cabeça precisava de medicação aplicada em sua área porque o [MASK] o contraía.
+[MASK]
+nó, medicamento
+medicamento
+
+Sue tradicionalmente doava roupas velhas para sua instituição de caridade favorita, mas nos últimos anos apenas passou cheques para elas, pois os [MASK] eram melhor recebidos.
+[MASK]
+Verificações, roupas
+Verificações
+
+Sue tradicionalmente doava roupas velhas para sua instituição de caridade favorita, mas nos últimos anos apenas passou cheques para elas, já que os [MASK] foram mal recebidos.
+[MASK]
+Verificações, roupas
+roupas
+
+Matthew se ofereceu para ajudar a escrever um plano de condicionamento físico para Christopher porque [MASK] estava fora de forma.
+[MASK]
+Mateus, Christopher
+Christopher
+
+Matthew se ofereceu para ajudar a escrever um plano de condicionamento físico para Christopher porque [MASK] era um personal trainer.
+[MASK]
+Mateus, Christopher
+Mateus
+
+As ondas destruíram a garagem, mas deixaram a casa intacta porque o [MASK] estava muito perto da costa.
+[MASK]
+garagem, casa
+garagem
+
+As ondas destruíram a garagem, mas deixaram a casa intacta porque o [MASK] estava muito longe da costa.
+[MASK]
+garagem, casa
+casa
+
+Katrina vende um tapete para Maria no mercado de pulgas local porque [MASK] é uma cliente.
+[MASK]
+Katrina, Maria
+Maria
+
+Katrina vende um tapete para Maria no mercado de pulgas local porque [MASK] é uma vendedora.
+[MASK]
+Katrina, Maria
+Katrina
+
+A avó de Joan sempre quis um abraço e um beijo, mas Joan preferia o [MASK] porque tinha medo de germes.
+[MASK]
+beijo, abraço
+abraço
+
+A avó de Joan sempre quis um abraço e um beijo, mas Joan não gostou do [MASK] porque tinha medo de germes.
+[MASK]
+beijo, abraço
+beijo
+
+A biblioteca mantinha uma enorme coleção de romances, mas não de quadrinhos porque os [MASK] eram monótonos.
+[MASK]
+novelas, histórias em quadrinhos
+histórias em quadrinhos
+
+A biblioteca mantinha uma enorme coleção de romances, mas não de quadrinhos porque os [MASK] eram populares.
+[MASK]
+novelas, histórias em quadrinhos
+novelas
+
+A loja de Carrie tem mais clientes fiéis do que a loja de Patricia porque a loja de [MASK] é mais antiga.
+[MASK]
+Carrie, Patricia
+Carrie
+
+A loja de Carrie tem mais clientes fiéis do que a loja de Patricia porque a loja de [MASK] é mais recente.
+[MASK]
+Carrie, Patricia
+Patricia
+
+Christine não passou no teste de detecção de mentiras que Jessica fez porque [MASK] tinha algo a esconder.
+[MASK]
+Christine, Jessica
+Christine
+
+Christine não passou no teste de detecção de mentiras que Jessica passou porque [MASK] não tinha nada a esconder.
+[MASK]
+Christine, Jessica
+Jessica
+
+Carrie enfrentou o ventilador longe de Ângela porque [MASK] estava esquentando muito na cozinha.
+[MASK]
+Carrie, Angela
+Carrie
+
+Carrie olhou para o ventilador na direção de Ângela porque [MASK] estava esquentando muito na cozinha.
+[MASK]
+Carrie, Angela
+Angela
+
+O inverno secou as mãos de Jason, mas não as de Leslie, já que [MASK] sempre se esquecia de hidratar à noite.
+[MASK]
+Jason, Leslie
+Jason
+
+O inverno secou as mãos de Jason, mas não as de Leslie, já que [MASK] nunca se esquecia de se hidratar à noite.
+[MASK]
+Jason, Leslie
+Leslie
+
+Como Carrie perdeu uma aposta para Cynthia sobre o jogo de basquete, [MASK] passou horas fazendo a limpeza para eles.
+[MASK]
+Carrie, Cynthia
+Cynthia
+
+Como Carrie perdeu uma aposta para Cynthia sobre o jogo de basquete, [MASK] passou horas fazendo a limpeza.
+[MASK]
+Carrie, Cynthia
+Carrie
+
+Prefiro ouvir rádio do que assistir TV à noite, porque acho o [MASK] perturbador.
+[MASK]
+rádio, televisão
+televisão
+
+Prefiro ouvir rádio do que assistir TV à noite, pois acho o [MASK] calmante.
+[MASK]
+rádio, televisão
+rádio
+
+Randy começou seu próprio negócio enquanto Ryan trabalhava para outra pessoa, então [MASK] tinha impostos sobre o trabalho autônomo.
+[MASK]
+Randy, Ryan
+Randy
+
+Randy começou seu próprio negócio enquanto Ryan trabalhava para outra pessoa, então [MASK] tinha impostos W4.
+[MASK]
+Randy, Ryan
+Ryan
+
+Seu namorado se arrependeu de comprar uma jaqueta para ela e, em vez disso, comprou um chapéu novo, pois sabia que ela achava que [MASK] combinava perfeitamente com seu guarda-roupa.
+[MASK]
+Jaqueta, Tem
+Tem
+
+Seu namorado se arrependeu de comprar uma jaqueta para ela e, em vez disso, comprou um chapéu novo para ela, pois sabia que ela achava que [MASK] não combinava com seu guarda-roupa.
+[MASK]
+Jaqueta, Tem
+Jaqueta
+
+Monica queria usar um aspirador para limpar o chão, mas Victoria queria usar uma vassoura. [MASK] limpou o chão muito mais devagar.
+[MASK]
+Monica, Victoria
+Victoria
+
+Monica queria usar um aspirador para limpar o chão, mas Victoria queria usar uma vassoura. [MASK] limpou o chão muito mais rápido.
+[MASK]
+Monica, Victoria
+Monica
+
+Usei vários sprays para me livrar dos percevejos, mas não funcionaram, porque os [MASK] estavam impotentes.
+[MASK]
+sprays, percevejos
+sprays
+
+Usei vários sprays para me livrar dos percevejos, mas não funcionaram, porque os [MASK] eram poderosos.
+[MASK]
+sprays, percevejos
+percevejos
+
+Monica gostava de assistir filmes de faroeste, enquanto Natalie gostava mais dos românticos porque [MASK] cresceu em uma fazenda.
+[MASK]
+Monica, Natalie
+Monica
+
+Monica gostava de assistir filmes de faroeste, enquanto Natalie gostava mais dos românticos, porque [MASK] cresceu assistindo novelas.
+[MASK]
+Monica, Natalie
+Natalie
+
+Havia mais livros na biblioteca do que na livraria porque o [MASK] era maior.
+[MASK]
+biblioteca, livraria
+biblioteca
+
+Havia mais livros na biblioteca do que na livraria porque o [MASK] era menor.
+[MASK]
+biblioteca, livraria
+livraria
+
+Desenhar era um talento de Sarah, mas não de Carrie, então [MASK] estava sempre ansiosa para ver seu trabalho artístico.
+[MASK]
+Sarah, Carrie
+Carrie
+
+Desenhar era um talento de Sarah, mas não de Carrie, então [MASK] estava sempre ansiosa para mostrar sua arte.
+[MASK]
+Sarah, Carrie
+Sarah
+
+Emily gastou muito dinheiro em seu smartphone, mas Rachel comprou um barato porque [MASK] era muito deselegante.
+[MASK]
+Emily, Rachel
+Rachel
+
+Emily gastou muito dinheiro em seu smartphone, mas Rachel comprou um barato porque [MASK] era muito estiloso.
+[MASK]
+Emily, Rachel
+Emily
+
+O chá e o café devem ser consumidos em recipientes, xícaras e canecas diferentes, respectivamente. O café costuma ser servido no [MASK], com leite e às vezes açúcar.
+[MASK]
+copo, caneca
+caneca
+
+O chá e o café devem ser consumidos em recipientes, xícaras e canecas diferentes, respectivamente. O chá costuma ser servido no [MASK], com leite e às vezes açúcar.
+[MASK]
+copo, caneca
+copo
+
+Neil perguntou a Michael como era ir para a guerra porque [MASK] era um pacifista.
+[MASK]
+Neil, Michael
+Neil
+
+Neil perguntou a Michael como era ir para a guerra porque [MASK] era ex-militar.
+[MASK]
+Neil, Michael
+Michael
+
+Entrei na mina à procura de diamantes, mas tudo que encontrei foi quartzo e topázio. Eu decidi no [MASK] porque estava quase claro.
+[MASK]
+topázio, quartzo
+quartzo
+
+Entrei na mina à procura de diamantes, mas tudo que encontrei foi quartzo e topázio. Eu escolhi o [MASK] porque era amarelo brilhante.
+[MASK]
+topázio, quartzo
+topázio
+
+O chef acha que é mais saudável comer maçãs do que beterrabas, então ele odeia colocar [MASK] em seus smoothies.
+[MASK]
+maçãs, beterraba
+beterraba
+
+O chef acha que é mais saudável comer maçãs do que beterrabas, então ele gosta de colocar o [MASK] em seus smoothies.
+[MASK]
+maçãs, beterraba
+maçãs
+
+Jennifer corria o risco de encontrar um tubarão durante o mergulho, mas Emily não, porque [MASK] nadou no oceano.
+[MASK]
+Jennifer, Emily
+Jennifer
+
+Jennifer corria o risco de encontrar um tubarão durante o mergulho, mas Emily não, porque [MASK] nadou no lago.
+[MASK]
+Jennifer, Emily
+Emily
+
+Os documentos contidos nos arquivos não cabem corretamente. Os [MASK] eram muito pequenos.
+[MASK]
+arquivos, Documentos
+arquivos
+
+Os documentos contidos nos arquivos não cabem corretamente. O [MASK] era muito grande.
+[MASK]
+arquivos, Documentos
+Documentos
+
+Ávidos leitores de livros, Lawrence lia ficção, enquanto Jason lia não-ficção. [MASK] gostava de fugir para um mundo imaginário.
+[MASK]
+Lawrence, Jason
+Lawrence
+
+Ávidos leitores de livros, Lawrence lia ficção, enquanto Jason lia não-ficção. [MASK] lutou para escapar em um mundo imaginário.
+[MASK]
+Lawrence, Jason
+Jason
+
+Mary só usava listras para trabalhar e não xadrez porque o [MASK] a fazia parecer desleixada.
+[MASK]
+xadrez, listras
+xadrez
+
+Mary só usava listras para trabalhar e não xadrez porque o [MASK] a fazia parecer profissional.
+[MASK]
+xadrez, listras
+listras
+
+O pára-choque do carro brilhava mais forte do que a alça do carro porque o [MASK] estava mais sujo.
+[MASK]
+Parachoque, lidar com
+lidar com
+
+O pára-choque do carro brilhava mais forte do que a alça do carro porque o [MASK] era mais limpo.
+[MASK]
+Parachoque, lidar com
+Parachoque
+
+Ian está fazendo uma festa na piscina para Neil e precisa aumentar o pH da piscina, para que [MASK] possa aproveitar a festa com segurança.
+[MASK]
+Ian, Neil
+Neil
+
+Ian está fazendo uma festa na piscina para Neil e precisa aumentar o pH da piscina, então [MASK] compra preparações para aumentar o pH.
+[MASK]
+Ian, Neil
+Ian
+
+Enquanto Billie trazia um lápis, levei uma caneta para o escritório do corretor de imóveis. Dei minha caneta a Billie e ela usou com prazer o [MASK] para assinar o documento.
+[MASK]
+lápis, caneta
+caneta
+
+Enquanto Billie trazia um lápis, levei uma caneta para o escritório do corretor de imóveis. Dei minha caneta a Billie, mas ela teimosamente usou o [MASK] para assinar o documento.
+[MASK]
+lápis, caneta
+lápis
+
+Ninguém gostou da história e começamos a ouvir a música. O [MASK] é chato.
+[MASK]
+história, música
+história
+
+Ninguém gostou da história e começamos a ouvir a música. O [MASK] é interessante.
+[MASK]
+história, música
+música
+
+Os dentes de Katrina são mais amarelos do que os de Laura porque [MASK] bebe quase sempre água.
+[MASK]
+Katrina, Laura
+Laura
+
+Os dentes de Katrina são mais amarelos do que os de Laura porque [MASK] bebe quase sempre café.
+[MASK]
+Katrina, Laura
+Katrina
+
+Foi necessário bater no ferro com a marreta após o aquecimento do [MASK].
+[MASK]
+ferro, marreta
+ferro
+
+Era necessário bater no ferro com a marreta antes que o [MASK] aquecesse.
+[MASK]
+ferro, marreta
+marreta
+
+Kevin não considerou os custos quando eles compraram a casa de Derrick, então [MASK] se livrou do poço de dinheiro.
+[MASK]
+Kevin, Torre
+Torre
+
+Kevin não considerou os custos quando eles compraram a casa de Derrick, então [MASK] ficou preso no poço de dinheiro.
+[MASK]
+Kevin, Torre
+Kevin
+
+Robert ajudou a criar uma sensação de vídeo viral na Internet de Kyle quando [MASK] dançou em vídeo.
+[MASK]
+Robert, Kyle
+Kyle
+
+Robert ajudou a criar uma sensação de vídeo viral na Internet de Kyle quando [MASK] dirigiu o vídeo.
+[MASK]
+Robert, Kyle
+Robert
+
+Rebecca convidou Maria para um show, então [MASK] teve que obter permissão de seus pais para comparecer.
+[MASK]
+Rebecca, Maria
+Maria
+
+Rebecca foi convidada para um concerto por Maria, então [MASK] teve que obter permissão de seus pais para comparecer.
+[MASK]
+Rebecca, Maria
+Rebecca
+
+Betty conseguiu segurar o pombo por mais tempo do que Angela porque [MASK] tem medo de pássaros.
+[MASK]
+Betty, Angela
+Angela
+
+Betty conseguiu segurar o pombo por mais tempo do que Angela porque [MASK] não tinha medo de pássaros.
+[MASK]
+Betty, Angela
+Betty
+
+Nick sente muita coceira de atleta, enquanto Jason nunca usou uma cinta de atleta. [MASK] é o artista.
+[MASK]
+usuario, Jason
+Jason
+
+Nick sente muita coceira de atleta, enquanto Jason nunca usou uma cinta de atleta. [MASK] é o atleta.
+[MASK]
+usuario, Jason
+usuario
+
+A theraband que Jill comprou para si mesma não cabia em sua perna, o [MASK] era muito largo.
+[MASK]
+Theraband, perna
+perna
+
+A theraband que Jill comprou para si mesma não cabia em sua perna, o [MASK] era muito estreito.
+[MASK]
+Theraband, perna
+Theraband
+
+James não conseguiu fechar a bolsa por causa da roupa dentro dela. O [MASK] é pequeno.
+[MASK]
+pano, saco
+saco
+
+James não conseguiu fechar a bolsa por causa da roupa dentro dela. O [MASK] é bastante.
+[MASK]
+pano, saco
+pano
+
+Michelle fazia biscoitos com gordura e sem manteiga, porque achava que o [MASK] deixava com gosto mais leve.
+[MASK]
+manteiga, Encurtando
+Encurtando
+
+Michelle fazia biscoitos com gordura e sem manteiga, porque achava que o [MASK] os deixava pesados demais.
+[MASK]
+manteiga, Encurtando
+manteiga
+
+Dennis saiu de férias, enquanto Nelson ficou em casa, então a alface na geladeira de [MASK] estava estragada.
+[MASK]
+Dennis, Nelson
+Dennis
+
+Dennis saiu de férias, enquanto Nelson ficou em casa para usar a alface na geladeira de [MASK] para fazer uma salada.
+[MASK]
+Dennis, Nelson
+Nelson
+
+Jen colocou o rolo derma na água, para que o limpador pudesse esterilizá-lo com o [MASK].
+[MASK]
+rolo derma, água
+água
+
+Jen colocou seu rolo derma na água, para que o limpador pudesse esterilizar o [MASK].
+[MASK]
+rolo derma, água
+rolo derma
+
+A maleta que James costumava carregar o arquivo ainda tem mais espaço. Eu me pergunto por que ele escolheu o [MASK] que é pequeno.
+[MASK]
+caso, Arquivo
+Arquivo
+
+A maleta que James costumava carregar o arquivo ainda tem mais espaço. Eu me pergunto por que ele escolheu o [MASK] que é grande.
+[MASK]
+caso, Arquivo
+caso
+
+Aprender a tocar um glockenspiel foi instintivo para Derrick, mas não para Adam porque [MASK] é artístico.
+[MASK]
+Torre, Adão
+Torre
+
+Aprender a tocar um glockenspiel foi instintivo para Derrick, mas não para Adam porque [MASK] não é musical.
+[MASK]
+Torre, Adão
+Adão
+
+Minha articulação do joelho está menos machucada do que a do tornozelo, então estou tentando não colocar muita pressão no [MASK] se puder evitar.
+[MASK]
+articulação do joelho, articulação do tornozelo
+articulação do tornozelo
+
+Minha articulação do joelho está mais machucada do que a do tornozelo, então estou tentando não colocar muito estresse no [MASK] se posso evitar.
+[MASK]
+articulação do joelho, articulação do tornozelo
+articulação do joelho
+
+Donald não gostava de se manter limpo como Matthew fazia, então [MASK] tendia a cheirar bem.
+[MASK]
+Donald, Mateus
+Mateus
+
+Donald não gostava de se manter limpo como Matthew fazia, então [MASK] tendia a cheirar mal.
+[MASK]
+Donald, Mateus
+Donald
+
+O homem percebeu que havia comprado a lente para seus óculos em vez de sua câmera, a lente [MASK] era muito mais grossa.
+[MASK]
+Câmera, óculos
+Câmera
+
+O homem percebeu que tinha comprado a lente para seus óculos em vez de sua câmera, a lente [MASK] era muito mais fina.
+[MASK]
+Câmera, óculos
+óculos
+
+Domingo à tarde, Laura fez alguns biscoitos de leitelho para Victoria e [MASK] trabalhou rapidamente para fazê-los.
+[MASK]
+Laura, Victoria
+Laura
+
+Domingo à tarde, Laura fez alguns biscoitos de leitelho para Victoria e [MASK] rapidamente comeu.
+[MASK]
+Laura, Victoria
+Victoria
+
+Para lidar com seus problemas, a adolescente escreveu no diário e não no diário, pois as páginas do [MASK] eram maiores.
+[MASK]
+Diário, diário
+Diário
+
+Para lidar com seus problemas, a adolescente escreveu no diário e não no diário, pois as páginas do [MASK] eram menores.
+[MASK]
+Diário, diário
+diário
+
+Bob rasgou sua camisa que era uma camisa de noite. Ele decidiu comprar uma camisa de smoking porque o [MASK] é novo.
+[MASK]
+camisa de noite, camisa de smoking
+camisa de smoking
+
+Bob rasgou sua camisa que era uma camisa de noite. Ele decidiu comprar uma camisa de smoking porque o [MASK] é velho.
+[MASK]
+camisa de noite, camisa de smoking
+camisa de noite
+
+Hunter era suicida e Robert respondeu pela razão de que [MASK] nunca tinha estado nesta situação crítica.
+[MASK]
+Caçador, Robert
+Caçador
+
+Hunter era suicida e Robert respondeu pela razão de que [MASK] havia estado anteriormente nesta situação crítica.
+[MASK]
+Caçador, Robert
+Robert
+
+Rachel incluiu Tanya em seu vídeo no YouTube, mas [MASK] ficou furiosa porque ela não conseguiu obter permissão.
+[MASK]
+Rachel, Pergunte
+Pergunte
+
+Rachel incluiu Tanya em seu vídeo no YouTube, mas [MASK] lamentou porque ela não conseguiu obter permissão.
+[MASK]
+Rachel, Pergunte
+Rachel
+
+Um maestro no trem que Felicia tem sido por anos, Elena vai presentear eles com um prêmio [MASK] está sendo homenageado.
+[MASK]
+Felicia, Elena
+Felicia
+
+Um maestro no trem que Felicia tem sido por anos, Elena vai entregá-los com um prêmio, [MASK] é uma honra estar apresentando ..
+[MASK]
+Felicia, Elena
+Elena
+
+A polícia podia escoltar o prisioneiro até o portão, mas não até a cela, pois a entrada em [MASK] era permitida.
+[MASK]
+portão, célula
+portão
+
+A polícia podia escoltar o prisioneiro até o portão, mas não até a cela, pois a entrada em [MASK] era proibida.
+[MASK]
+portão, célula
+célula
+
+Quando Brenda revestiu seus painéis de madeira com verniz, a superfície de concreto embaixo ficou manchada. O verniz protegeu e embelezou o [MASK].
+[MASK]
+madeira, concreto
+madeira
+
+Quando Brenda revestiu seus painéis de madeira com verniz, a superfície de concreto embaixo ficou manchada. O verniz prejudicava e feia o [MASK].
+[MASK]
+madeira, concreto
+concreto
+
+John estava ansioso para colocar seus peixes no novo tanque de peixes em uma mesa, mas o [MASK] era muito delicado.
+[MASK]
+mesa, tanque
+mesa
+
+John estava ansioso para colocar seus peixes no novo tanque de peixes em uma mesa, mas o [MASK] era muito pesado.
+[MASK]
+mesa, tanque
+tanque
+
+O chá estava machucando os dentes de Ben, embora o café não fosse porque o [MASK] estava carregado com açúcar.
+[MASK]
+chá, café
+chá
+
+O chá estava machucando os dentes de Ben, embora o café não fosse porque o [MASK] estava com falta de açúcar.
+[MASK]
+chá, café
+café
+
+Ele preferiu limpar com o sabonete em vez do sabonete líquido, pois o [MASK] deixava com coceira.
+[MASK]
+sabonete líquido, Sabonete
+sabonete líquido
+
+Ele preferiu limpar com o sabonete em vez do sabonete líquido, pois o [MASK] o deixava se sentindo revigorado.
+[MASK]
+sabonete líquido, Sabonete
+Sabonete
+
+Katrina emprestou sua jaqueta para Carrie durante a noite fria, embora [MASK] também estivesse sentindo frio.
+[MASK]
+Katrina, Carrie
+Katrina
+
+Katrina emprestou seu casaco para Carrie durante a noite fria, porque [MASK] estava com frio.
+[MASK]
+Katrina, Carrie
+Carrie
+
+Adam teve que marcar uma visita a um dermatologista, mas Joseph não o fez porque [MASK] tinha pele ruim.
+[MASK]
+Adão, Joseph
+Adão
+
+Adam teve que marcar uma visita a um dermatologista, mas Joseph não o fez porque [MASK] tinha uma pele boa.
+[MASK]
+Adão, Joseph
+Joseph
+
+Nancy preferia comer pipoca em vez de doces no cinema porque o [MASK] é doce.
+[MASK]
+Pipoca, doce
+doce
+
+Nancy preferia comer pipoca em vez de doces no cinema porque o [MASK] é salgado.
+[MASK]
+Pipoca, doce
+Pipoca
+
+O projeto significava que Emily colaborou com Victoria, que não estava animada. [MASK] odiava trabalhar com outras pessoas.
+[MASK]
+Emily, Victoria
+Victoria
+
+O projeto significava que Emily colaborou com Victoria, que não estava animada. [MASK] adorava trabalhar com outras pessoas.
+[MASK]
+Emily, Victoria
+Emily
+
+Enquanto Maria ia de ônibus para o trabalho, Megan andava de motocicleta porque [MASK] tinha uma licença válida.
+[MASK]
+Maria, Megan
+Megan
+
+Enquanto Maria ia de ônibus para o trabalho, Megan andava de motocicleta porque [MASK] estava com a licença vencida.
+[MASK]
+Maria, Megan
+Maria
+
+Steven tinha apenas uma orelha, mas Jeffrey tinha duas. Isso significava que [MASK] estava muito desequilibrado.
+[MASK]
+Steven, Jeffrey
+Steven
+
+Steven tinha apenas uma orelha, mas Jeffrey tinha duas. Isso significava que [MASK] era muito simétrico.
+[MASK]
+Steven, Jeffrey
+Jeffrey
+
+Kevin consertou os móveis de madeira para Kyle na semana passada, já que [MASK] era um carpinteiro experiente.
+[MASK]
+Kevin, Kyle
+Kyle
+
+Kevin consertou os móveis de madeira de Kyle na semana passada, já que [MASK] precisava de um carpinteiro experiente.
+[MASK]
+Kevin, Kyle
+Kevin
+
+Eric achou as roupas muito bonitas, mas Kevin não concordou. [MASK] não comprou as roupas.
+[MASK]
+Eric, Kevin
+Kevin
+
+Eric achou as roupas muito bonitas, mas Kevin não concordou. [MASK] comprei as roupas.
+[MASK]
+Eric, Kevin
+Eric
+
+Jéssica freqüentemente sente náuseas intensas, Victoria, portanto, não anda de montanhas-russas.
+[MASK]
+Jessica, Victoria
+Jessica
+
+Jéssica freqüentemente sente náuseas severas, Victoria não costuma andar de grandes montanhas-russas.
+[MASK]
+Jessica, Victoria
+Victoria
+
+O sistema que Jeffrey usou era incrível em comparação com Randy, porque [MASK] sistema era inferior.
+[MASK]
+Jeffrey, Randy
+Randy
+
+O sistema que Jeffrey usou era incrível em comparação com Randy, porque [MASK] sistema era mais sofisticado.
+[MASK]
+Jeffrey, Randy
+Jeffrey
+
+Jerry levou mais tempo para lavar o cabelo do que a barba, embora o [MASK] fosse espesso.
+[MASK]
+cabelo, barba
+barba
+
+Jerry levou mais tempo para lavar o cabelo do que a barba, embora o [MASK] fosse raspado.
+[MASK]
+cabelo, barba
+cabelo
+
+Você já esteve em uma caminhada pela natureza que Samantha perguntou a Tanya, [MASK] está respondendo a uma pergunta.
+[MASK]
+Samantha, Pergunte
+Pergunte
+
+Você já esteve em uma caminhada pela natureza que Samantha perguntou a Tanya, [MASK] está esperando por uma resposta a uma pergunta.
+[MASK]
+Samantha, Pergunte
+Samantha
+
+Ben estava escolhendo entre um negócio de roupas e um negócio de fitness. Ele acabou abrindo o [MASK] negócio porque era saudável.
+[MASK]
+ginástica, roupas
+ginástica
+
+Ben estava escolhendo entre um negócio de roupas e um negócio de fitness. Ele acabou abrindo a empresa [MASK] porque não era saudável.
+[MASK]
+ginástica, roupas
+roupas
+
+Jason estava indo para uma entrevista de emprego depois de ser preparado por Logan. [MASK] estava orgulhoso.
+[MASK]
+Jason, Logan
+Logan
+
+Jason estava indo para uma entrevista de emprego depois de ser preparado por Logan. [MASK] ficou grato.
+[MASK]
+Jason, Logan
+Jason
+
+Adam achou a piada azul que Steven ofensiva, porque [MASK] estava ciente de seu próprio privilégio.
+[MASK]
+Adão, Steven
+Adão
+
+Adam achou a piada azul que Steven ofensiva, porque [MASK] não tinha conhecimento de seu próprio privilégio.
+[MASK]
+Adão, Steven
+Steven
+
+Mary tinha um corpo melhor e era mais exibicionista do que Emily. [MASK] odeia usar biquínis na praia.
+[MASK]
+Maria, Emily
+Emily
+
+Mary tinha um corpo melhor e era mais exibicionista do que Emily. [MASK] adora usar biquínis na praia.
+[MASK]
+Maria, Emily
+Maria
+
+Adam adorava sua avó, William. [MASK] decidiu que iria surpreendê-la com uma viagem à Europa.
+[MASK]
+Adão, William
+Adão
+
+Adam adorava sua avó, William. [MASK] teve uma grande surpresa com uma viagem à Europa.
+[MASK]
+Adão, William
+William
+
+Eric era mais fácil de divertir do que Justin porque [MASK] tinha um ótimo senso de humor.
+[MASK]
+Eric, Justin
+Eric
+
+Eric era mais fácil de divertir do que Justin porque [MASK] tinha um péssimo senso de humor.
+[MASK]
+Eric, Justin
+Justin
+
+Os pagamentos foram feitos por Jason a Dennis, já que [MASK] havia emprestado muito dinheiro no passado.
+[MASK]
+Jason, Dennis
+Jason
+
+Os pagamentos foram feitos por Jason a Dennis, já que [MASK] havia emprestado muito dinheiro no passado.
+[MASK]
+Jason, Dennis
+Dennis
+
+Victoria ficou enojada por causa do odor de Sarah, e [MASK] não queria estar perto deles.
+[MASK]
+Victoria, Sarah
+Victoria
+
+Victoria ficou enojada por causa do odor de Sarah, e [MASK] tinha vergonha de estar perto deles.
+[MASK]
+Victoria, Sarah
+Sarah
+
+Tina pediu aos convidados que tirassem os sapatos ao entrarem na casa porque ela tinha um tapete novo. Ela disse que o [MASK] não podia se sujar.
+[MASK]
+sapatos, tapete
+tapete
+
+Tina pediu aos convidados que tirassem os sapatos ao entrarem na casa porque ela tinha um tapete novo. Ela disse que os [MASK] costumavam estar sujos.
+[MASK]
+sapatos, tapete
+sapatos
+
+Samantha venceu a competição de dança em vez de Jennifer porque [MASK] tinha um senso de ritmo superior.
+[MASK]
+Samantha, Jennifer
+Samantha
+
+Samantha venceu a competição de dança em vez de Jennifer porque [MASK] tinha um péssimo senso de ritmo.
+[MASK]
+Samantha, Jennifer
+Jennifer
+
+Jessica era mais magra do que Rebecca porque [MASK] comia chocolate quase todos os dias como lanche.
+[MASK]
+Jessica, Rebecca
+Rebecca
+
+Jessica era mais gorda do que Rebecca porque [MASK] comia chocolate quase todos os dias como lanche.
+[MASK]
+Jessica, Rebecca
+Jessica
+
+Tanya não conseguia se esticar até Jennifer porque [MASK] tinha um corpo muito flexível.
+[MASK]
+Pergunte, Jennifer
+Jennifer
+
+Tanya não conseguiu se esticar até Jennifer porque [MASK] tinha um corpo muito rígido.
+[MASK]
+Pergunte, Jennifer
+Pergunte
+
+Ben teve que parar de dirigir seu carro ou motocicleta. Ele escolheu parar o [MASK] porque era seguro.
+[MASK]
+motocicleta, carro
+carro
+
+Ben teve que parar de dirigir seu carro ou motocicleta. Ele escolheu parar o [MASK] porque era arriscado.
+[MASK]
+motocicleta, carro
+motocicleta
+
+Randy é melhor brincando de fingir com crianças do que Kenneth porque [MASK] é uma pessoa mais séria.
+[MASK]
+Randy, Kenneth
+Kenneth
+
+Randy é melhor brincando de fingir com crianças do que Kenneth porque [MASK] é uma pessoa mais criativa.
+[MASK]
+Randy, Kenneth
+Randy
+
+James precisava de uma caixa maior para coletar a prata que ele trocou pelo ouro porque o [MASK] é maior.
+[MASK]
+prata, ouro
+prata
+
+James precisava de uma caixa maior para coletar a prata que ele trocou pelo ouro porque o [MASK] é menor.
+[MASK]
+prata, ouro
+ouro
+
+Havia mais pássaros no jardim do que no parque porque o [MASK] só tinha grama.
+[MASK]
+jardim, parque
+parque
+
+Havia mais pássaros no jardim do que no parque porque os [MASK] tinham frutas frescas.
+[MASK]
+jardim, parque
+jardim
+
+Kayla decidiu conversar com sua filha Sarah sobre a puberdade, porque [MASK] descobriu que tinha acabado de menstruar.
+[MASK]
+Kayla, Sarah
+Kayla
+
+Kayla decidiu conversar com sua filha Sarah sobre a puberdade, porque [MASK] disse que tinha acabado de menstruar.
+[MASK]
+Kayla, Sarah
+Sarah
+
+O lagarto de Pam prendeu o rabo na porta e correu para baixo do sofá em vez da cadeira, porque o [MASK] era mais assustador.
+[MASK]
+sofá, cadeira
+cadeira
+
+O lagarto de Pam prendeu o rabo na porta e correu para baixo do sofá em vez da cadeira, porque o [MASK] era mais seguro.
+[MASK]
+sofá, cadeira
+sofá
+
+Jeffrey pediu a Joel que expressasse seus sentimentos de uma maneira mais produtiva, mas [MASK] foi realmente o único a ser razoável.
+[MASK]
+Jeffrey, Joel
+Joel
+
+Jeffrey pediu a Joel que expressasse seus sentimentos de uma maneira mais produtiva, mas [MASK] era realmente o mesquinho.
+[MASK]
+Jeffrey, Joel
+Jeffrey
+
+Jennifer era melhor praticando esportes do que Laura, embora [MASK] fosse muito mais atlética.
+[MASK]
+Jennifer, Laura
+Laura
+
+Jennifer era melhor praticando esportes do que Laura porque [MASK] era muito mais atlética.
+[MASK]
+Jennifer, Laura
+Jennifer
+
+A bola de futebol estava voando mais alto do que o basquete enquanto voava pelo ar. O [MASK] estava mais leve.
+[MASK]
+futebol, basquetebol
+futebol
+
+A bola de futebol estava voando mais alto do que o basquete enquanto voava pelo ar. O [MASK] era mais pesado.
+[MASK]
+futebol, basquetebol
+basquetebol
+
+Dennis gostava de música pop, mas Jason preferia música clássica. [MASK] gostava de música com instrumentos de corda.
+[MASK]
+Dennis, Jason
+Jason
+
+Dennis gostava de música pop, mas Jason preferia música clássica. [MASK] gostava de música para dançar.
+[MASK]
+Dennis, Jason
+Dennis
+
+Adicionei temperos à minha cozinha, como sal e pimenta. O [MASK] faz com que a comida tenha um sabor salgado.
+[MASK]
+sal, Pimenta
+sal
+
+Adicionei temperos à minha cozinha, como sal e pimenta. O [MASK] torna o sabor da comida mais quente.
+[MASK]
+sal, Pimenta
+Pimenta
+
+No shopping, Laura aplicou maquiagem em Betty para embelezá-la porque [MASK] não era muito atraente.
+[MASK]
+Laura, Betty
+Betty
+
+No shopping, Laura aplicou maquiagem em Betty para embelezá-la porque [MASK] era uma especialista.
+[MASK]
+Laura, Betty
+Laura
+
+A perna de Jason estava mais dolorida do que seu braço porque ele aqueceu o [MASK] antes de se exercitar.
+[MASK]
+braço, perna
+braço
+
+A perna de Jason estava mais dolorida do que seu braço, embora ele aquecesse o [MASK] antes de se exercitar.
+[MASK]
+braço, perna
+perna
+
+Randy aprendeu a pescar com Derrick, porque [MASK] era um profissional com anos de experiência.
+[MASK]
+Randy, Torre
+Torre
+
+Randy aprendeu a pescar com Derrick, porque [MASK] era um novato com apenas alguns dias de experiência.
+[MASK]
+Randy, Torre
+Randy
+
+Enquanto a mulher Kayla estava levando Maria para seu primeiro dia de jardim de infância, o policial deu a [MASK] uma multa.
+[MASK]
+Kayla, Maria
+Kayla
+
+Enquanto a mulher Kayla levava Maria para seu primeiro dia de jardim de infância, o policial deu [MASK] um pirulito.
+[MASK]
+Kayla, Maria
+Maria
+
+O xadrez é ruim para o corpo, mas ótimo para o cérebro, pois o pensamento é fundamental para o desenvolvimento do [MASK].
+[MASK]
+corpo, cérebro
+cérebro
+
+O xadrez é ruim para o corpo, mas ótimo para o cérebro, pois o pensamento é inútil para o desenvolvimento do [MASK].
+[MASK]
+corpo, cérebro
+corpo
+
+Amy queria uma escova de dentes macia, mas Mary queria uma firme porque [MASK] estava preocupada com tarter.
+[MASK]
+Amy, Maria
+Maria
+
+Amy queria uma escova de dentes macia, mas Mary queria uma firme porque [MASK] estava preocupada com a dor.
+[MASK]
+Amy, Maria
+Amy
+
+Jeffrey construiu uma casa para Kenneth, então [MASK] terá um novo lugar legal para morar.
+[MASK]
+Jeffrey, Kenneth
+Kenneth
+
+Jeffrey construiu uma casa com a ajuda de Kenneth para que [MASK] tenha um bom lugar novo para morar.
+[MASK]
+Jeffrey, Kenneth
+Jeffrey
+
+Megan teve um bebê enquanto Katrina teve uma filha em idade universitária, então [MASK] ainda teve que trocar as fraldas.
+[MASK]
+Megan, Katrina
+Megan
+
+Megan teve um bebê enquanto Katrina teve um filho em idade universitária, então [MASK] não teve mais que trocar fraldas.
+[MASK]
+Megan, Katrina
+Katrina
+
+Megan recebeu flores de Carrie porque [MASK] queria convidá-los para um encontro.
+[MASK]
+Megan, Carrie
+Carrie
+
+Megan deu flores para Carrie porque [MASK] queria convidá-las para um encontro.
+[MASK]
+Megan, Carrie
+Megan
+
+Esvaziar a caixa de areia era uma tarefa terrível para Adam, enquanto Lawrence não se importava em fazer isso. [MASK] nunca tentei fazer alguém lidar com isso.
+[MASK]
+Adão, Lawrence
+Lawrence
+
+Esvaziar a caixa de areia era uma tarefa terrível para Adam, enquanto Lawrence não se importava em fazer isso. [MASK] sempre tentei conseguir alguém para lidar com isso.
+[MASK]
+Adão, Lawrence
+Adão
+
+Matthew passou o fim de semana cuidando de um bebê enquanto Benjamin estava de férias e [MASK] garantiu que as férias fossem relaxantes.
+[MASK]
+Mateus, Benjamin
+Benjamin
+
+Matthew passou o fim de semana cuidando de um bebê enquanto Benjamin estava de férias e [MASK] garantiu que o bebê fosse alimentado.
+[MASK]
+Mateus, Benjamin
+Mateus
+
+Kevin achou mais fácil correr a maratona do que Dennis. [MASK] repetidamente pretendia parar de fumar.
+[MASK]
+Kevin, Dennis
+Dennis
+
+Kevin achou mais fácil correr a maratona do que Dennis. [MASK] finalmente decidiu parar de fumar.
+[MASK]
+Kevin, Dennis
+Kevin
+
+Lawrence planejou roubar a valiosa pintura de Michael, porque [MASK] finalmente possuía algo bonito.
+[MASK]
+Lawrence, Michael
+Michael
+
+Lawrence planejou roubar a valiosa pintura de Michael, porque [MASK] queria ter algo bonito.
+[MASK]
+Lawrence, Michael
+Lawrence
+
+Jordan deu a seu cavalo em miniatura um campo e um celeiro para ficar, e o cavalo gostava mais de [MASK] quando estava quente.
+[MASK]
+crianças, campo
+campo
+
+Jordan deu a seu cavalo em miniatura um campo e um celeiro para ficar, e o cavalo gostava mais de [MASK] quando estava frio.
+[MASK]
+crianças, campo
+crianças
+
+A ideia foi dada a Steven para refletir e não a Ryan porque [MASK] é mais criativo.
+[MASK]
+Steven, Ryan
+Steven
+
+A ideia foi dada a Steven para refletir e não a Ryan porque [MASK] é menos criativo.
+[MASK]
+Steven, Ryan
+Ryan
+
+Michael comprou larvas de farinha como ração, mas não Kenneth, porque [MASK] teve um pônei como animal de estimação.
+[MASK]
+Michael, Kenneth
+Kenneth
+
+Michael comprou larvas de farinha como ração para animais de estimação, mas não Kenneth porque [MASK] tinha um lagarto como animal de estimação.
+[MASK]
+Michael, Kenneth
+Michael
+
+A exaustiva discussão foi seguida por uma palestra animada. O [MASK] foi tão chato.
+[MASK]
+discussão, lendo
+discussão
+
+A exaustiva discussão foi seguida por uma palestra animada. O [MASK] foi tão interessante.
+[MASK]
+discussão, lendo
+lendo
+
+Lawrence ficou mais grato pelo presente deles do que Benjamin pelo deles, porque [MASK] havia recebido muito mais.
+[MASK]
+Lawrence, Benjamin
+Lawrence
+
+Lawrence ficou mais grato pelo presente deles do que Benjamin pelo deles, porque [MASK] havia recebido muito menos.
+[MASK]
+Lawrence, Benjamin
+Benjamin
+
+Mary está enviando um pacote importante para Sarah, então [MASK] pega no correio.
+[MASK]
+Maria, Sarah
+Sarah
+
+Maria está enviando um pacote importante para Sarah, então [MASK] o leva ao correio.
+[MASK]
+Maria, Sarah
+Maria
+
+Craig se ofereceu para ajudar os alunos disléxicos da escola enquanto Joel os evitava, já que [MASK] tinha dificuldades para ler.
+[MASK]
+Craig, Joel
+Joel
+
+Craig se ofereceu para ajudar os alunos disléxicos da escola enquanto Joel os evitava, já que [MASK] adorava ler.
+[MASK]
+Craig, Joel
+Craig
+
+Sarah assistiu às aulas de discurso de Mary; quando ela passou no exame final, [MASK] comemorou com sorvete.
+[MASK]
+Sarah, Maria
+Sarah
+
+Sarah deu aula de discurso de Mary; quando ela passou no exame final, [MASK] comemorou com sorvete.
+[MASK]
+Sarah, Maria
+Maria
+
+Joseph decidiu escovar seu cachorro na sala de espera, ao contrário de Leslie, então [MASK] teve o cachorro limpador.
+[MASK]
+Joseph, Leslie
+Joseph
+
+Joseph decidiu escovar seu cachorro na sala de espera, ao contrário de Leslie, então [MASK] teve o cachorro mais sujo.
+[MASK]
+Joseph, Leslie
+Leslie
+
+A mulher queria pendurar o vestido no armário, mas o [MASK] era muito grande.
+[MASK]
+armário de roupa, vestir
+vestir
+
+A mulher queria pendurar o vestido no armário, mas o [MASK] era muito pequeno.
+[MASK]
+armário de roupa, vestir
+armário de roupa
+
+Ian não viu o tumor na perna de Brett, porque [MASK] estava apenas fazendo um exame de vista.
+[MASK]
+Ian, Brett
+Brett
+
+Ian não viu o tumor na perna de Brett, porque [MASK] estava apenas fazendo um exame de vista.
+[MASK]
+Ian, Brett
+Ian
+
+As pedras reunidas no saco superam as moedas coletadas porque os [MASK] são pequenos em número.
+[MASK]
+pedras, moedas
+moedas
+
+As pedras reunidas no saco superam as moedas coletadas porque os [MASK] são numerosos.
+[MASK]
+pedras, moedas
+pedras
+
+Samuel sabia reciclar latas de alumínio, mas não Logan porque [MASK] nunca precisou de trocas extras.
+[MASK]
+Samuel, Logan
+Logan
+
+Samuel sabia reciclar latas de alumínio, mas não Logan porque [MASK] estava sempre precisando de uma troca extra.
+[MASK]
+Samuel, Logan
+Samuel
+
+Jessica usou a marca de luxo para lavar o cabelo em vez da marca genérica. A marca [MASK] deixou seu cabelo lindo.
+[MASK]
+luxo, genérico
+luxo
+
+Jessica usou a marca de luxo para lavar o cabelo em vez da marca genérica. A marca [MASK] deixou o cabelo dela feio.
+[MASK]
+luxo, genérico
+genérico
+
+Rachel tinha um cachorro, mas o cachorro de Cynthia foi dado para adoção recentemente, então [MASK] deu a eles sua velha guia.
+[MASK]
+Rachel, Cynthia
+Cynthia
+
+Rachel tinha um cachorro, mas o cachorro de Cynthia foi dado para adoção recentemente, então [MASK] recebeu sua velha guia.
+[MASK]
+Rachel, Cynthia
+Rachel
+
+John disse que preferia a cobertura de chocolate à cobertura de limão porque o [MASK] tinha um gosto bom.
+[MASK]
+chocolate, limão
+chocolate
+
+John disse que preferia a cobertura de chocolate à cobertura de limão porque o [MASK] tinha um gosto ruim.
+[MASK]
+chocolate, limão
+limão
+
+Betty é conhecida como bilíngue, enquanto Rachel é conhecida como multilíngue, porque [MASK] só fala duas línguas.
+[MASK]
+Betty, Rachel
+Betty
+
+Betty é conhecida como bilíngue, enquanto Rachel é conhecida como multilíngue porque [MASK] pode falar mais de dois idiomas.
+[MASK]
+Betty, Rachel
+Rachel
+
+durante as férias ficamos no hotel 3 estrelas e não no hotel 5 estrelas porque os [MASK] estavam lotados.
+[MASK]
+3 estrelas, 5 estrelas
+5 estrelas
+
+durante as férias ficamos no hotel 3 estrelas e não no hotel 5 estrelas porque os [MASK] estavam disponíveis.
+[MASK]
+3 estrelas, 5 estrelas
+3 estrelas
+
+O ladrão conseguia ser furtivo nas botas, mas não nas sandálias, porque as [MASK] eram feitas de material superior.
+[MASK]
+sandálias, chuteiras
+chuteiras
+
+O ladrão conseguia ser furtivo nas botas, mas não nas sandálias, pois as [MASK] eram de material inferior.
+[MASK]
+sandálias, chuteiras
+sandálias
+
+A colcha que Margot estava fazendo ocupava todo o armário, porque o [MASK] era enorme.
+[MASK]
+colcha, armário de roupa
+colcha
+
+A colcha que Margot estava fazendo ocupava todo o armário, porque o [MASK] era minúsculo.
+[MASK]
+colcha, armário de roupa
+armário de roupa
+
+Você vai doar sua contribuição de caridade para a igreja ou escola? Acho que vou dar o meu para os [MASK] porque eles precisam de novos bancos.
+[MASK]
+escola, Igreja
+Igreja
+
+Você vai doar sua contribuição de caridade para a igreja ou escola? Acho que vou dar o meu para os [MASK] porque eles precisam de novos computadores.
+[MASK]
+escola, Igreja
+escola
+
+O carvalho resistiu à tempestade, mas a muda morreu. Isso porque a árvore [MASK] era muito mais frágil.
+[MASK]
+carvalho, muda
+muda
+
+O carvalho resistiu à tempestade, mas a muda morreu. Isso porque a árvore [MASK] era muito mais resistente.
+[MASK]
+carvalho, muda
+carvalho
+
+Benjamin tinha um senso de humor mais juvenil do que Donald, então [MASK] odiava almofadas whoopie.
+[MASK]
+Benjamin, Donald
+Donald
+
+Benjamin tinha um senso de humor mais juvenil do que Donald, então [MASK] gostava de almofadas vibrantes.
+[MASK]
+Benjamin, Donald
+Benjamin
+
+Comer doces era um grande problema para Carrie, mas não para Rebecca, por isso [MASK] tem uma cintura fina.
+[MASK]
+Carrie, Rebecca
+Rebecca
+
+Comer doces era um grande problema para Carrie, mas não para Rebecca, por isso [MASK] tem uma cintura grande.
+[MASK]
+Carrie, Rebecca
+Carrie
+
+O terreno ao redor da casa de Michael era sólido ao contrário da casa de Aaron porque [MASK] teve uma chuva que durou um mês.
+[MASK]
+Michael, Aaron
+Aaron
+
+O terreno ao redor da casa de Michael era sólido ao contrário da casa de Aaron porque [MASK] teve um mês de seca.
+[MASK]
+Michael, Aaron
+Michael
+
+Megan inseriu um intravenoso no braço de Sarah assim que elas foram internadas no hospital, porque [MASK] era enfermeira.
+[MASK]
+Megan, Sarah
+Megan
+
+Megan inseriu um tubo intravenoso no braço de Sarah assim que foram internadas no hospital, porque [MASK] estava desidratado.
+[MASK]
+Megan, Sarah
+Sarah
+
+Estava chovendo forte e o chapéu encharcou. A cor começou a se misturar. Sua mãe disse que o [MASK] era feio de qualquer maneira e tinha muitos chapéus.
+[MASK]
+Tem, cor
+cor
+
+Estava chovendo forte e o chapéu encharcou. A cor começou a se misturar. Sua mãe disse que o [MASK] era feio de qualquer maneira porque tinha muitas cores.
+[MASK]
+Tem, cor
+Tem
+
+O quarto teve que ter a cômoda substituída pelo novo armário, já que o [MASK] estava lotado para todas as roupas novas.
+[MASK]
+escritório, armário de roupa
+escritório
+
+O quarto teve que ter a cômoda substituída pelo novo armário, já que o [MASK] era muito espaçoso para todas as roupas novas.
+[MASK]
+escritório, armário de roupa
+armário de roupa
+
+O chef tentou colocar a banana no bolo, mas o [MASK] estava muito grande.
+[MASK]
+bolo, banana
+banana
+
+O chef tentou colocar a banana no bolo, mas o [MASK] era muito pequeno.
+[MASK]
+bolo, banana
+bolo
+
+Brett estava mais preparado para ser pai do que Aaron porque [MASK] passava muito tempo com crianças.
+[MASK]
+Brett, Aaron
+Brett
+
+Brett estava mais preparado para ser pai do que Aaron porque [MASK] passava muito pouco tempo com os filhos.
+[MASK]
+Brett, Aaron
+Aaron
+
+Patricia escolheu um cultivar resistente para crescer ao contrário de Tanya porque [MASK] tinha solo muito fértil.
+[MASK]
+Patricia, Pergunte
+Pergunte
+
+Patricia escolheu um cultivar resistente para crescer ao contrário de Tanya porque [MASK] tinha solo muito rochoso.
+[MASK]
+Patricia, Pergunte
+Patricia
+
+Donna preferia ler no local de trabalho do que em casa, porque o [MASK] era muito barulhento.
+[MASK]
+casa, ambiente de trabalho
+casa
+
+Donna preferia fazer a leitura no local de trabalho do que em casa, porque o [MASK] era mais tranquilo.
+[MASK]
+casa, ambiente de trabalho
+ambiente de trabalho
+
+Donald convidou Brett para ir a Paris porque [MASK] sabia falar perfeitamente a língua nativa.
+[MASK]
+Donald, Brett
+Brett
+
+Donald convidou Brett para ir a Paris porque [MASK] não sabia falar a língua nativa.
+[MASK]
+Donald, Brett
+Donald
+
+Michael descobriu que Craig era um médico respeitado, então [MASK] foi questionado sobre muitas questões relacionadas à saúde.
+[MASK]
+Michael, Craig
+Craig
+
+Michael descobriu que Craig era um médico respeitado, então [MASK] fez-lhe muitas perguntas relacionadas à saúde.
+[MASK]
+Michael, Craig
+Michael
+
+Glenda sempre dirigia a perua à noite em vez do esportivo, porque o [MASK] tinha faróis mais escuros.
+[MASK]
+perua, carro esporte
+carro esporte
+
+Glenda sempre dirigia a perua à noite em vez do esportivo, porque o [MASK] tinha faróis mais fortes.
+[MASK]
+perua, carro esporte
+perua
+
+Ryan atropelou a cobaia de Ian com seu carro, fazendo com que [MASK] sentisse muita dor.
+[MASK]
+Ryan, Ian
+Ian
+
+Ryan atropelou a cobaia de Ian com seu carro, fazendo com que [MASK] se sentisse muito culpado.
+[MASK]
+Ryan, Ian
+Ryan
+
+Foi mais fácil evitar que o poste caísse do que a viga, porque o [MASK] era pesado.
+[MASK]
+trave, postar
+trave
+
+Foi mais fácil evitar que o poste caísse do que a viga, porque o [MASK] era leve.
+[MASK]
+trave, postar
+postar
+
+Foi fácil para Joel, mas não para Kevin, se divertir no acampamento porque [MASK] não havia aprendido a aproveitar o ar livre.
+[MASK]
+Joel, Kevin
+Kevin
+
+Foi fácil para Joel, mas não para Kevin, se divertir no acampamento porque [MASK] aprendeu desde cedo como aproveitar o ar livre.
+[MASK]
+Joel, Kevin
+Joel
+
+Dennis tinha um nível de testosterona muito mais alto do que Christopher, então [MASK] começou a se preocupar em poder ter filhos.
+[MASK]
+Dennis, Christopher
+Christopher
+
+Dennis tinha um nível de testosterona muito mais alto do que Christopher, então [MASK] não precisava se preocupar em ter filhos.
+[MASK]
+Dennis, Christopher
+Dennis
+
+A habilidade de estudar francês foi mais fácil para Ângela do que para Samantha porque [MASK] tinha um forte background linguístico.
+[MASK]
+Angela, Samantha
+Angela
+
+A habilidade de estudar francês foi mais fácil para Ângela do que para Samantha porque [MASK] não tinha uma boa formação linguística.
+[MASK]
+Angela, Samantha
+Samantha
+
+O taco de sinuca usado por Emily no salão de bilhar estava coberto com mais giz do que o usado por Betty; conseqüentemente, [MASK] era praticamente perfeito ao quebrar.
+[MASK]
+Emily, Betty
+Emily
+
+O taco de sinuca usado por Emily no salão de bilhar estava coberto com mais giz do que o usado por Betty; conseqüentemente, [MASK] era praticamente incompetente ao quebrar.
+[MASK]
+Emily, Betty
+Betty
+
+Katrina adora o sabor da alface, mas Angela não. [MASK] pediu uma salada grande para o jantar.
+[MASK]
+Katrina, Angela
+Katrina
+
+Katrina adora o sabor da alface, mas Angela não. [MASK] pediu um grande bife para o jantar.
+[MASK]
+Katrina, Angela
+Angela
+
+Jason abordou Steven para entregar a intimação oficial e a intimação do tribunal, porque [MASK] era empregado como servidor de processo.
+[MASK]
+Jason, Steven
+Jason
+
+Jason abordou Steven para entregar a intimação oficial e a intimação do tribunal, porque [MASK] estava sendo processado.
+[MASK]
+Jason, Steven
+Steven
+
+A mãe sempre consultou um livro para a gravidez porque o [MASK] foi muito informativo.
+[MASK]
+gravidez, livro
+livro
+
+A mãe sempre consultava um livro para a gravidez porque o [MASK] era muito difícil.
+[MASK]
+gravidez, livro
+gravidez
+
+Quando Manny comprou uma nova cama de cachorro para a gaiola, ele ficou desapontado quando tentou colocá-la. O [MASK] era muito pequeno.
+[MASK]
+cama de cachorro, cela
+cela
+
+Quando Manny comprou uma nova cama de cachorro para a gaiola, ele ficou desapontado quando tentou colocá-la. O [MASK] era muito grande.
+[MASK]
+cama de cachorro, cela
+cama de cachorro
+
+Natalie ajudou Monica a entrar em um programa de tratamento, depois que [MASK] contou sobre seu vício em drogas.
+[MASK]
+Natalie, Monica
+Monica
+
+Natalie ajudou Monica a entrar em um programa de tratamento, depois que [MASK] ouviu falar de seu vício em drogas.
+[MASK]
+Natalie, Monica
+Natalie
+
+Nelson foi ao consultório médico sem Dennis porque [MASK] teve que mudar sua receita.
+[MASK]
+Nelson, Dennis
+Nelson
+
+Nelson foi ao consultório médico sem Dennis porque [MASK] teve que trocar o óleo do motor.
+[MASK]
+Nelson, Dennis
+Dennis
+
+O cavalo prefere o pasto ao celeiro porque há menos espaço no [MASK] para o cavalo se esticar.
+[MASK]
+pasto, crianças
+crianças
+
+O cavalo prefere o pasto ao celeiro porque há mais espaço no [MASK] para o cavalo se esticar.
+[MASK]
+pasto, crianças
+pasto
+
+Ela nunca foi capaz de usar rolos de cílios nos cílios porque os [MASK] são muito grandes.
+[MASK]
+cílios, bobes
+bobes
+
+Ela nunca foi capaz de usar enrolador de cílios nos cílios porque os [MASK] são muito finos.
+[MASK]
+cílios, bobes
+cílios
+
+Ian pediu a Kevin que ajudasse com os impostos porque [MASK] era um contador bem-sucedido e treinado.
+[MASK]
+Ian, Kevin
+Kevin
+
+Ian foi convidado por Kevin para ajudar com seus impostos porque [MASK] era um contador bem-sucedido e treinado.
+[MASK]
+Ian, Kevin
+Ian
+
+As ressacas são muito ruins, mas não são tão ruins quanto as enxaquecas, porque os [MASK] passam rápido.
+[MASK]
+ressacas, enxaquecas
+ressacas
+
+As ressacas são muito ruins, mas não são tão ruins quanto as enxaquecas, porque o [MASK] dura um pouco.
+[MASK]
+ressacas, enxaquecas
+enxaquecas
+
+Como Jennifer precisava de roupas enquanto Natalie tinha roupas extras, [MASK] comprou roupas no brechó.
+[MASK]
+Jennifer, Natalie
+Jennifer
+
+Como Jennifer precisava de roupas enquanto Natalie tinha roupas extras, [MASK] deu roupas para o brechó.
+[MASK]
+Jennifer, Natalie
+Natalie
+
+Ele descobriu que tinha fermento em pó para o bolo, mas pediu bicarbonato de sódio emprestado de seu vizinho, pois o [MASK] estava cheio.
+[MASK]
+refrigerante, em pó
+em pó
+
+Ele descobriu que tinha fermento em pó para o bolo, mas pediu bicarbonato de sódio emprestado de seu vizinho, pois o [MASK] estava vazio.
+[MASK]
+refrigerante, em pó
+refrigerante
+
+Justin era muito bom em tocar guitarra, ao contrário de Craig, porque [MASK] era muito musical.
+[MASK]
+Justin, Craig
+Justin
+
+Justin era muito bom em tocar guitarra, ao contrário de Craig, porque [MASK] era muito esportivo.
+[MASK]
+Justin, Craig
+Craig
+
+Sheila não verificou a temperatura da chapinha antes de alisar o cabelo. O [MASK] estava frito.
+[MASK]
+ferro, cabelo
+cabelo
+
+Sheila não verificou a temperatura da chapinha antes de alisar o cabelo. O [MASK] estava quente.
+[MASK]
+ferro, cabelo
+ferro
+
+Callie praticou dança mais do que violão, embora o recital na próxima semana fosse para o [MASK].
+[MASK]
+dançando, violão
+violão
+
+Callie praticava dança mais do que violão porque o recital da próxima semana era para o [MASK].
+[MASK]
+dançando, violão
+dançando
+
+O cabelo do cachorro teve que ser removido após ficar preso na lama porque o [MASK] estava limpo.
+[MASK]
+lama, cabelo
+cabelo
+
+O cabelo do cachorro teve que ser removido depois que ficou preso na lama porque o [MASK] era nojento.
+[MASK]
+lama, cabelo
+lama
+
+O terrorismo era uma preocupação no campo, mas dificilmente um problema na cidade, pois os [MASK] tinham muita paz entre as pessoas.
+[MASK]
+campo, cidade
+cidade
+
+O terrorismo era uma preocupação no campo, mas dificilmente um problema na cidade, já que os [MASK] tinham muitos conflitos entre as pessoas.
+[MASK]
+campo, cidade
+campo
+
+Jason era careca, mas Hunter tinha cabelos cheios, então [MASK] não precisou comprar gel de cabelo.
+[MASK]
+Jason, Caçador
+Jason
+
+Jason era careca, mas Hunter tinha cabelos cheios, então [MASK] precisava comprar gel de cabelo.
+[MASK]
+Jason, Caçador
+Caçador
+
+O cabelo não funcionava em um coque, mas ficava ótimo em um rabo de cavalo. O [MASK] era feio.
+[MASK]
+Boa, rabo de cavalo
+Boa
+
+O cabelo não funcionava em um coque, mas ficava ótimo em um rabo de cavalo. O [MASK] foi fofo.
+[MASK]
+Boa, rabo de cavalo
+rabo de cavalo
+
+vão demorar o dia inteiro para separar os palitos curtos, os longos duraram apenas algumas horas, os [MASK] são visíveis.
+[MASK]
+longo, curto
+longo
+
+vão demorar o dia inteiro para separar os palitos curtos, os longos duram apenas algumas horas, os [MASK] são imperceptíveis.
+[MASK]
+longo, curto
+curto
+
+As nuvens evocavam grande medo nas pessoas, enquanto o céu claro as acalmava, porque os [MASK] eram muito agourentos.
+[MASK]
+nuvens, céus
+nuvens
+
+As nuvens evocavam grande medo nas pessoas, enquanto o céu claro as acalmava, porque os [MASK] eram muito reconfortantes.
+[MASK]
+nuvens, céus
+céus
+
+A doença era muito contagiosa. Suas roupas e casas tiveram que ser queimadas. O [MASK] estava irregular.
+[MASK]
+casas, roupas
+roupas
+
+A doença era muito contagiosa. Suas roupas e casas tiveram que ser queimadas. Os [MASK] eram enormes.
+[MASK]
+casas, roupas
+casas
+
+Dina deu iogurte aos filhos em vez de sorvete porque achava que o [MASK] era saudável.
+[MASK]
+iogurte, sorvete
+iogurte
+
+Dina deu iogurte aos filhos em vez de sorvete porque ela achava que [MASK] não era saudável.
+[MASK]
+iogurte, sorvete
+sorvete
+
+Heather comprou uma boneca para as filhas do berço a boneca não cabia, o [MASK] era muito pequeno.
+[MASK]
+berço, boneca
+berço
+
+Heather comprou uma boneca para as filhas do berço a boneca não cabia, o [MASK] era muito grande.
+[MASK]
+berço, boneca
+boneca
+
+Eles precisam atualizar seus armários de cozinha depois de comprar mais pratos porque os [MASK] são excessivos.
+[MASK]
+armários, pratos
+pratos
+
+Eles precisam atualizar seus armários de cozinha depois de comprar mais pratos porque os [MASK] são pequenos.
+[MASK]
+armários, pratos
+armários
+
+Como Robert estava sofrendo de queda de cabelo e Brian não, [MASK] estava com ciúmes de seu cabelo.
+[MASK]
+Robert, Brian
+Robert
+
+Embora Robert estivesse sofrendo de queda de cabelo e Brian não, [MASK] estava com ciúmes de seu cabelo.
+[MASK]
+Robert, Brian
+Brian
+
+Ela queria fazer um rolo de papel higiênico borboleta usando o tubo do rolo e tinta, mas não conseguiu terminar porque o [MASK] era muito escasso.
+[MASK]
+pintura, tubo
+pintura
+
+Ela queria fazer uma borboleta em rolo de papel higiênico usando o tubo do rolo e tinta, mas não conseguiu terminar porque o [MASK] era muito grande.
+[MASK]
+pintura, tubo
+tubo
+
+Lawrence limpou a entrada de automóveis deles após a tempestade de neve enquanto Aaron evitava fazer isso, então [MASK] tinha uma entrada de automóveis que estava coberta de neve.
+[MASK]
+Lawrence, Aaron
+Aaron
+
+Lawrence limpou a entrada de automóveis deles após a tempestade de neve enquanto Aaron evitava fazer isso, então [MASK] tinha um caminho sem neve.
+[MASK]
+Lawrence, Aaron
+Lawrence
+
+Cathy sentia um vínculo mais forte com seu cachorro do que com seu gato porque seu [MASK] era muito indiferente.
+[MASK]
+gato, cachorro
+gato
+
+Cathy sentia um vínculo mais forte com seu cachorro do que com seu gato porque seu [MASK] era muito afetuoso.
+[MASK]
+gato, cachorro
+cachorro
+
+Patricia sempre tinha que limpar depois de Ângela, porque [MASK] não se importava em viver na sujeira.
+[MASK]
+Patricia, Angela
+Angela
+
+Patricia sempre tinha que limpar depois de Ângela, porque [MASK] não queria viver na sujeira.
+[MASK]
+Patricia, Angela
+Patricia
+
+Michael pediu ajuda a Brett para mover uma mesa. [MASK] não teria conseguido fazer sozinho.
+[MASK]
+Michael, Brett
+Michael
+
+Michael pediu ajuda a Brett para mover uma mesa. [MASK] não teria sido capaz de fazer isso sozinho também.
+[MASK]
+Michael, Brett
+Brett
+
+Jennifer gostava de fumar maconha, mas Laura gosta de fumar charutos. [MASK] acabou na prisão local por fumar sua coisa favorita em público.
+[MASK]
+Jennifer, Laura
+Jennifer
+
+Jennifer gostava de fumar maconha, mas Laura gosta de fumar charutos. [MASK] evitou a prisão local por fumar sua coisa favorita em público.
+[MASK]
+Jennifer, Laura
+Laura
+
+Jeffrey acreditava que Robert o estava espionando durante o evento privado, porque [MASK] era sorrateiro.
+[MASK]
+Jeffrey, Robert
+Robert
+
+Jeffrey acreditava que Robert o estava espionando durante o evento privado, porque [MASK] estava paranóico.
+[MASK]
+Jeffrey, Robert
+Jeffrey
+
+Frank visitou o banco para conseguir um empréstimo para comprar um carro novo, e o [MASK] estava muito cético.
+[MASK]
+empréstimo, carro
+empréstimo
+
+Frank foi ao banco para conseguir um empréstimo para comprar um carro novo, e o [MASK] foi muito ousado.
+[MASK]
+empréstimo, carro
+carro
+
+Christopher precisa do conselho de Ian sobre como criar uma atmosfera positiva na sala de aula, porque [MASK] é um novo professor.
+[MASK]
+Christopher, Ian
+Christopher
+
+Christopher precisa do conselho de Ian sobre como criar uma atmosfera positiva na sala de aula, porque [MASK] é um professor experiente.
+[MASK]
+Christopher, Ian
+Ian
+
+Emily estava tendo dificuldade para passar pela puberdade, mas Christine não porque [MASK] tinha acne muito fraca causando hormônios.
+[MASK]
+Emily, Christine
+Christine
+
+Emily estava tendo dificuldade para passar pela puberdade, mas Christine não, porque [MASK] tinha acne muito forte, causando hormônios.
+[MASK]
+Emily, Christine
+Emily
+
+Hunter gosta de tulipas e Ryan não, então [MASK] foi comprar algumas na loja.
+[MASK]
+Caçador, Ryan
+Caçador
+
+Hunter gosta de tulipas e Ryan não, então [MASK] se recusou a comprar algumas na loja.
+[MASK]
+Caçador, Ryan
+Ryan
+
+Victoria decidiu escolher a remessa expressa, enquanto Katrina não, então [MASK] recebeu seu pedido por último.
+[MASK]
+Victoria, Katrina
+Katrina
+
+Victoria decidiu escolher o frete expresso, enquanto Katrina não, então [MASK] recebeu seu pedido primeiro.
+[MASK]
+Victoria, Katrina
+Victoria
+
+O tutor era mais adequado para estudos de inglês do que o professor, já que [MASK] era um professor eficaz.
+[MASK]
+tutor, professor
+tutor
+
+O tutor era mais adequado para estudos de inglês do que o professor, já que [MASK] era um professor inadequado.
+[MASK]
+tutor, professor
+professor
+
+Victoria estava mais na moda do que Elena porque [MASK] sempre se preocupou em deixar caspa em suas camisas.
+[MASK]
+Victoria, Elena
+Elena
+
+Victoria estava mais na moda do que Elena, mas [MASK] sempre se preocupou em deixar caspa em suas camisas.
+[MASK]
+Victoria, Elena
+Victoria
+
+Carrie precisava estar vigilante sobre sua saúde óssea, que Natalie se preocupa desde que [MASK] está preocupada.
+[MASK]
+Carrie, Natalie
+Natalie
+
+Carrie precisava estar vigilante sobre sua saúde óssea, que Natalie se preocupa já que [MASK] é idosa.
+[MASK]
+Carrie, Natalie
+Carrie
+
+As ondas destruíram a garagem, mas deixaram a casa intacta porque o [MASK] estava muito longe da costa.
+[MASK]
+garagem, casa
+casa
+
+As ondas destruíram a garagem, mas deixaram a casa intacta porque o [MASK] estava muito perto da costa.
+[MASK]
+garagem, casa
+garagem
+
+O estudante de ciências tentou usar o telescópio para ver a galáxia, mas o [MASK] estava muito longe.
+[MASK]
+galáxia, telescópio
+galáxia
+
+O estudante de ciências tentou usar o telescópio para ver a galáxia, mas o [MASK] estava muito fraco.
+[MASK]
+galáxia, telescópio
+telescópio
+
