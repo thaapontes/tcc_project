@@ -1,5 +1,5 @@
 import unittest
-from adapters import replace_last_pronoun, adapt_json_to_txt
+from adapters import replace_last_pronoun, adapt_sample_json_to_txt
 
 
 class TestReplaceLastPronoun(unittest.TestCase):
